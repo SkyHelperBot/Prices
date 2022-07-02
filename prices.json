@@ -620,7 +620,7 @@
     "name": "Second Master Star"
   },
   "dragon_horn": {
-    "price": 8935000,
+    "price": 8934999,
     "name": "Dragon Horn"
   },
   "treecapitator_axe": {
@@ -1064,7 +1064,7 @@
     "name": "Reaper Mask"
   },
   "giant_tooth": {
-    "price": 519998,
+    "price": 520000,
     "name": "Giant Tooth"
   },
   "enchanted_hopper": {
@@ -1360,7 +1360,7 @@
     "name": "Strong Dragon Leggings"
   },
   "amber_material": {
-    "price": 2234923,
+    "price": 2234922,
     "name": "Amber Material"
   },
   "lvl_1_legendary_turtle": {
@@ -1568,7 +1568,7 @@
     "name": "Ember Rod"
   },
   "spirit_decoy": {
-    "price": 1490119,
+    "price": 1499999,
     "name": "Spirit Stone"
   },
   "ultimate_jerry_5": {
@@ -1648,7 +1648,7 @@
     "name": "Chestplate Of Divan"
   },
   "precursor_gear": {
-    "price": 790416,
+    "price": 790417,
     "name": "Precursor Gear"
   },
   "lvl_100_legendary_black_cat": {
@@ -2004,7 +2004,7 @@
     "name": "Ender Slayer 6"
   },
   "dragon_claw": {
-    "price": 534575,
+    "price": 534574,
     "name": "Dragon Claw"
   },
   "grappling_hook": {
@@ -2080,7 +2080,7 @@
     "name": "Vicious 3"
   },
   "hot_stuff": {
-    "price": 55997,
+    "price": 55996,
     "name": "Hot Stuff"
   },
   "pet_item_farming_skill_boost_epic": {
@@ -3060,7 +3060,7 @@
     "name": "Miner Boots"
   },
   "premium_flesh": {
-    "price": 2,
+    "price": 3,
     "name": "Premium Flesh"
   },
   "lvl_100_epic_phoenix": {
@@ -3727,6 +3727,10 @@
     "price": 46500000,
     "name": "Enderman"
   },
+  "lvl_100_mythic_enderman_skin_enderman_xenon_candy_5": {
+    "price": 39999999,
+    "name": "Enderman"
+  },
   "golem_armor_chestplate": {
     "price": 200000,
     "name": "Golem Armor Chestplate"
@@ -3952,7 +3956,7 @@
     "name": "Sheep"
   },
   "salmon_opal": {
-    "price": 1899,
+    "price": 1720,
     "name": "Salmon Opal"
   },
   "pet_item_fishing_skill_boost_common": {
@@ -4060,7 +4064,7 @@
     "name": "Pigman"
   },
   "candy_corn": {
-    "price": 819,
+    "price": 818,
     "name": "Candy Corn"
   },
   "thunderlord_6": {
@@ -4228,7 +4232,7 @@
     "name": "Ammonite"
   },
   "blessed_fruit": {
-    "price": 1116500,
+    "price": 1116499,
     "name": "Blessed Fruit"
   },
   "lvl_1_legendary_squid": {
@@ -4740,7 +4744,7 @@
     "name": "Blaze"
   },
   "aote_stone": {
-    "price": 4999990,
+    "price": 4999989,
     "name": "Warped Stone"
   },
   "pet_item_lucky_clover": {
@@ -5547,10 +5551,6 @@
     "price": 999000,
     "name": "Jasper Power Scroll"
   },
-  "bingo_card": {
-    "price": 42000000,
-    "name": "Bingo Card (bingo #2)"
-  },
   "recluse_fang": {
     "price": 70000,
     "name": "Recluse Fang"
@@ -5593,6 +5593,10 @@
   },
   "lvl_100_legendary_bal": {
     "price": 23989900,
+    "name": "Bal"
+  },
+  "lvl_100_legendary_bal_skin_bal_inferno": {
+    "price": 39500000,
     "name": "Bal"
   },
   "etherwarp_merger": {
@@ -10976,7 +10980,7 @@
     "name": "Dolphin"
   },
   "hot_potato_book": {
-    "price": 45553,
+    "price": 45708,
     "name": "Hot Potato Book"
   },
   "lvl_100_legendary_magma_cube_candy_4": {
@@ -13708,7 +13712,7 @@
     "name": "Lime Crab Hat Of Celebration - 2022 Edition"
   },
   "summoning_eye": {
-    "price": 747991,
+    "price": 743691,
     "name": "Summoning Eye"
   },
   "alert_flare": {
@@ -13815,12 +13819,40 @@
     "price": 1000000,
     "name": "Scarleton Premium"
   },
+  "pet_skin_bal_inferno": {
+    "price": 14500000,
+    "name": "Inferno Bal Skin"
+  },
+  "lvl_1_common_chicken_skinned_chicken_baby_chick": {
+    "price": 39000000,
+    "name": "Common Chicken"
+  },
+  "lvl_100_epic_guardian_skinned_guardian": {
+    "price": 200000000,
+    "name": "Guardian"
+  },
+  "lvl_1_epic_enderman_skinned_enderman_neon": {
+    "price": 5800000,
+    "name": "Enderman"
+  },
+  "jungle_door_item": {
+    "price": 10,
+    "name": "Jungle Door"
+  },
+  "lvl_1_epic_phoenix_skinned_phoenix_ice": {
+    "price": 15000000,
+    "name": "Phoenix"
+  },
+  "carrot_stick": {
+    "price": 10,
+    "name": "Carrot On A Stick"
+  },
   "crimson_essence": {
     "price": 11250,
     "name": "Crimson Essence"
   },
   "ink_sack:4": {
-    "price": 2,
+    "price": 3,
     "name": "Lapis Lazuli"
   },
   "brown_mushroom": {
@@ -13840,11 +13872,11 @@
     "name": "Spooky Shard"
   },
   "exp_bottle": {
-    "price": 75,
+    "price": 74,
     "name": "Experience Bottle"
   },
   "enchanted_potato": {
-    "price": 356,
+    "price": 354,
     "name": "Enchanted Potato"
   },
   "jerry_box_green": {
@@ -13852,11 +13884,11 @@
     "name": "Green Jerry Box"
   },
   "enchanted_slime_ball": {
-    "price": 1998,
+    "price": 2066,
     "name": "Enchanted Slimeball"
   },
   "carrot_item": {
-    "price": 2,
+    "price": 3,
     "name": "Carrot"
   },
   "enchanted_red_mushroom": {
@@ -13864,7 +13896,7 @@
     "name": "Enchanted Red Mushroom"
   },
   "enchanted_golden_carrot": {
-    "price": 47392,
+    "price": 47434,
     "name": "Enchanted Golden Carrot"
   },
   "enchanted_rabbit_hide": {
@@ -13872,15 +13904,15 @@
     "name": "Enchanted Rabbit Hide"
   },
   "flawed_amethyst_gem": {
-    "price": 309,
+    "price": 317,
     "name": "Flawed Amethyst Gemstone"
   },
   "perfect_jade_gem": {
-    "price": 9373150,
+    "price": 9380000,
     "name": "Perfect Jade Gemstone"
   },
   "enchanted_sugar": {
-    "price": 338,
+    "price": 335,
     "name": "Enchanted Sugar"
   },
   "enchanted_birch_log": {
@@ -13896,11 +13928,11 @@
     "name": "Cactus"
   },
   "enchanted_melon": {
-    "price": 184,
+    "price": 185,
     "name": "Enchanted Melon"
   },
   "pumpkin": {
-    "price": 4,
+    "price": 5,
     "name": "Pumpkin"
   },
   "enchanted_blaze_rod": {
@@ -13916,7 +13948,7 @@
     "name": "Flawed Jasper Gemstone"
   },
   "enchanted_brown_mushroom": {
-    "price": 639,
+    "price": 640,
     "name": "Enchanted Brown Mushroom"
   },
   "enchanted_raw_salmon": {
@@ -13924,11 +13956,11 @@
     "name": "Enchanted Raw Salmon"
   },
   "goblin_egg_yellow": {
-    "price": 118439,
+    "price": 118438,
     "name": "Yellow Goblin Egg"
   },
   "flawed_amber_gem": {
-    "price": 367,
+    "price": 366,
     "name": "Flawed Amber Gemstone"
   },
   "nurse_shark_tooth": {
@@ -13948,7 +13980,7 @@
     "name": "Prismarine Shard"
   },
   "enchanted_emerald": {
-    "price": 1053,
+    "price": 1052,
     "name": "Enchanted Emerald"
   },
   "protector_fragment": {
@@ -13956,7 +13988,7 @@
     "name": "Protector Dragon Fragment"
   },
   "enchanted_spider_eye": {
-    "price": 795,
+    "price": 794,
     "name": "Enchanted Spider Eye"
   },
   "enchanted_melon_block": {
@@ -13964,15 +13996,15 @@
     "name": "Enchanted Melon Block"
   },
   "power_crystal": {
-    "price": 329999,
+    "price": 329998,
     "name": "Power Crystal"
   },
   "grand_exp_bottle": {
-    "price": 3235,
+    "price": 3233,
     "name": "Grand Experience Bottle"
   },
   "red_mushroom": {
-    "price": 3,
+    "price": 4,
     "name": "Red Mushroom"
   },
   "mutton": {
@@ -13996,11 +14028,11 @@
     "name": "Shark Fin"
   },
   "wise_fragment": {
-    "price": 21998,
+    "price": 21997,
     "name": "Wise Dragon Fragment"
   },
   "refined_mithril": {
-    "price": 320680,
+    "price": 324996,
     "name": "Refined Mithril"
   },
   "raw_fish": {
@@ -14032,11 +14064,11 @@
     "name": "Enchanted Netherrack"
   },
   "enchanted_hard_stone": {
-    "price": 1691,
+    "price": 1690,
     "name": "Enchanted Hard Stone"
   },
   "enchanted_huge_mushroom_1": {
-    "price": 22876,
+    "price": 22831,
     "name": "Enchanted Brown Mushroom Block"
   },
   "refined_diamond": {
@@ -14044,7 +14076,7 @@
     "name": "Refined Diamond"
   },
   "enchanted_cobblestone": {
-    "price": 534,
+    "price": 533,
     "name": "Enchanted Cobblestone"
   },
   "tightly_tied_hay_bale": {
@@ -14056,7 +14088,7 @@
     "name": "Enchanted Red Mushroom Block"
   },
   "pork": {
-    "price": 34,
+    "price": 38,
     "name": "Raw Porkchop"
   },
   "tiger_shark_tooth": {
@@ -14064,15 +14096,15 @@
     "name": "Tiger Shark Tooth"
   },
   "prismarine_crystals": {
-    "price": 5,
+    "price": 6,
     "name": "Prismarine Crystals"
   },
   "huge_mushroom_1": {
-    "price": 500,
+    "price": 499,
     "name": "Brown Mushroom Block"
   },
   "ice": {
-    "price": 3,
+    "price": 4,
     "name": "Ice"
   },
   "ice_bait": {
@@ -14080,7 +14112,7 @@
     "name": "Ice Bait"
   },
   "enchanted_snow_block": {
-    "price": 597,
+    "price": 594,
     "name": "Enchanted Snow Block"
   },
   "golden_tooth": {
@@ -14092,15 +14124,15 @@
     "name": "Red Mushroom Block"
   },
   "string": {
-    "price": 6,
+    "price": 4,
     "name": "String"
   },
   "hyper_catalyst": {
-    "price": 141597,
+    "price": 141236,
     "name": "Hyper Catalyst"
   },
   "rabbit_foot": {
-    "price": 249,
+    "price": 99,
     "name": "Rabbit's Foot"
   },
   "redstone": {
@@ -14120,15 +14152,15 @@
     "name": "Enchanted Carrot on a Stick"
   },
   "booster_cookie": {
-    "price": 3161792,
+    "price": 3161793,
     "name": "Booster Cookie"
   },
   "enchanted_cactus_green": {
-    "price": 1249,
+    "price": 1295,
     "name": "Enchanted Cactus Green"
   },
   "enchanted_lapis_lazuli_block": {
-    "price": 38248,
+    "price": 38247,
     "name": "Enchanted Lapis Block"
   },
   "enchanted_cookie": {
@@ -14136,7 +14168,7 @@
     "name": "Enchanted Cookie"
   },
   "enchanted_endstone": {
-    "price": 499,
+    "price": 500,
     "name": "Enchanted End Stone"
   },
   "enchanted_sand": {
@@ -14148,11 +14180,11 @@
     "name": "Colossal Experience Bottle"
   },
   "enchanted_string": {
-    "price": 1007,
+    "price": 1008,
     "name": "Enchanted String"
   },
   "strong_fragment": {
-    "price": 18748,
+    "price": 18747,
     "name": "Strong Dragon Fragment"
   },
   "slime_ball": {
@@ -14160,7 +14192,7 @@
     "name": "Slimeball"
   },
   "holy_fragment": {
-    "price": 2514,
+    "price": 2513,
     "name": "Holy Dragon Fragment"
   },
   "enchanted_acacia_log": {
@@ -14168,11 +14200,11 @@
     "name": "Enchanted Acacia Wood"
   },
   "snow_ball": {
-    "price": 0,
+    "price": 1,
     "name": "Snowball"
   },
   "soul_fragment": {
-    "price": 991886,
+    "price": 1250000,
     "name": "Soul Fragment"
   },
   "flawed_ruby_gem": {
@@ -14180,11 +14212,11 @@
     "name": "Flawed Ruby Gemstone"
   },
   "sand": {
-    "price": 4,
+    "price": 6,
     "name": "Sand"
   },
   "enchanted_egg": {
-    "price": 2383,
+    "price": 2382,
     "name": "Enchanted Egg"
   },
   "raw_chicken": {
@@ -14196,7 +14228,7 @@
     "name": "Fine Jade Gemstone"
   },
   "plasma_bucket": {
-    "price": 5499999,
+    "price": 5499998,
     "name": "Plasma Bucket"
   },
   "ancient_claw": {
@@ -14204,11 +14236,11 @@
     "name": "Ancient Claw"
   },
   "enchanted_ghast_tear": {
-    "price": 159,
+    "price": 160,
     "name": "Enchanted Ghast Tear"
   },
   "enchanted_lapis_lazuli": {
-    "price": 493,
+    "price": 492,
     "name": "Enchanted Lapis Lazuli"
   },
   "enchanted_cocoa": {
@@ -14232,7 +14264,7 @@
     "name": "Seeds"
   },
   "enchanted_leather": {
-    "price": 6798,
+    "price": 6797,
     "name": "Enchanted Leather"
   },
   "perfect_amber_gem": {
@@ -14252,7 +14284,7 @@
     "name": "Enchanted Sponge"
   },
   "ink_sack": {
-    "price": 771,
+    "price": 770,
     "name": "Ink Sack"
   },
   "flint": {
@@ -14260,11 +14292,11 @@
     "name": "Flint"
   },
   "enchanted_spruce_log": {
-    "price": 1045,
+    "price": 1052,
     "name": "Enchanted Spruce Wood"
   },
   "enchanted_rotten_flesh": {
-    "price": 799,
+    "price": 827,
     "name": "Enchanted Rotten Flesh"
   },
   "wolf_tooth": {
@@ -14280,11 +14312,11 @@
     "name": "Enchanted Nether Wart"
   },
   "enchanted_redstone_block": {
-    "price": 31742,
+    "price": 31739,
     "name": "Enchanted Redstone Block"
   },
   "enchanted_quartz_block": {
-    "price": 313731,
+    "price": 313722,
     "name": "Enchanted Quartz Block"
   },
   "enchanted_ancient_claw": {
@@ -14300,7 +14332,7 @@
     "name": "Treasurite"
   },
   "enchanted_redstone": {
-    "price": 219,
+    "price": 218,
     "name": "Enchanted Redstone"
   },
   "enchanted_redstone_lamp": {
@@ -14328,27 +14360,27 @@
     "name": "Pufferfish"
   },
   "enchanted_packed_ice": {
-    "price": 96786,
+    "price": 96785,
     "name": "Enchanted Packed Ice"
   },
   "enchanted_lava_bucket": {
-    "price": 285250,
+    "price": 285802,
     "name": "Enchanted Lava Bucket"
   },
   "enchanted_prismarine_shard": {
-    "price": 400,
+    "price": 399,
     "name": "Enchanted Prismarine Shard"
   },
   "recombobulator_3000": {
-    "price": 5833919,
+    "price": 5817251,
     "name": "Recombobulator 3000"
   },
   "enchanted_iron_block": {
-    "price": 178979,
+    "price": 181473,
     "name": "Enchanted Iron Block"
   },
   "enchanted_carrot_stick": {
-    "price": 39478,
+    "price": 39477,
     "name": "Enchanted Carrot on a Stick"
   },
   "bone": {
@@ -14364,15 +14396,15 @@
     "name": "Revenant Flesh"
   },
   "enchanted_pork": {
-    "price": 2696,
+    "price": 2736,
     "name": "Enchanted Pork"
   },
   "enchanted_glowstone": {
-    "price": 61295,
+    "price": 61296,
     "name": "Enchanted Glowstone"
   },
   "raw_fish:1": {
-    "price": 9,
+    "price": 10,
     "name": "Raw Salmon"
   },
   "goblin_egg_red": {
@@ -14408,11 +14440,11 @@
     "name": "Blaze Rod"
   },
   "young_fragment": {
-    "price": 2566,
+    "price": 2587,
     "name": "Young Dragon Fragment"
   },
   "flawless_topaz_gem": {
-    "price": 2166655,
+    "price": 2166654,
     "name": "Flawless Topaz Gemstone"
   },
   "enchanted_clownfish": {
@@ -14420,11 +14452,11 @@
     "name": "Enchanted Clownfish"
   },
   "refined_mineral": {
-    "price": 18783,
+    "price": 18782,
     "name": "Refined Mineral"
   },
   "enchanted_gold": {
-    "price": 655,
+    "price": 656,
     "name": "Enchanted Gold"
   },
   "enchanted_water_lily": {
@@ -14432,7 +14464,7 @@
     "name": "Enchanted Lily Pad"
   },
   "enchanted_raw_chicken": {
-    "price": 658,
+    "price": 657,
     "name": "Enchanted Raw Chicken"
   },
   "rough_amethyst_gem": {
@@ -14452,7 +14484,7 @@
     "name": "Null Atom"
   },
   "log:1": {
-    "price": 7,
+    "price": 6,
     "name": "Spruce Wood"
   },
   "flawless_ruby_gem": {
@@ -14468,7 +14500,7 @@
     "name": "Blessed Bait"
   },
   "catalyst": {
-    "price": 123241,
+    "price": 123240,
     "name": "Catalyst"
   },
   "log:3": {
@@ -14484,11 +14516,11 @@
     "name": "Enchanted Glowstone Dust"
   },
   "enchanted_ink_sack": {
-    "price": 59997,
+    "price": 59996,
     "name": "Enchanted Ink Sack"
   },
   "enchanted_sugar_cane": {
-    "price": 52974,
+    "price": 52973,
     "name": "Enchanted Sugar Cane"
   },
   "flawless_sapphire_gem": {
@@ -14504,7 +14536,7 @@
     "name": "Enchanted Cooked Salmon"
   },
   "enchanted_seeds": {
-    "price": 78,
+    "price": 69,
     "name": "Enchanted Seeds"
   },
   "concentrated_stone": {
@@ -14520,7 +14552,7 @@
     "name": "Enchanted Bone Block"
   },
   "jacobs_ticket": {
-    "price": 9937,
+    "price": 9801,
     "name": "Jacob's Ticket"
   },
   "ghast_tear": {
@@ -14528,15 +14560,15 @@
     "name": "Ghast Tear"
   },
   "enchanted_ender_pearl": {
-    "price": 158,
+    "price": 155,
     "name": "Enchanted Ender Pearl"
   },
   "absolute_ender_pearl": {
-    "price": 12499,
+    "price": 12498,
     "name": "Absolute Ender Pearl"
   },
   "unstable_fragment": {
-    "price": 2598,
+    "price": 2584,
     "name": "Unstable Dragon Fragment"
   },
   "purple_candy": {
@@ -14544,7 +14576,7 @@
     "name": "Purple Candy"
   },
   "spiked_bait": {
-    "price": 59,
+    "price": 60,
     "name": "Spiked Bait"
   },
   "enchanted_fermented_spider_eye": {
@@ -14552,27 +14584,27 @@
     "name": "Enchanted Fermented Spider Eye"
   },
   "polished_pumpkin": {
-    "price": 124703,
+    "price": 124918,
     "name": "Polished Pumpkin"
   },
   "enchanted_gold_block": {
-    "price": 103596,
+    "price": 103235,
     "name": "Enchanted Gold Block"
   },
   "rough_jade_gem": {
-    "price": 2,
+    "price": 3,
     "name": "Rough Jade Gemstone"
   },
   "enchanted_jungle_log": {
-    "price": 900,
+    "price": 899,
     "name": "Enchanted Jungle Wood"
   },
   "null_ovoid": {
-    "price": 135841,
+    "price": 135837,
     "name": "Null Ovoid"
   },
   "enchanted_flint": {
-    "price": 2792,
+    "price": 2814,
     "name": "Enchanted Flint"
   },
   "iron_ingot": {
@@ -14596,11 +14628,11 @@
     "name": "Rough Sapphire Gemstone"
   },
   "enchanted_clay_ball": {
-    "price": 474,
+    "price": 476,
     "name": "Enchanted Clay"
   },
   "revenant_viscera": {
-    "price": 36626,
+    "price": 36217,
     "name": "Revenant Viscera"
   },
   "perfect_amethyst_gem": {
@@ -14608,19 +14640,19 @@
     "name": "Perfect Amethyst Gemstone"
   },
   "enchanted_mutton": {
-    "price": 2425,
+    "price": 2262,
     "name": "Enchanted Mutton"
   },
   "titanic_exp_bottle": {
-    "price": 237370,
+    "price": 237367,
     "name": "Titanic Experience Bottle"
   },
   "tarantula_silk": {
-    "price": 101558,
+    "price": 102345,
     "name": "Tarantula Silk"
   },
   "null_sphere": {
-    "price": 346,
+    "price": 348,
     "name": "Null Sphere"
   },
   "enchanted_iron": {
@@ -14628,7 +14660,7 @@
     "name": "Enchanted Iron"
   },
   "super_compactor_3000": {
-    "price": 293299,
+    "price": 293498,
     "name": "Super Compactor 3000"
   },
   "super_egg": {
@@ -14648,7 +14680,7 @@
     "name": "Enchanted Paper"
   },
   "enchanted_bone": {
-    "price": 331,
+    "price": 332,
     "name": "Enchanted Bone"
   },
   "enchanted_hay_block": {
@@ -14660,11 +14692,11 @@
     "name": "Enchanted Titanium"
   },
   "enchanted_diamond_block": {
-    "price": 204920,
+    "price": 205297,
     "name": "Enchanted Diamond Block"
   },
   "superior_fragment": {
-    "price": 103525,
+    "price": 103526,
     "name": "Superior Dragon Fragment"
   },
   "goblin_egg_green": {
@@ -14688,7 +14720,7 @@
     "name": "Enchanted Rabbit Foot"
   },
   "enchanted_ice": {
-    "price": 639,
+    "price": 638,
     "name": "Enchanted Ice"
   },
   "clay_ball": {
@@ -14708,7 +14740,7 @@
     "name": "Arachne's Keeper Fragment"
   },
   "green_gift": {
-    "price": 9950,
+    "price": 9928,
     "name": "Green Gift"
   },
   "worm_membrane": {
@@ -14740,23 +14772,23 @@
     "name": "Hamster Wheel"
   },
   "enchanted_obsidian": {
-    "price": 2648,
+    "price": 2592,
     "name": "Enchanted Obsidian"
   },
   "fine_amber_gem": {
-    "price": 25008,
+    "price": 25007,
     "name": "Fine Amber Gemstone"
   },
   "enchanted_coal": {
-    "price": 809,
+    "price": 848,
     "name": "Enchanted Coal"
   },
   "enchanted_quartz": {
-    "price": 1997,
+    "price": 1994,
     "name": "Enchanted Quartz"
   },
   "enchanted_coal_block": {
-    "price": 134992,
+    "price": 132892,
     "name": "Enchanted Block of Coal"
   },
   "werewolf_skin": {
@@ -14764,7 +14796,7 @@
     "name": "Werewolf Skin"
   },
   "perfect_topaz_gem": {
-    "price": 9299999,
+    "price": 9300000,
     "name": "Perfect Topaz Gemstone"
   },
   "daedalus_stick": {
@@ -14772,11 +14804,11 @@
     "name": "Daedalus Stick"
   },
   "goblin_egg": {
-    "price": 4244,
+    "price": 4241,
     "name": "Goblin Egg"
   },
   "enchanted_prismarine_crystals": {
-    "price": 400,
+    "price": 397,
     "name": "Enchanted Prismarine Crystals"
   },
   "flawed_jade_gem": {
@@ -14796,11 +14828,11 @@
     "name": "End Stone"
   },
   "enchanted_raw_fish": {
-    "price": 2367,
+    "price": 2363,
     "name": "Enchanted Raw Fish"
   },
   "foul_flesh": {
-    "price": 24999,
+    "price": 25725,
     "name": "Foul Flesh"
   },
   "raw_beef": {
@@ -14812,7 +14844,7 @@
     "name": "Purple Jerry Box"
   },
   "enchanted_eye_of_ender": {
-    "price": 5098,
+    "price": 5093,
     "name": "Enchanted Eye of Ender"
   },
   "sludge_juice": {
@@ -14836,11 +14868,11 @@
     "name": "Magma Cream"
   },
   "red_gift": {
-    "price": 46499,
+    "price": 46399,
     "name": "Red Gift"
   },
   "enchanted_mithril": {
-    "price": 1602,
+    "price": 1604,
     "name": "Enchanted Mithril"
   },
   "jerry_box_blue": {
@@ -14848,11 +14880,11 @@
     "name": "Blue Jerry Box"
   },
   "enchanted_slime_block": {
-    "price": 135134,
+    "price": 135133,
     "name": "Enchanted Slime Block"
   },
   "enchanted_raw_beef": {
-    "price": 637,
+    "price": 636,
     "name": "Enchanted Raw Beef"
   },
   "enchanted_feather": {
@@ -14872,7 +14904,7 @@
     "name": "Rabbit Hide"
   },
   "nether_stalk": {
-    "price": 45,
+    "price": 24,
     "name": "Nether Wart"
   },
   "rabbit": {
@@ -14896,11 +14928,11 @@
     "name": "Dark Bait"
   },
   "enchanted_carrot": {
-    "price": 343,
+    "price": 349,
     "name": "Enchanted Carrot"
   },
   "soulflow": {
-    "price": 10190,
+    "price": 10002,
     "name": "Soulflow"
   },
   "obsidian": {
@@ -14924,11 +14956,11 @@
     "name": "Minnow Bait"
   },
   "enchanted_magma_cream": {
-    "price": 1386,
+    "price": 1385,
     "name": "Enchanted Magma Cream"
   },
   "starfall": {
-    "price": 1496,
+    "price": 1494,
     "name": "Starfall"
   },
   "enchanted_firework_rocket": {
@@ -14940,7 +14972,7 @@
     "name": "Hard Stone"
   },
   "flawless_jade_gem": {
-    "price": 1593749,
+    "price": 1587940,
     "name": "Flawless Jade Gemstone"
   },
   "flawed_topaz_gem": {
@@ -14956,7 +14988,7 @@
     "name": "Fine Amethyst Gemstone"
   },
   "refined_titanium": {
-    "price": 262546,
+    "price": 259998,
     "name": "Refined Titanium"
   },
   "enchanted_rabbit": {
@@ -14968,7 +15000,7 @@
     "name": "Mutant Nether Wart"
   },
   "soul_string": {
-    "price": 9321,
+    "price": 9191,
     "name": "Soul String"
   },
   "enchanted_bread": {
@@ -14976,7 +15008,7 @@
     "name": "Enchanted Bread"
   },
   "fuming_potato_book": {
-    "price": 1169930,
+    "price": 1164534,
     "name": "Fuming Potato Book"
   },
   "fine_jasper_gem": {
@@ -14984,23 +15016,23 @@
     "name": "Fine Jasper Gemstone"
   },
   "flawless_amber_gem": {
-    "price": 2029235,
+    "price": 2029234,
     "name": "Flawless Amber Gemstone"
   },
   "flawed_sapphire_gem": {
-    "price": 241,
+    "price": 242,
     "name": "Flawed Sapphire Gemstone"
   },
   "enchanted_blaze_powder": {
-    "price": 2543,
+    "price": 2607,
     "name": "Enchanted Blaze Powder"
   },
   "snow_block": {
-    "price": 6,
+    "price": 5,
     "name": "Snow Block"
   },
   "fish_bait": {
-    "price": 73,
+    "price": 71,
     "name": "Fish Bait"
   },
   "perfect_sapphire_gem": {
@@ -15012,7 +15044,7 @@
     "name": "Bazaar Cookie"
   },
   "enchanted_diamond": {
-    "price": 1279,
+    "price": 1275,
     "name": "Enchanted Diamond"
   },
   "compactor": {
@@ -15020,7 +15052,7 @@
     "name": "Compactor"
   },
   "enchanted_baked_potato": {
-    "price": 44790,
+    "price": 44789,
     "name": "Enchanted Baked Potato"
   },
   "horns_of_torment": {
@@ -15032,15 +15064,15 @@
     "name": "Enchanted Mycelium Cube"
   },
   "end_stone_shulker": {
-    "price": 142185,
+    "price": 135846,
     "name": "End Stone Shulker"
   },
   "ender_monocle": {
-    "price": 911,
+    "price": 899,
     "name": "Ender Monocle"
   },
   "hazmat_enderman": {
-    "price": 38440,
+    "price": 38439,
     "name": "Hazmat Enderman"
   },
   "kuudra_mandible": {
@@ -15056,7 +15088,7 @@
     "name": "Acacia Birdhouse"
   },
   "derelict_ashe": {
-    "price": 1294,
+    "price": 1297,
     "name": "Derelict Ashe"
   },
   "crude_gabagool_distillate": {
@@ -15064,11 +15096,11 @@
     "name": "Crude Gabagool Distillate"
   },
   "meteor_shard": {
-    "price": 14999999,
+    "price": 8000000,
     "name": "Meteor Shard"
   },
   "enchanted_sulphur": {
-    "price": 6536,
+    "price": 6535,
     "name": "Enchanted Sulphur"
   },
   "omega_egg": {
@@ -15104,7 +15136,7 @@
     "name": "Nether Stalk Distillate"
   },
   "crude_gabagool": {
-    "price": 262,
+    "price": 286,
     "name": "Crude Gabagool"
   },
   "heavy_gabagool": {
@@ -15128,7 +15160,7 @@
     "name": "Obsidian Tablet"
   },
   "vitamin_death": {
-    "price": 195030,
+    "price": 199995,
     "name": "Vitamin Death"
   },
   "hypergolic_gabagool": {
@@ -15136,15 +15168,15 @@
     "name": "Hypergolic Gabagool"
   },
   "magma_urchin": {
-    "price": 2399999,
+    "price": 2815061,
     "name": "Magma Urchin"
   },
   "molten_powder": {
-    "price": 452851,
+    "price": 452850,
     "name": "Molten Powder"
   },
   "searing_stone": {
-    "price": 969999,
+    "price": 949607,
     "name": "Searing Stone"
   },
   "fuel_gabagool": {
@@ -15152,11 +15184,11 @@
     "name": "Fuel Gabagool"
   },
   "enchanted_mycelium": {
-    "price": 6954,
+    "price": 6953,
     "name": "Enchanted Mycelium"
   },
   "precious_pearl": {
-    "price": 706784,
+    "price": 600000,
     "name": "Precious Pearl"
   },
   "scorched_books": {
@@ -15164,7 +15196,7 @@
     "name": "Scorched Books"
   },
   "blaze_wax": {
-    "price": 1249998,
+    "price": 1249997,
     "name": "Blaze Wax"
   },
   "shiny_prism": {
@@ -15206,41 +15238,5 @@
   "hot_bait": {
     "price": 267,
     "name": "Hot Bait"
-  },
-  "lvl_100_legendary_bal_skin_bal_inferno": {
-    "price": 39500000,
-    "name": "Bal"
-  },
-  "pet_skin_bal_inferno": {
-    "price": 14500000,
-    "name": "Inferno Bal Skin"
-  },
-  "lvl_1_common_chicken_skinned_chicken_baby_chick": {
-    "price": 39000000,
-    "name": "Common Chicken"
-  },
-  "lvl_100_epic_guardian_skinned_guardian": {
-    "price": 200000000,
-    "name": "Guardian"
-  },
-  "lvl_1_epic_enderman_skinned_enderman_neon": {
-    "price": 5800000,
-    "name": "Enderman"
-  },
-  "lvl_100_mythic_enderman_skin_enderman_xenon_candy_5": {
-    "price": 39999999,
-    "name": "Enderman"
-  },
-  "jungle_door_item": {
-    "price": 10,
-    "name": "Jungle Door"
-  },
-  "lvl_1_epic_phoenix_skinned_phoenix_ice": {
-    "price": 15000000,
-    "name": "Phoenix"
-  },
-  "carrot_stick": {
-    "price": 10,
-    "name": "Carrot On A Stick"
   }
 }
