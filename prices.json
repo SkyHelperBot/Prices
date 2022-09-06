@@ -1,6 +1,6 @@
 {
   "cheap_tuxedo_leggings": {
-    "price": 450000,
+    "price": 400000,
     "name": "Cheap Tuxedo Pants"
   },
   "young_dragon_helmet": {
@@ -32,7 +32,7 @@
     "name": "Pastel Ender Dragon Skin"
   },
   "talisman_enrichment_swapper": {
-    "price": 69000,
+    "price": 70000,
     "name": "Accessory Enrichment Swapper"
   },
   "treasure_artifact": {
@@ -44,7 +44,7 @@
     "name": "Neon Blue Sheep Skin"
   },
   "talisman_enrichment_attack_speed": {
-    "price": 2000000,
+    "price": 1899900,
     "name": "Attack Speed Enrichment"
   },
   "mender_fedora": {
@@ -52,19 +52,19 @@
     "name": "Mender Fedora"
   },
   "corleonite": {
-    "price": 999999,
+    "price": 1000000,
     "name": "Corleonite"
   },
   "zombie_knight_leggings": {
-    "price": 23998,
+    "price": 24000,
     "name": "Zombie Knight Leggings"
   },
   "new_year_cake": {
-    "price": 299000,
-    "name": "New Year Cake (year 227)"
+    "price": 280000,
+    "name": "New Year Cake (year 221)"
   },
   "starred_shadow_assassin_helmet": {
-    "price": 2699998,
+    "price": 2700000,
     "name": "Fierce Shadow Assassin Helmet"
   },
   "starred_shadow_assassin_helmet_skin_shadow_assassin_crimson": {
@@ -84,11 +84,11 @@
     "name": "Zombie Brain Mixin"
   },
   "artifact_potion_affinity": {
-    "price": 147000,
+    "price": 148000,
     "name": "Potion Affinity Artifact"
   },
   "necromancer_lord_leggings": {
-    "price": 3599999,
+    "price": 3500000,
     "name": "Necromancer Lord Leggings"
   },
   "gold_sadan_head": {
@@ -96,7 +96,7 @@
     "name": "Golden Sadan Head"
   },
   "runaans_bow": {
-    "price": 350000,
+    "price": 400000,
     "name": "Runaan's Bow"
   },
   "ultimate_carrot_candy": {
@@ -104,7 +104,7 @@
     "name": "Ultimate Carrot Candy"
   },
   "unstable_dragon_leggings": {
-    "price": 184000,
+    "price": 200000,
     "name": "Unstable Dragon Leggings"
   },
   "turbo_warts_3": {
@@ -120,7 +120,7 @@
     "name": "Bottle Of Jyrre"
   },
   "giant_fragment_laser": {
-    "price": 300000,
+    "price": 199000,
     "name": "L.a.s.r.'s Eye"
   },
   "giant_killer_6": {
@@ -132,15 +132,15 @@
     "name": "Uncommon Pig"
   },
   "heavy_helmet": {
-    "price": 5037,
-    "name": "So Heavy Helmet"
+    "price": 25000,
+    "name": "Heavy Helmet"
   },
   "sorrow_chestplate": {
-    "price": 7500000,
+    "price": 7700000,
     "name": "Sorrow Chestplate"
   },
   "starlight_helmet": {
-    "price": 50000,
+    "price": 85000,
     "name": "Starlight Helmet"
   },
   "tarantula_boots": {
@@ -148,15 +148,15 @@
     "name": "Tarantula Boots"
   },
   "large_enchanted_chest": {
-    "price": 300000,
+    "price": 339900,
     "name": "Large Storage"
   },
   "skeletor_chestplate": {
-    "price": 20000,
+    "price": 19000,
     "name": "Skeletor Chestplate"
   },
   "tank_wither_boots": {
-    "price": 2590000,
+    "price": 2699999,
     "name": "Goldor's Boots"
   },
   "pet_skin_elephant_monochrome": {
@@ -172,15 +172,15 @@
     "name": "Zombie Soldier Boots"
   },
   "beastmaster_crest_common": {
-    "price": 200000,
+    "price": 150000,
     "name": "Beastmaster Crest"
   },
   "gemstone_drill_2": {
     "price": 6000000,
-    "name": "Excellent Gemstone Drill Lt-522"
+    "name": "Heated Gemstone Drill Lt-522"
   },
   "superior_dragon_chestplate": {
-    "price": 7875000,
+    "price": 7799999,
     "name": "Superior Dragon Chestplate"
   },
   "lvl_1_rare_enderman": {
@@ -212,11 +212,11 @@
     "name": "Bat"
   },
   "pet_item_saddle": {
-    "price": 94000,
+    "price": 80000,
     "name": "Saddle"
   },
   "shark_scale_helmet": {
-    "price": 949999,
+    "price": 1000000,
     "name": "Shark Scale Helmet"
   },
   "holy_dragon_chestplate": {
@@ -228,7 +228,7 @@
     "name": "Necrotic Bonzo's Mask"
   },
   "crypt_dreadlord_sword": {
-    "price": 5300,
+    "price": 5312,
     "name": "Dreadlord Sword"
   },
   "pet_skin_hound_beagle": {
@@ -236,7 +236,7 @@
     "name": "Beagle Hound Skin"
   },
   "young_dragon_chestplate": {
-    "price": 209000,
+    "price": 210000,
     "name": "Young Dragon Chestplate"
   },
   "looting_4": {
@@ -248,16 +248,16 @@
     "name": "Scythe Blade"
   },
   "vampire_witch_mask": {
-    "price": 14799900,
+    "price": 14999900,
     "name": "Vampire Witch Mask"
   },
   "glacite_jewel": {
-    "price": 65000,
+    "price": 59999,
     "name": "Glacite Jewel"
   },
   "pet": {
-    "price": 2300,
-    "name": "Enderman"
+    "price": 20000,
+    "name": "Silverfish"
   },
   "digested_mosquito": {
     "price": 400000,
@@ -272,11 +272,11 @@
     "name": "Enderman"
   },
   "god_potion_2": {
-    "price": 489999,
+    "price": 470000,
     "name": "God Potion"
   },
   "end_boots": {
-    "price": 80000,
+    "price": 90000,
     "name": "Ender Boots"
   },
   "great_spook_leggings": {
@@ -288,11 +288,11 @@
     "name": "Maddox Batphone"
   },
   "protector_dragon_chestplate": {
-    "price": 199999,
+    "price": 200000,
     "name": "Protector Dragon Chestplate"
   },
   "titanium_drill_1": {
-    "price": 19999998,
+    "price": 19999899,
     "name": "Titanium Drill Dr-x355"
   },
   "red_claw_talisman": {
@@ -304,7 +304,7 @@
     "name": "Minion Storage X-pender"
   },
   "master_skull_tier_3": {
-    "price": 1700000,
+    "price": 1980000,
     "name": "Master Skull - Tier 3"
   },
   "lvl_1_epic_magma_cube": {
@@ -312,7 +312,7 @@
     "name": "Magma Cube"
   },
   "crystal_fragment": {
-    "price": 75000,
+    "price": 79000,
     "name": "Crystal Fragment"
   },
   "lvl_1_legendary_rabbit": {
@@ -320,7 +320,7 @@
     "name": "Rabbit"
   },
   "remnant_of_the_eye": {
-    "price": 18000,
+    "price": 1000,
     "name": "Remnant Of The Eye"
   },
   "ultimate_swarm_1": {
@@ -328,11 +328,11 @@
     "name": "Ultimate Swarm 1"
   },
   "goblin_chestplate": {
-    "price": 5000,
+    "price": 4000,
     "name": "Goblin Chestplate"
   },
   "lvl_100_legendary_hound": {
-    "price": 50000000,
+    "price": 55000000,
     "name": "Hound"
   },
   "lvl_100_legendary_hound_skin_hound_beagle": {
@@ -348,7 +348,7 @@
     "name": "Rejuvenate 5"
   },
   "frozen_scythe": {
-    "price": 7500000,
+    "price": 7880000,
     "name": "Frozen Scythe"
   },
   "counter_strike_5": {
@@ -356,11 +356,11 @@
     "name": "Counter Strike 5"
   },
   "super_magic_mushroom_soup": {
-    "price": 14490,
+    "price": 14000,
     "name": "Mystical Mushroom Soup"
   },
   "sorrow_leggings": {
-    "price": 6700000,
+    "price": 6777000,
     "name": "Sorrow Leggings"
   },
   "tank_wither_chestplate": {
@@ -368,11 +368,11 @@
     "name": "Goldor's Chestplate"
   },
   "jungle_key": {
-    "price": 40000,
+    "price": 47000,
     "name": "Jungle Key"
   },
   "golem_sword": {
-    "price": 900000,
+    "price": 885000,
     "name": "Golem Sword"
   },
   "alpha_pick": {
@@ -380,7 +380,7 @@
     "name": "Pioneer Pickaxe"
   },
   "flower_of_truth": {
-    "price": 3999900,
+    "price": 3999999,
     "name": "Flower Of Truth"
   },
   "ultimate_legion_1": {
@@ -388,11 +388,11 @@
     "name": "Ultimate Legion 1"
   },
   "grizzly_bait": {
-    "price": 790000,
+    "price": 780000,
     "name": "Grizzly Bait"
   },
   "end_stone_bow": {
-    "price": 15000,
+    "price": 8000,
     "name": "End Stone Bow"
   },
   "power_wither_leggings": {
@@ -404,19 +404,19 @@
     "name": "Wise 4"
   },
   "shadow_goggles": {
-    "price": 700000,
+    "price": 755555,
     "name": "Shadow Goggles"
   },
   "stonk_pickaxe": {
-    "price": 450000,
+    "price": 500000,
     "name": "Stonk"
   },
   "ftx_3070": {
-    "price": 80000,
+    "price": 39900,
     "name": "Ftx 3070"
   },
   "pickonimbus": {
-    "price": 240000,
+    "price": 280000,
     "name": "Pickonimbus 2000"
   },
   "tarantula_leggings": {
@@ -436,12 +436,12 @@
     "name": "Cultivating 1"
   },
   "hyper_catalyst_upgrade": {
-    "price": 95000,
+    "price": 100000,
     "name": "Hyper Catalyst Upgrade"
   },
   "gemstone_drill_4": {
     "price": 19000000,
-    "name": "Heated Jasper Drill X"
+    "name": "Jasper Drill X"
   },
   "lvl_1_rare_rabbit": {
     "price": 45000,
@@ -452,7 +452,7 @@
     "name": "Farming for Dummies"
   },
   "wither_boots": {
-    "price": 1950000,
+    "price": 1998999,
     "name": "Wither Boots"
   },
   "aspect_of_the_end": {
@@ -464,11 +464,11 @@
     "name": "Pigman Sword"
   },
   "bonzo_fragment": {
-    "price": 17000,
+    "price": 10000,
     "name": "Bonzo Fragment"
   },
   "wither_chestplate": {
-    "price": 21799900,
+    "price": 20500000,
     "name": "Wither Chestplate"
   },
   "superlite_motor": {
@@ -476,7 +476,7 @@
     "name": "Superlite Motor"
   },
   "scarf_fragment": {
-    "price": 4000,
+    "price": 2999,
     "name": "Scarf Fragment"
   },
   "smite_7": {
@@ -492,7 +492,7 @@
     "name": "Final Destination Helmet"
   },
   "old_dragon_helmet": {
-    "price": 219999,
+    "price": 275000,
     "name": "Old Dragon Helmet"
   },
   "old_dragon_helmet_skin_old_baby": {
@@ -504,7 +504,7 @@
     "name": "Old Dragon Helmet"
   },
   "pet_item_textbook": {
-    "price": 550000,
+    "price": 579000,
     "name": "Textbook"
   },
   "ultimate_legion_4": {
@@ -512,11 +512,11 @@
     "name": "Ultimate Legion 4"
   },
   "summoning_ring": {
-    "price": 6900000,
+    "price": 6999999,
     "name": "Summoning Ring"
   },
   "gold_livid_head": {
-    "price": 1899000,
+    "price": 1999994,
     "name": "Golden Livid Head"
   },
   "lvl_1_legendary_giraffe": {
@@ -524,8 +524,8 @@
     "name": "Giraffe"
   },
   "starred_shadow_assassin_boots": {
-    "price": 2100000,
-    "name": "Fierce Shadow Assassin Boots"
+    "price": 2200000,
+    "name": "Shadow Assassin Boots"
   },
   "experience_4": {
     "price": 500000,
@@ -540,7 +540,7 @@
     "name": "Titan Killer 6"
   },
   "skeleton_grunt_leggings": {
-    "price": 48000,
+    "price": 47969,
     "name": "Skeleton Grunt Leggings"
   },
   "minos_relic": {
@@ -548,27 +548,27 @@
     "name": "Minos Relic"
   },
   "titanium_relic": {
-    "price": 16300000,
+    "price": 16000000,
     "name": "Titanium Relic"
   },
   "power_wither_boots": {
-    "price": 11700000,
-    "name": "Necron's Boots"
+    "price": 12698999,
+    "name": "Shiny Necron's Boots"
   },
   "bits_talisman": {
-    "price": 5500000,
+    "price": 5300000,
     "name": "Bits Talisman"
   },
   "giant_fragment_boulder": {
-    "price": 20000,
+    "price": 80000,
     "name": "Jolly Pink Rock"
   },
   "enderman_cortex_rewriter": {
-    "price": 99000,
+    "price": 100000,
     "name": "Enderman Cortex Rewriter"
   },
   "wither_goggles": {
-    "price": 5400000,
+    "price": 5000000,
     "name": "Wither Goggles"
   },
   "kat_flower": {
@@ -576,7 +576,7 @@
     "name": "Kat Flower"
   },
   "personal_compactor_4000": {
-    "price": 475000,
+    "price": 420069,
     "name": "Personal Compactor 4000"
   },
   "decent_coffee": {
@@ -584,15 +584,15 @@
     "name": "Decent Coffee"
   },
   "nether_fortress_boss_travel_scroll": {
-    "price": 1888888,
-    "name": "Dusty Travel Scroll To The Kuudra Skull"
+    "price": 1500000,
+    "name": "Travel Scroll To Magma Fields"
   },
   "builders_wand": {
-    "price": 3899000,
+    "price": 3800000,
     "name": "Builder's Wand"
   },
   "antique_remedies": {
-    "price": 48000,
+    "price": 49000,
     "name": "Antique Remedies"
   },
   "true_protection_1": {
@@ -600,7 +600,7 @@
     "name": "True Protection 1"
   },
   "young_dragon_boots": {
-    "price": 117500,
+    "price": 118000,
     "name": "Young Dragon Boots"
   },
   "reaper_chestplate": {
@@ -612,7 +612,7 @@
     "name": "Second Master Star"
   },
   "treecapitator_axe": {
-    "price": 1200000,
+    "price": 1099999,
     "name": "Treecapitator"
   },
   "tank_miner_leggings": {
@@ -632,19 +632,19 @@
     "name": "Storm's Leggings"
   },
   "voidedge_katana": {
-    "price": 600000,
+    "price": 700000,
     "name": "Voidedge Katana"
   },
   "tank_wither_helmet": {
-    "price": 4800000,
+    "price": 4790000,
     "name": "Goldor's Helmet"
   },
   "beastmaster_crest_rare": {
-    "price": 2444444,
+    "price": 2300000,
     "name": "Beastmaster Crest"
   },
   "lvl_100_legendary_baby_yeti": {
-    "price": 46900000,
+    "price": 47000000,
     "name": "Baby Yeti"
   },
   "lvl_100_legendary_baby_yeti_skin_yeti_grown_up": {
@@ -660,11 +660,11 @@
     "name": "Red Claw Artifact"
   },
   "bat_artifact": {
-    "price": 1090000,
+    "price": 999999,
     "name": "Bat Artifact"
   },
   "pet_item_exp_share": {
-    "price": 1000000,
+    "price": 999999,
     "name": "Exp Share"
   },
   "experience_artifact": {
@@ -672,7 +672,7 @@
     "name": "Experience Artifact"
   },
   "emerald_blade": {
-    "price": 485000,
+    "price": 450000,
     "name": "Emerald Blade"
   },
   "pet_skin_rock_cool": {
@@ -680,7 +680,7 @@
     "name": "Cool Rock Skin"
   },
   "overflux_power_orb": {
-    "price": 68999900,
+    "price": 68899999,
     "name": "Overflux Power Orb"
   },
   "washed_up_souvenir": {
@@ -688,7 +688,7 @@
     "name": "Washed-up Souvenir"
   },
   "starred_shadow_assassin_chestplate": {
-    "price": 21400000,
+    "price": 21300000,
     "name": "Shadow Assassin Chestplate"
   },
   "rod_of_the_sea": {
@@ -697,7 +697,7 @@
   },
   "superior_dragon_boots": {
     "price": 3999999,
-    "name": "Dragon Boots"
+    "name": "Superior Dragon Boots"
   },
   "sorrow": {
     "price": 320000,
@@ -716,15 +716,15 @@
     "name": "Juju Shortbow"
   },
   "starred_adaptive_boots": {
-    "price": 270000,
-    "name": "Adaptive Boots"
+    "price": 280000,
+    "name": "Fierce Adaptive Boots"
   },
   "gemstone_mixture": {
-    "price": 890000,
+    "price": 920000,
     "name": "Gemstone Mixture"
   },
   "kismet_feather": {
-    "price": 440000,
+    "price": 480000,
     "name": "Kismet Feather"
   },
   "daedalus_axe": {
@@ -736,23 +736,23 @@
     "name": "Goldor's Leggings"
   },
   "zombie_ring": {
-    "price": 8900,
+    "price": 9999,
     "name": "Zombie Ring"
   },
   "divan_fragment": {
-    "price": 550000,
+    "price": 600000,
     "name": "Divan Fragment"
   },
   "wise_dragon_boots": {
-    "price": 1000000,
-    "name": "Dragon Boots"
+    "price": 900000,
+    "name": "Wise Dragon Boots"
   },
   "repelling_candle": {
     "price": 29999,
-    "name": "Pink Repelling Candle"
+    "name": "Lilac Repelling Candle"
   },
   "sorrow_boots": {
-    "price": 3900000,
+    "price": 3850000,
     "name": "Sorrow Boots"
   },
   "superb_carrot_candy": {
@@ -760,11 +760,11 @@
     "name": "Superb Carrot Candy"
   },
   "livid_fragment": {
-    "price": 119000,
+    "price": 99000,
     "name": "Livid Fragment"
   },
   "speed_wither_leggings": {
-    "price": 7599000,
+    "price": 7600000,
     "name": "Maxor's Leggings"
   },
   "smarty_pants_5": {
@@ -772,11 +772,11 @@
     "name": "Smarty Pants 5"
   },
   "dwarf_turtle_shelmet": {
-    "price": 900000,
+    "price": 950000,
     "name": "Dwarf Turtle Shelmet"
   },
   "titanium_drill_3": {
-    "price": 154000000,
+    "price": 150000000,
     "name": "Titanium Drill Dr-x555"
   },
   "tank_miner_chestplate": {
@@ -812,7 +812,7 @@
     "name": "Skeletor Helmet"
   },
   "wood_singularity": {
-    "price": 4281425,
+    "price": 4174089,
     "name": "Wood Singularity"
   },
   "lvl_1_epic_wolf": {
@@ -820,15 +820,15 @@
     "name": "Wolf"
   },
   "glacite_leggings": {
-    "price": 40000,
+    "price": 35000,
     "name": "Glacite Leggings"
   },
   "blood_god_crest": {
-    "price": 2400000,
+    "price": 2300000,
     "name": "Blood God Crest"
   },
   "prehistoric_egg": {
-    "price": 71000,
+    "price": 60000,
     "name": "Prehistoric Egg"
   },
   "old_baby": {
@@ -836,19 +836,19 @@
     "name": "Baby Skin"
   },
   "necromancer_lord_boots": {
-    "price": 978999,
+    "price": 989000,
     "name": "Necromancer Lord Boots"
   },
   "starred_adaptive_leggings": {
-    "price": 650000,
-    "name": "Adaptive Leggings"
+    "price": 750000,
+    "name": "Fierce Adaptive Leggings"
   },
   "protector_dragon_boots": {
-    "price": 199999,
+    "price": 200000,
     "name": "Protector Dragon Boots"
   },
   "aspect_of_the_dragon": {
-    "price": 599999,
+    "price": 590000,
     "name": "Aspect Of The Dragons"
   },
   "endstone_rose": {
@@ -860,7 +860,7 @@
     "name": "Overload 3"
   },
   "power_wither_chestplate": {
-    "price": 32200000,
+    "price": 32300000,
     "name": "Necron's Chestplate"
   },
   "pet_item_vampire_fang": {
@@ -876,7 +876,7 @@
     "name": "Gold Macaw Parrot Skin"
   },
   "power_wither_helmet": {
-    "price": 15000000,
+    "price": 14999999,
     "name": "Necron's Helmet"
   },
   "emerald_armor_leggings": {
@@ -888,11 +888,11 @@
     "name": "Portal To The Deep Caverns"
   },
   "starred_venoms_touch": {
-    "price": 1499000,
-    "name": "Unreal Venom's Touch"
+    "price": 1500000,
+    "name": "Headstrong Venom's Touch"
   },
   "diamond_spreading": {
-    "price": 9999,
+    "price": 7500,
     "name": "Diamond Spreading"
   },
   "sugar_rush_3": {
@@ -904,11 +904,11 @@
     "name": "Skeleton Grunt Boots"
   },
   "armor_of_yog_chestplate": {
-    "price": 430000,
+    "price": 499000,
     "name": "Yog Chestplate"
   },
   "livid_dagger": {
-    "price": 7200000,
+    "price": 7150000,
     "name": "Livid Dagger"
   },
   "pet_skin_enderman_slayer": {
@@ -916,11 +916,11 @@
     "name": "Void Conqueror Enderman Skin"
   },
   "aspect_of_the_void": {
-    "price": 10500000,
+    "price": 10200000,
     "name": "Aspect Of The Void"
   },
   "bat_person_chestplate": {
-    "price": 700000,
+    "price": 650000,
     "name": "Bat Person Chestplate"
   },
   "expertise_1": {
@@ -928,7 +928,7 @@
     "name": "Expertise 1"
   },
   "fuel_tank": {
-    "price": 420000,
+    "price": 430000,
     "name": "Fuel Tank"
   },
   "warden_helmet": {
@@ -956,15 +956,15 @@
     "name": "Maxor's Chestplate"
   },
   "giant_fragment_bigfoot": {
-    "price": 78000,
+    "price": 72000,
     "name": "Bigfoot's Lasso"
   },
   "speed_wither_boots": {
-    "price": 2999000,
+    "price": 3000000,
     "name": "Maxor's Boots"
   },
   "lvl_1_common_dolphin": {
-    "price": 80000,
+    "price": 79999,
     "name": "Common Dolphin"
   },
   "critical_6": {
@@ -972,11 +972,11 @@
     "name": "Critical 6"
   },
   "superior_dragon_leggings": {
-    "price": 6680000,
+    "price": 7000000,
     "name": "Dragon Leggings"
   },
   "wither_leggings": {
-    "price": 6100000,
+    "price": 6199000,
     "name": "Wither Leggings"
   },
   "pet_skin_ocelot_snow_tiger": {
@@ -984,12 +984,12 @@
     "name": "Snow Tiger Ocelot Skin"
   },
   "silent_death": {
-    "price": 30000,
+    "price": 33333,
     "name": "Silent Death"
   },
   "perfect_chestplate_12": {
-    "price": 6299999,
-    "name": "Perfect Chestplate - Tier Xii"
+    "price": 6200000,
+    "name": "Chestplate - Tier Xii"
   },
   "danger_1_travel_scroll": {
     "price": 770000,
@@ -1004,7 +1004,7 @@
     "name": "Rod Of Champions"
   },
   "salmon_helmet_new": {
-    "price": 30000,
+    "price": 40000,
     "name": "Salmon Helmet"
   },
   "happy_mask": {
@@ -1012,15 +1012,15 @@
     "name": "Happy Mask"
   },
   "skeleton_grunt_helmet": {
-    "price": 70000,
+    "price": 75000,
     "name": "Skeleton Grunt Helmet"
   },
   "spirit_mask": {
-    "price": 5999998,
+    "price": 5999999,
     "name": "Spirit Mask"
   },
   "mineral_talisman": {
-    "price": 349000,
+    "price": 350000,
     "name": "Mineral Talisman"
   },
   "crown_of_greed": {
@@ -1028,7 +1028,7 @@
     "name": "Crown Of Greed"
   },
   "armor_of_yog_helmet": {
-    "price": 369000,
+    "price": 399000,
     "name": "Yog Helmet"
   },
   "protection_7": {
@@ -1036,7 +1036,7 @@
     "name": "Protection 7"
   },
   "reaper_mask": {
-    "price": 8480000,
+    "price": 8440000,
     "name": "Reaper Mask"
   },
   "reaper_mask_skin_reaper_spirit": {
@@ -1044,7 +1044,7 @@
     "name": "Reaper Mask"
   },
   "enchanted_hopper": {
-    "price": 2170000,
+    "price": 2180000,
     "name": "Enchanted Hopper"
   },
   "enchanted_book_bundle_vicious": {
@@ -1076,7 +1076,7 @@
     "name": "Mastiff Boots"
   },
   "griffin_upgrade_stone_rare": {
-    "price": 2000000,
+    "price": 1900000,
     "name": "Griffin Upgrade Stone"
   },
   "midas_staff": {
@@ -1084,11 +1084,11 @@
     "name": "Midas Staff"
   },
   "potion": {
-    "price": 190,
-    "name": "Mana Iii Potion"
+    "price": 100,
+    "name": "Foraging Xp Boost Ii Potion"
   },
   "jumbo_backpack_upgrade": {
-    "price": 1498000,
+    "price": 1540000,
     "name": "Jumbo Backpack Upgrade"
   },
   "xxlarge_enchanted_chest": {
@@ -1104,15 +1104,15 @@
     "name": "Replenish 1"
   },
   "wither_cloak": {
-    "price": 4689000,
+    "price": 4700000,
     "name": "Wither Cloak Sword"
   },
   "zombie_soldier_chestplate": {
-    "price": 10000,
+    "price": 8900,
     "name": "Zombie Soldier Chestplate"
   },
   "lvl_100_legendary_sheep": {
-    "price": 6999999,
+    "price": 6990000,
     "name": "Sheep"
   },
   "lvl_100_legendary_sheep_skin_sheep_black": {
@@ -1204,11 +1204,11 @@
     "name": "Gorilla Monkey Skin"
   },
   "jerry_staff": {
-    "price": 300000,
+    "price": 299000,
     "name": "Jerry-chine Gun"
   },
   "strong_dragon_chestplate": {
-    "price": 790000,
+    "price": 700000,
     "name": "Strong Dragon Chestplate"
   },
   "super_heavy_helmet": {
@@ -1224,7 +1224,7 @@
     "name": "Green Crab Hat Of Celebration"
   },
   "end_chestplate": {
-    "price": 100000,
+    "price": 90000,
     "name": "Ender Chestplate"
   },
   "prosecute_6": {
@@ -1240,7 +1240,7 @@
     "name": "Arachne Fragment"
   },
   "lvl_1_epic_mithril_golem": {
-    "price": 299000,
+    "price": 300000,
     "name": "Mithril Golem"
   },
   "lvl_100_legendary_pig": {
@@ -1264,7 +1264,7 @@
     "name": "Personal Bank Item"
   },
   "music_pants": {
-    "price": 40000,
+    "price": 30000,
     "name": "Stereo Pants"
   },
   "vorpal_katana": {
@@ -1272,7 +1272,7 @@
     "name": "Vorpal Katana"
   },
   "pet_item_flying_pig": {
-    "price": 99999,
+    "price": 100000,
     "name": "Flying Pig"
   },
   "shadow_warp_scroll": {
@@ -1284,7 +1284,7 @@
     "name": "Blue Whale"
   },
   "large_backpack": {
-    "price": 240000,
+    "price": 200000,
     "name": "Large Backpack"
   },
   "large_backpack_skin_enderpack": {
@@ -1300,11 +1300,11 @@
     "name": "Salmon Boots"
   },
   "rotten_chestplate": {
-    "price": 5037,
+    "price": 5040,
     "name": "Rotten Chestplate"
   },
   "great_spook_chestplate": {
-    "price": 3000000,
+    "price": 2500000,
     "name": "Great Spook Chestplate"
   },
   "vampirism_6": {
@@ -1336,11 +1336,11 @@
     "name": "Titanium Ring"
   },
   "divan_boots": {
-    "price": 14900000,
+    "price": 14899999,
     "name": "Boots Of Divan"
   },
   "strong_dragon_leggings": {
-    "price": 1250000,
+    "price": 1200000,
     "name": "Strong Dragon Leggings"
   },
   "lvl_1_legendary_turtle": {
@@ -1356,7 +1356,7 @@
     "name": "Ultimate Soul Eater 5"
   },
   "werewolf_helmet": {
-    "price": 600000,
+    "price": 700000,
     "name": "Werewolf Helmet"
   },
   "ice_spray_wand": {
@@ -1424,11 +1424,11 @@
     "name": "Bat The Fish"
   },
   "unstable_dragon_boots": {
-    "price": 100000,
+    "price": 109000,
     "name": "Unstable Dragon Boots"
   },
   "scarf_studies": {
-    "price": 599000,
+    "price": 550000,
     "name": "Scarf's Studies"
   },
   "lvl_100_legendary_jerry": {
@@ -1448,7 +1448,7 @@
     "name": "Jerry"
   },
   "intimidation_ring": {
-    "price": 300000,
+    "price": 350000,
     "name": "Intimidation Ring"
   },
   "flamebreaker_helmet": {
@@ -1468,11 +1468,11 @@
     "name": "Soul Whip"
   },
   "ruby_power_scroll": {
-    "price": 549000,
+    "price": 505000,
     "name": "Ruby Power Scroll"
   },
   "golden_plate": {
-    "price": 1280000,
+    "price": 1290000,
     "name": "Golden Plate"
   },
   "wise_wither_helmet": {
@@ -1480,15 +1480,15 @@
     "name": "Storm's Helmet"
   },
   "griffin_upgrade_stone_epic": {
-    "price": 5300000,
+    "price": 5400000,
     "name": "Griffin Upgrade Stone"
   },
   "sorrow_helmet": {
-    "price": 4900000,
+    "price": 4850000,
     "name": "Sorrow Helmet"
   },
   "protector_dragon_helmet": {
-    "price": 179999,
+    "price": 700000,
     "name": "Protector Dragon Helmet"
   },
   "protector_dragon_helmet_skin_protector_shimmer": {
@@ -1508,11 +1508,11 @@
     "name": "Frozen Blaze Helmet"
   },
   "mastiff_leggings": {
-    "price": 750000,
+    "price": 850000,
     "name": "Mastiff Leggings"
   },
   "skeleton_lord_helmet": {
-    "price": 4800000,
+    "price": 4700000,
     "name": "Skeleton Lord Helmet"
   },
   "ultimate_wisdom_4": {
@@ -1520,19 +1520,19 @@
     "name": "Ultimate Wisdom 4"
   },
   "starlight_chestplate": {
-    "price": 60000,
-    "name": "Starlight Chestplate"
+    "price": 80000,
+    "name": "Chestplate"
   },
   "mineral_chestplate": {
-    "price": 300000,
+    "price": 314000,
     "name": "Mineral Chestplate"
   },
   "necromancer_sword": {
-    "price": 4900000,
+    "price": 4999999,
     "name": "Necromancer Sword"
   },
   "heavy_leggings": {
-    "price": 11000,
+    "price": 9000,
     "name": "So Heavy Leggings"
   },
   "ember_rod": {
@@ -1544,19 +1544,19 @@
     "name": "Ultimate Jerry 5"
   },
   "holy_dragon_boots": {
-    "price": 100000,
+    "price": 125000,
     "name": "Holy Dragon Boots"
   },
   "dungeon_chest_key": {
-    "price": 140000,
+    "price": 120000,
     "name": "Dungeon Chest Key"
   },
   "the_shredder": {
-    "price": 539000,
+    "price": 530000,
     "name": "Shredder"
   },
   "synthetic_heart": {
-    "price": 150000,
+    "price": 100000,
     "name": "Synthetic Heart"
   },
   "elegant_tuxedo_boots": {
@@ -1564,7 +1564,7 @@
     "name": "Elegant Tuxedo Oxfords"
   },
   "final_destination_boots": {
-    "price": 744000,
+    "price": 700000,
     "name": "Final Destination Boots"
   },
   "lvl_100_legendary_tiger": {
@@ -1616,7 +1616,7 @@
     "name": "Tiger"
   },
   "sponge_leggings": {
-    "price": 1000000,
+    "price": 1200000,
     "name": "Sponge Leggings"
   },
   "mithril_drill_1": {
@@ -1624,11 +1624,11 @@
     "name": "Mithril Drill Sx-r226"
   },
   "divan_chestplate": {
-    "price": 17700000,
+    "price": 17699999,
     "name": "Chestplate Of Divan"
   },
   "lvl_100_legendary_black_cat": {
-    "price": 39000000,
+    "price": 36900000,
     "name": "Black Cat"
   },
   "lvl_100_legendary_black_cat_skin_black_cat_onyx": {
@@ -1680,15 +1680,15 @@
     "name": "Handy Blood Chalice"
   },
   "gemstone_drill_1": {
-    "price": 3249900,
+    "price": 3598000,
     "name": "Ruby Drill Tx-15"
   },
   "unstable_dragon_chestplate": {
-    "price": 190000,
+    "price": 187000,
     "name": "Unstable Dragon Chestplate"
   },
   "cactus_knife": {
-    "price": 899000,
+    "price": 890000,
     "name": "Cactus Knife"
   },
   "danger_3_travel_scroll": {
@@ -1704,11 +1704,11 @@
     "name": "Pristine 1"
   },
   "golem_poppy": {
-    "price": 410000,
+    "price": 350000,
     "name": "Rose"
   },
   "shaman_sword": {
-    "price": 370000,
+    "price": 450000,
     "name": "Shaman Sword"
   },
   "glacite_chestplate": {
@@ -1724,11 +1724,11 @@
     "name": "Wise 1"
   },
   "bat_talisman": {
-    "price": 125000,
+    "price": 145000,
     "name": "Bat Talisman"
   },
   "greater_backpack": {
-    "price": 465000,
+    "price": 439000,
     "name": "Greater Backpack"
   },
   "greater_backpack_skin_enderpack": {
@@ -1736,7 +1736,7 @@
     "name": "Greater Backpack"
   },
   "spider_boots": {
-    "price": 345000,
+    "price": 350000,
     "name": "Spider's Boots"
   },
   "power_6": {
@@ -1744,11 +1744,11 @@
     "name": "Power 6"
   },
   "bat_wand": {
-    "price": 14650000,
+    "price": 14599999,
     "name": "Spirit Sceptre"
   },
   "farmer_boots": {
-    "price": 219999,
+    "price": 222999,
     "name": "Farmer Boots"
   },
   "lvl_100_rare_griffin": {
@@ -1760,11 +1760,11 @@
     "name": "Maxor The Fish"
   },
   "shadow_assassin_boots": {
-    "price": 1100000,
+    "price": 985000,
     "name": "Shadow Assassin Boots"
   },
   "magma_bow": {
-    "price": 1699900,
+    "price": 1700000,
     "name": "Magma Bow"
   },
   "respite_4": {
@@ -1772,7 +1772,7 @@
     "name": "Respite 4"
   },
   "shark_scale_chestplate": {
-    "price": 1199900,
+    "price": 1230000,
     "name": "Shark Scale Chestplate"
   },
   "beastmaster_crest_uncommon": {
@@ -1788,15 +1788,15 @@
     "name": "Zombie Lord Helmet"
   },
   "hilt_of_true_ice": {
-    "price": 99999,
+    "price": 150000,
     "name": "Hilt Of True Ice"
   },
   "werewolf_boots": {
-    "price": 600000,
+    "price": 700000,
     "name": "Werewolf Boots"
   },
   "skeleton_grunt_chestplate": {
-    "price": 50000,
+    "price": 6000,
     "name": "Skeleton Grunt Chestplate"
   },
   "ender_slayer_7": {
@@ -1852,11 +1852,11 @@
     "name": "Ender Dragon"
   },
   "end_stone_sword": {
-    "price": 140000,
+    "price": 149999,
     "name": "End Stone Sword"
   },
   "lvl_1_uncommon_armadillo": {
-    "price": 3999,
+    "price": 3000,
     "name": "Uncommon Armadillo"
   },
   "ultimate_soul_eater_1": {
@@ -1868,7 +1868,7 @@
     "name": "All Skills Exp Boost"
   },
   "lvl_100_legendary_silverfish": {
-    "price": 3700000,
+    "price": 3695000,
     "name": "Silverfish"
   },
   "lvl_100_legendary_silverfish_skin_silverfish": {
@@ -1900,7 +1900,7 @@
     "name": "Turbo Wheat 1"
   },
   "armor_of_yog_leggings": {
-    "price": 390000,
+    "price": 400000,
     "name": "Yog Leggings"
   },
   "ghoul_buster": {
@@ -1912,27 +1912,27 @@
     "name": "Wand Of Mending"
   },
   "bait_ring": {
-    "price": 22999999,
+    "price": 22000000,
     "name": "Bait Ring"
   },
   "lvl_1_epic_endermite": {
-    "price": 490000,
+    "price": 450000,
     "name": "Endermite"
   },
   "autopet_rules_2": {
-    "price": 7730000,
+    "price": 7700000,
     "name": "Autopet Rules 2-pack"
   },
   "heat_core": {
-    "price": 990000,
+    "price": 1150000,
     "name": "Heat Core"
   },
   "nether_artifact": {
-    "price": 45000000,
+    "price": 47000000,
     "name": "Nether Artifact"
   },
   "bat_ring": {
-    "price": 250000,
+    "price": 300000,
     "name": "Bat Ring"
   },
   "minion_expander": {
@@ -1944,7 +1944,7 @@
     "name": "Blue Whale"
   },
   "personal_compactor_6000": {
-    "price": 2150000,
+    "price": 2175000,
     "name": "Personal Compactor 6000"
   },
   "final_destination_chestplate": {
@@ -1960,11 +1960,11 @@
     "name": "Big Brain 5"
   },
   "giants_sword": {
-    "price": 189999999,
+    "price": 196000000,
     "name": "Giant's Sword"
   },
   "shark_scale_leggings": {
-    "price": 999999,
+    "price": 1000000,
     "name": "Shark Scale Leggings"
   },
   "lvl_1_uncommon_griffin": {
@@ -1976,8 +1976,8 @@
     "name": "Rare Armadillo"
   },
   "wise_dragon_leggings": {
-    "price": 1500000,
-    "name": "Wise Dragon Leggings"
+    "price": 1650000,
+    "name": "Dragon Leggings"
   },
   "ender_slayer_6": {
     "price": 3990000,
@@ -1996,7 +1996,7 @@
     "name": "Reaper Boots"
   },
   "unstable_dragon_helmet": {
-    "price": 147995,
+    "price": 142000,
     "name": "Unstable Dragon Helmet"
   },
   "unstable_dragon_helmet_skin_unstable_shimmer": {
@@ -2008,11 +2008,11 @@
     "name": "Unstable Dragon Helmet"
   },
   "skeleton_soldier_boots": {
-    "price": 20000,
+    "price": 15000,
     "name": "Skeleton Soldier Boots"
   },
   "revived_heart": {
-    "price": 2488888,
+    "price": 2450000,
     "name": "Revived Heart"
   },
   "crystal_helmet": {
@@ -2020,7 +2020,7 @@
     "name": "Crystal Helmet"
   },
   "flamebreaker_chestplate": {
-    "price": 1498000,
+    "price": 1300000,
     "name": "Ember Ash Chestplate"
   },
   "armor_of_the_resistance_chestplate": {
@@ -2028,7 +2028,7 @@
     "name": "Chestplate Of The Rising Sun"
   },
   "potato_talisman": {
-    "price": 14000000,
+    "price": 16000000,
     "name": "Potato Talisman"
   },
   "lvl_1_epic_ender_dragon": {
@@ -2040,11 +2040,11 @@
     "name": "Hound"
   },
   "jerry_talisman_green": {
-    "price": 733420,
+    "price": 714000,
     "name": "Green Jerry Talisman"
   },
   "personal_compactor_7000": {
-    "price": 3990000,
+    "price": 4099000,
     "name": "Personal Compactor 7000"
   },
   "smarty_pants_1": {
@@ -2056,11 +2056,11 @@
     "name": "Vicious 3"
   },
   "pet_item_farming_skill_boost_epic": {
-    "price": 1640000,
+    "price": 1600000,
     "name": "Farming Exp Boost"
   },
   "raider_axe": {
-    "price": 140000,
+    "price": 149000,
     "name": "Raider Axe"
   },
   "red_claw_egg": {
@@ -2080,7 +2080,7 @@
     "name": "Beacon Iii"
   },
   "snow_suit_helmet": {
-    "price": 99000,
+    "price": 100000,
     "name": "Snow Suit Helmet"
   },
   "snow_suit_helmet_skin_snow_snowglobe": {
@@ -2088,7 +2088,7 @@
     "name": "Snow Suit Helmet"
   },
   "lvl_1_common_griffin": {
-    "price": 27000,
+    "price": 24998,
     "name": "Common Griffin"
   },
   "farming_2_travel_scroll": {
@@ -2096,7 +2096,7 @@
     "name": "Travel Scroll To Mushroom Island"
   },
   "jumbo_backpack": {
-    "price": 2000000,
+    "price": 2200000,
     "name": "Jumbo Backpack"
   },
   "jumbo_backpack_skin_enderpack": {
@@ -2136,19 +2136,19 @@
     "name": "Heated Mithril Drill Sx-r326"
   },
   "radiant_power_orb": {
-    "price": 45000,
+    "price": 49000,
     "name": "Radiant Power Orb"
   },
   "crochet_tiger_plushie": {
-    "price": 239999,
+    "price": 230000,
     "name": "Crochet Tiger Plushie"
   },
   "hurricane_bow": {
-    "price": 75000,
+    "price": 85000,
     "name": "Hurricane Bow"
   },
   "tarantula_talisman": {
-    "price": 1800000,
+    "price": 1699999,
     "name": "Tarantula Talisman"
   },
   "lvl_1_legendary_pig": {
@@ -2168,7 +2168,7 @@
     "name": "Wolf Paw"
   },
   "werewolf_leggings": {
-    "price": 800000,
+    "price": 850000,
     "name": "Werewolf Leggings"
   },
   "ultimate_wise_5": {
@@ -2188,7 +2188,7 @@
     "name": "Reaper Leggings"
   },
   "ranchers_boots": {
-    "price": 2250000,
+    "price": 2100000,
     "name": "Rancher's Boots"
   },
   "talisman_enrichment_magic_find": {
@@ -2196,15 +2196,15 @@
     "name": "Magic Find Enrichment"
   },
   "tribal_spear": {
-    "price": 300000,
+    "price": 450000,
     "name": "Tribal Spear"
   },
   "end_helmet": {
-    "price": 48000,
+    "price": 69000,
     "name": "Ender Helmet"
   },
   "new_year_cake_bag": {
-    "price": 378999,
+    "price": 350000,
     "name": "New Year Cake Bag"
   },
   "lvl_1_common_blue_whale": {
@@ -2212,7 +2212,7 @@
     "name": "Common Blue Whale"
   },
   "old_dragon_chestplate": {
-    "price": 250000,
+    "price": 294999,
     "name": "Old Dragon Chestplate"
   },
   "candy_ring": {
@@ -2220,15 +2220,15 @@
     "name": "Candy Ring"
   },
   "werewolf_chestplate": {
-    "price": 700000,
+    "price": 849995,
     "name": "Werewolf Chestplate"
   },
   "dark_goggles": {
-    "price": 50000,
+    "price": 70000,
     "name": "Dark Goggles"
   },
   "frozen_blaze_boots": {
-    "price": 9799998,
+    "price": 9999000,
     "name": "Frozen Blaze Boots"
   },
   "ultimate_rend_1": {
@@ -2244,11 +2244,11 @@
     "name": "Shard Of The Shredded"
   },
   "griffin_upgrade_stone_uncommon": {
-    "price": 1149000,
+    "price": 1149999,
     "name": "Griffin Upgrade Stone"
   },
   "legend_rod": {
-    "price": 3900000,
+    "price": 4100000,
     "name": "Rod Of Legends"
   },
   "fallen_star_hat": {
@@ -2256,11 +2256,11 @@
     "name": "Fallen Star Helmet"
   },
   "bat_person_talisman": {
-    "price": 235000,
+    "price": 275000,
     "name": "Bat Person Talisman"
   },
   "gemstone_gauntlet": {
-    "price": 14500000,
+    "price": 14800000,
     "name": "Gemstone Gauntlet"
   },
   "gold_candy": {
@@ -2280,7 +2280,7 @@
     "name": "Ember Ash Leggings"
   },
   "dragon_nest_travel_scroll": {
-    "price": 850000,
+    "price": 800000,
     "name": "Travel Scroll To Dragon's Nest"
   },
   "implosion_scroll": {
@@ -2292,7 +2292,7 @@
     "name": "Health Enrichment"
   },
   "gemstone_chamber": {
-    "price": 11111111,
+    "price": 11000000,
     "name": "Gemstone Chamber"
   },
   "super_heavy_boots": {
@@ -2304,7 +2304,7 @@
     "name": "Turbo Warts 5"
   },
   "xlarge_enchanted_chest": {
-    "price": 950000,
+    "price": 999999,
     "name": "X-large Storage"
   },
   "lvl_1_legendary_skeleton": {
@@ -2320,7 +2320,7 @@
     "name": "Travel Scroll To Deep Caverns"
   },
   "shadow_assassin_leggings": {
-    "price": 4000000,
+    "price": 4099999,
     "name": "Shadow Assassin Leggings"
   },
   "tuning_fork": {
@@ -2328,11 +2328,11 @@
     "name": "Tuning Fork"
   },
   "electron_transmitter": {
-    "price": 90000,
+    "price": 60000,
     "name": "Electron Transmitter"
   },
   "diver_fragment": {
-    "price": 198998,
+    "price": 199000,
     "name": "Emperor's Skull"
   },
   "pet_skin_monkey_golden": {
@@ -2352,19 +2352,19 @@
     "name": "Jellyfish"
   },
   "wither_catalyst": {
-    "price": 1099000,
+    "price": 999000,
     "name": "Wither Catalyst"
   },
   "zombie_knight_chestplate": {
-    "price": 55000,
+    "price": 40000,
     "name": "Zombie Knight Chestplate"
   },
   "control_switch": {
-    "price": 120000,
+    "price": 121000,
     "name": "Control Switch"
   },
   "glacite_boots": {
-    "price": 27000,
+    "price": 29000,
     "name": "Glacite Boots"
   },
   "pristine_2": {
@@ -2392,7 +2392,7 @@
     "name": "Master Skull - Tier 5"
   },
   "zombie_commander_chestplate": {
-    "price": 200000,
+    "price": 300000,
     "name": "Zombie Commander Chestplate"
   },
   "pet_skin_jerry_red_elf": {
@@ -2400,7 +2400,7 @@
     "name": "Red Elf Jerry Skin"
   },
   "undead_catalyst": {
-    "price": 2999,
+    "price": 3000,
     "name": "Catalyst"
   },
   "titanium_drill_2": {
@@ -2412,7 +2412,7 @@
     "name": "Frosty The Snow Cannon"
   },
   "tarantula_chestplate": {
-    "price": 1170000,
+    "price": 1300000,
     "name": "Tarantula Chestplate"
   },
   "adaptive_leggings": {
@@ -2420,7 +2420,7 @@
     "name": "Adaptive Leggings"
   },
   "hardened_diamond_chestplate": {
-    "price": 25000,
+    "price": 42500,
     "name": "Hardened Diamond Chestplate"
   },
   "lvl_1_rare_monkey": {
@@ -2436,11 +2436,11 @@
     "name": "Uncommon Lion"
   },
   "auto_recombobulator": {
-    "price": 11600000,
+    "price": 12398000,
     "name": "Auto Recombobulator"
   },
   "end_leggings": {
-    "price": 90000,
+    "price": 115000,
     "name": "Ender Leggings"
   },
   "enderpack": {
@@ -2468,7 +2468,7 @@
     "name": "Great Spook Staff"
   },
   "earth_shard": {
-    "price": 21998,
+    "price": 20000,
     "name": "Earth Shard"
   },
   "ultimate_combo_2": {
@@ -2476,7 +2476,7 @@
     "name": "Ultimate Combo 2"
   },
   "lvl_1_legendary_spirit": {
-    "price": 5350000,
+    "price": 4900000,
     "name": "Spirit"
   },
   "lvl_1_rare_elephant": {
@@ -2484,7 +2484,7 @@
     "name": "Rare Elephant"
   },
   "adaptive_chestplate": {
-    "price": 3840000,
+    "price": 3950000,
     "name": "Adaptive Chestplate"
   },
   "titanium_drill_4": {
@@ -2496,7 +2496,7 @@
     "name": "Speedster Boots"
   },
   "old_dragon_boots": {
-    "price": 245000,
+    "price": 240000,
     "name": "Old Dragon Boots"
   },
   "park_jungle_travel_scroll": {
@@ -2504,7 +2504,7 @@
     "name": "Travel Scroll To Jungle Island"
   },
   "jungle_heart": {
-    "price": 65000,
+    "price": 130000,
     "name": "Jungle Heart"
   },
   "wise_wither_chestplate": {
@@ -2520,7 +2520,7 @@
     "name": "Miner Helmet"
   },
   "bejeweled_handle": {
-    "price": 150000,
+    "price": 145000,
     "name": "Bejeweled Handle"
   },
   "pet_item_tier_boost_drop": {
@@ -2532,8 +2532,8 @@
     "name": "Ender Relic"
   },
   "starred_bonzo_staff": {
-    "price": 4000000,
-    "name": "Spicy Bonzo's Staff"
+    "price": 4200000,
+    "name": "Heroic Bonzo's Staff"
   },
   "ultimate_legion_5": {
     "price": 22888888,
@@ -2564,11 +2564,11 @@
     "name": "Rotten Leggings"
   },
   "armor_of_the_resistance_boots": {
-    "price": 600000,
+    "price": 550000,
     "name": "Boots Of The Rising Sun"
   },
   "shark_scale_boots": {
-    "price": 649999,
+    "price": 800000,
     "name": "Shark Scale Boots"
   },
   "lvl_1_uncommon_skeleton": {
@@ -2576,7 +2576,7 @@
     "name": "Uncommon Skeleton"
   },
   "zombie_heart": {
-    "price": 250000,
+    "price": 180000,
     "name": "Zombie's Heart"
   },
   "pet_skin_rock_smile": {
@@ -2584,7 +2584,7 @@
     "name": "Smiling Rock Skin"
   },
   "feather_artifact": {
-    "price": 130000,
+    "price": 120000,
     "name": "Feather Artifact"
   },
   "emerald_armor_boots": {
@@ -2600,11 +2600,11 @@
     "name": "Ember Leggings"
   },
   "hub_crypts_travel_scroll": {
-    "price": 550000,
+    "price": 400000,
     "name": "Travel Scroll To Hub Crypts"
   },
   "treasure_talisman": {
-    "price": 400000,
+    "price": 298000,
     "name": "Treasure Talisman"
   },
   "beacon": {
@@ -2620,7 +2620,7 @@
     "name": "Chestplate Of Growth"
   },
   "lvl_1_rare_skeleton": {
-    "price": 15000,
+    "price": 100000,
     "name": "Rare Skeleton"
   },
   "spiders_den_top_travel_scroll": {
@@ -2628,11 +2628,11 @@
     "name": "Travel Scroll To Spider's Den Top Of Nest"
   },
   "lvl_1_epic_sheep": {
-    "price": 925000,
+    "price": 600000,
     "name": "Sheep"
   },
   "lvl_100_legendary_wither_skeleton": {
-    "price": 9980000,
+    "price": 10999900,
     "name": "Wither Skeleton"
   },
   "lvl_100_legendary_wither_skeleton_skin_wither": {
@@ -2672,7 +2672,7 @@
     "name": "Monkey"
   },
   "gold_professor_head": {
-    "price": 1850000,
+    "price": 1800000,
     "name": "Golden Professor Head"
   },
   "harvesting_6": {
@@ -2680,7 +2680,7 @@
     "name": "Harvesting 6"
   },
   "jungle_pickaxe": {
-    "price": 310000,
+    "price": 345000,
     "name": "Jungle Pickaxe"
   },
   "lvl_1_epic_lion": {
@@ -2696,7 +2696,7 @@
     "name": "Shadow Fury"
   },
   "golem_armor_boots": {
-    "price": 180000,
+    "price": 179000,
     "name": "Golem Armor Boots"
   },
   "pig_mask": {
@@ -2712,7 +2712,7 @@
     "name": "Titanium Artifact"
   },
   "pocket_espresso_machine": {
-    "price": 499999,
+    "price": 400000,
     "name": "Pocket Espresso Machine"
   },
   "amethyst_power_scroll": {
@@ -2724,7 +2724,7 @@
     "name": "Elegant Tuxedo Pants"
   },
   "zombie_knight_helmet": {
-    "price": 30000,
+    "price": 35000,
     "name": "Zombie Knight Helmet"
   },
   "lvl_100_legendary_wolf": {
@@ -2748,7 +2748,7 @@
     "name": "Mana Steal 3"
   },
   "salmon_chestplate_new": {
-    "price": 63000,
+    "price": 60000,
     "name": "Salmon Chestplate"
   },
   "beastmaster_crest_epic": {
@@ -2756,7 +2756,7 @@
     "name": "Beastmaster Crest"
   },
   "armor_of_the_resistance_leggings": {
-    "price": 950000,
+    "price": 900000,
     "name": "Leggings Of The Rising Sun"
   },
   "shadow_fury": {
@@ -2764,7 +2764,7 @@
     "name": "Shadow Fury"
   },
   "reaper_orb": {
-    "price": 31500000,
+    "price": 29000000,
     "name": "Reaper Orb"
   },
   "block_zapper": {
@@ -2780,7 +2780,7 @@
     "name": "Salmon Chestplate"
   },
   "forge_travel_scroll": {
-    "price": 172000,
+    "price": 173000,
     "name": "Travel Scroll To The Dwarven Forge"
   },
   "dungeon_lore_paper": {
@@ -2788,7 +2788,7 @@
     "name": "Journal Entry"
   },
   "blaze_helmet": {
-    "price": 2100000,
+    "price": 2500000,
     "name": "Blaze Helmet"
   },
   "terminator": {
@@ -2796,7 +2796,7 @@
     "name": "Terminator"
   },
   "zombie_knight_boots": {
-    "price": 55000,
+    "price": 40000,
     "name": "Zombie Knight Boots"
   },
   "ice_rod": {
@@ -2812,7 +2812,7 @@
     "name": "Hasty Last Breath"
   },
   "skeleton_soldier_helmet": {
-    "price": 20000,
+    "price": 5037,
     "name": "Skeleton Soldier Helmet"
   },
   "lvl_100_epic_tiger": {
@@ -2840,7 +2840,7 @@
     "name": "Turbo Cane 4"
   },
   "lvl_1_epic_silverfish": {
-    "price": 50000,
+    "price": 49000,
     "name": "Silverfish"
   },
   "souls_rebound": {
@@ -2852,11 +2852,11 @@
     "name": "Ivory Black Cat Skin"
   },
   "pet_item_exp_share_drop": {
-    "price": 740000,
+    "price": 799999,
     "name": "Exp Share Core"
   },
   "hyper_cleaver": {
-    "price": 499999,
+    "price": 500000,
     "name": "Hyper Cleaver"
   },
   "sugar_rush_2": {
@@ -2892,7 +2892,7 @@
     "name": "Null Edge"
   },
   "danger_2_travel_scroll": {
-    "price": 230000,
+    "price": 240000,
     "name": "Travel Scroll To The Crimson Isle"
   },
   "bat_firework": {
@@ -2932,7 +2932,7 @@
     "name": "Growth 6"
   },
   "skeleton_master_chestplate": {
-    "price": 22500,
+    "price": 33000,
     "name": "Skeleton Master Chestplate"
   },
   "vampire_mask": {
@@ -2940,11 +2940,11 @@
     "name": "Vampire Mask"
   },
   "zombie_soldier_helmet": {
-    "price": 9000,
+    "price": 10000,
     "name": "Zombie Soldier Helmet"
   },
   "pet_item_combat_skill_boost_epic": {
-    "price": 4500000,
+    "price": 4300000,
     "name": "Combat Exp Boost"
   },
   "farming_1_portal": {
@@ -2952,7 +2952,7 @@
     "name": "Portal To The Barn"
   },
   "pet_item_spooky_cupcake": {
-    "price": 110000,
+    "price": 105000,
     "name": "Spooky Cupcake"
   },
   "candy_relic": {
@@ -2960,15 +2960,15 @@
     "name": "Candy Relic"
   },
   "dark_queens_soul_drop": {
-    "price": 99000,
+    "price": 100000,
     "name": "Dark Queen's Soul Drop"
   },
   "lvl_1_legendary_wolf": {
-    "price": 1500000,
+    "price": 1650000,
     "name": "Wolf"
   },
   "glacite_helmet": {
-    "price": 38999,
+    "price": 38000,
     "name": "Glacite Helmet"
   },
   "sinful_dice": {
@@ -2976,7 +2976,7 @@
     "name": "Sinful Dice"
   },
   "sapphire_power_scroll": {
-    "price": 596000,
+    "price": 579000,
     "name": "Sapphire Power Scroll"
   },
   "salmon_leggings": {
@@ -2996,11 +2996,11 @@
     "name": "Voidwalker Katana"
   },
   "strong_dragon_boots": {
-    "price": 860000,
+    "price": 750000,
     "name": "Strong Dragon Boots"
   },
   "tank_miner_boots": {
-    "price": 7000,
+    "price": 2000,
     "name": "Miner Boots"
   },
   "lvl_100_epic_phoenix": {
@@ -3012,15 +3012,15 @@
     "name": "Phoenix"
   },
   "lesser_soulflow_engine": {
-    "price": 740000,
+    "price": 700000,
     "name": "Lesser Soulflow Engine"
   },
   "zombie_chestplate": {
-    "price": 999000,
+    "price": 1000000,
     "name": "Zombie Chestplate"
   },
   "frozen_blaze_leggings": {
-    "price": 10800000,
+    "price": 10900000,
     "name": "Frozen Blaze Leggings"
   },
   "sniper_helmet": {
@@ -3028,19 +3028,19 @@
     "name": "Sniper Helmet"
   },
   "ender_bow": {
-    "price": 25000,
+    "price": 40000,
     "name": "Ender Bow"
   },
   "old_dragon_leggings": {
-    "price": 300000,
+    "price": 285000,
     "name": "Old Dragon Leggings"
   },
   "young_dragon_leggings": {
-    "price": 177000,
+    "price": 219000,
     "name": "Young Dragon Leggings"
   },
   "third_master_star": {
-    "price": 23935867,
+    "price": 23935866,
     "name": "Third Master Star"
   },
   "triple_strike_5": {
@@ -3064,7 +3064,7 @@
     "name": "Shrimp The Fish"
   },
   "yeti_rod": {
-    "price": 200000,
+    "price": 300000,
     "name": "Yeti Rod"
   },
   "lvl_1_uncommon_rock": {
@@ -3080,7 +3080,7 @@
     "name": "Warden Heart"
   },
   "all_skills_super_boost": {
-    "price": 3490000,
+    "price": 3480000,
     "name": "All Skills Exp Super-boost"
   },
   "ultimate_last_stand_2": {
@@ -3096,11 +3096,11 @@
     "name": "Sleeping Eye"
   },
   "scarf_grimoire": {
-    "price": 9500000,
+    "price": 9750000,
     "name": "Scarf's Grimoire"
   },
   "pet_item_mining_skill_boost_rare": {
-    "price": 545000,
+    "price": 549999,
     "name": "Mining Exp Boost"
   },
   "intimidation_artifact": {
@@ -3120,7 +3120,7 @@
     "name": "Wither Skeleton"
   },
   "spiked_atrocity": {
-    "price": 38900000,
+    "price": 50000000,
     "name": "Atrocity"
   },
   "scorpion_foil": {
@@ -3132,15 +3132,15 @@
     "name": "Guardian"
   },
   "edible_mace": {
-    "price": 2400000,
+    "price": 2300000,
     "name": "Edible Mace"
   },
   "bonzo_staff": {
-    "price": 3700000,
+    "price": 3450000,
     "name": "Bonzo's Staff"
   },
   "talisman_enrichment_intelligence": {
-    "price": 2980000,
+    "price": 2800000,
     "name": "Intelligence Enrichment"
   },
   "ultimate_combo_1": {
@@ -3148,7 +3148,7 @@
     "name": "Ultimate Combo 1"
   },
   "ender_artifact": {
-    "price": 72999999,
+    "price": 71999999,
     "name": "Ender Artifact"
   },
   "lvl_100_legendary_armadillo": {
@@ -3172,7 +3172,7 @@
     "name": "Common Enderman"
   },
   "skeleton_helmet": {
-    "price": 399000,
+    "price": 600000,
     "name": "Skeleton's Helmet"
   },
   "protector_dragon_leggings": {
@@ -3188,11 +3188,11 @@
     "name": "Ultimate Swarm 5"
   },
   "jerry_talisman_blue": {
-    "price": 3750000,
+    "price": 3700000,
     "name": "Blue Jerry Talisman"
   },
   "crystal_boots": {
-    "price": 315000,
+    "price": 320000,
     "name": "Crystal Boots"
   },
   "auger_rod": {
@@ -3200,7 +3200,7 @@
     "name": "Auger Rod"
   },
   "the_art_of_war": {
-    "price": 4440000,
+    "price": 4439999,
     "name": "The Art of War"
   },
   "boots_of_the_pack": {
@@ -3208,7 +3208,7 @@
     "name": "Boots Of The Pack"
   },
   "heavy_chestplate": {
-    "price": 25000,
+    "price": 5500,
     "name": "Heavy Chestplate"
   },
   "pet_skin_bat_vampire": {
@@ -3220,7 +3220,7 @@
     "name": "Mana Steal 1"
   },
   "great_spook_boots": {
-    "price": 1500000,
+    "price": 1250000,
     "name": "Great Spook Boots"
   },
   "diver_boots": {
@@ -3228,7 +3228,7 @@
     "name": "Diver's Boots"
   },
   "robotron_reflector": {
-    "price": 247998,
+    "price": 270000,
     "name": "Robotron Reflector"
   },
   "god_potion": {
@@ -3240,7 +3240,7 @@
     "name": "Red Elephant Skin"
   },
   "bonzo_mask": {
-    "price": 1050000,
+    "price": 1250000,
     "name": "Bonzo's Mask"
   },
   "zombie_commander_leggings": {
@@ -3252,7 +3252,7 @@
     "name": "Axe Of The Shredded"
   },
   "lvl_1_legendary_elephant": {
-    "price": 16399999,
+    "price": 16499999,
     "name": "Elephant"
   },
   "divan_alloy": {
@@ -3264,23 +3264,23 @@
     "name": "Snow Suit Boots"
   },
   "wise_dragon_helmet": {
-    "price": 849999,
-    "name": "Dragon Helmet"
+    "price": 845000,
+    "name": "Wise Dragon Helmet"
   },
   "wise_dragon_helmet_skin_wise_baby": {
     "price": 399000000,
-    "name": "Dragon Helmet"
+    "name": "Wise Dragon Helmet"
   },
   "wise_dragon_helmet_skin_wise_shimmer": {
     "price": 45000000,
-    "name": "Dragon Helmet"
+    "name": "Wise Dragon Helmet"
   },
   "pet_item_foraging_skill_boost_common": {
     "price": 80000,
     "name": "Foraging Exp Boost"
   },
   "goblin_omelette": {
-    "price": 380000,
+    "price": 350000,
     "name": "Goblin Omelette"
   },
   "giant_killer_7": {
@@ -3316,7 +3316,7 @@
     "name": "Titan Killer 7"
   },
   "super_heavy_leggings": {
-    "price": 15000,
+    "price": 10000,
     "name": "Super Heavy Leggings"
   },
   "helmet_of_the_pack": {
@@ -3324,7 +3324,7 @@
     "name": "Helmet Of The Pack"
   },
   "snow_suit_leggings": {
-    "price": 50000,
+    "price": 60000,
     "name": "Snow Suit Leggings"
   },
   "big_brain_3": {
@@ -3332,7 +3332,7 @@
     "name": "Big Brain 3"
   },
   "diver_leggings": {
-    "price": 999999,
+    "price": 1300000,
     "name": "Diver's Trunks"
   },
   "fancy_tuxedo_boots": {
@@ -3340,7 +3340,7 @@
     "name": "Fancy Tuxedo Oxfords"
   },
   "venoms_touch": {
-    "price": 530000,
+    "price": 550000,
     "name": "Venom's Touch"
   },
   "lvl_100_legendary_ender_dragon": {
@@ -3388,7 +3388,7 @@
     "name": "Maxor's Helmet"
   },
   "lvl_100_legendary_elephant": {
-    "price": 20999997,
+    "price": 20490000,
     "name": "Elephant"
   },
   "lvl_100_legendary_elephant_skin_elephant_red": {
@@ -3472,7 +3472,7 @@
     "name": "Elephant"
   },
   "fish_affinity_talisman": {
-    "price": 80000,
+    "price": 68000,
     "name": "Fish Affinity Talisman"
   },
   "mithril_coat": {
@@ -3480,7 +3480,7 @@
     "name": "Mithril Coat"
   },
   "pet_item_fishing_skill_boost_rare": {
-    "price": 650000,
+    "price": 670000,
     "name": "Fishing Exp Boost"
   },
   "reaper_sword": {
@@ -3496,11 +3496,11 @@
     "name": "Horse"
   },
   "master_skull_tier_4": {
-    "price": 8000000,
+    "price": 7800000,
     "name": "Master Skull - Tier 4"
   },
   "lvl_1_legendary_jerry": {
-    "price": 999999,
+    "price": 900000,
     "name": "Jerry"
   },
   "lvl_1_legendary_jerry_skin_jerry_handsome": {
@@ -3512,7 +3512,7 @@
     "name": "Horseman's Candle"
   },
   "healing_tissue": {
-    "price": 89000,
+    "price": 89999,
     "name": "Healing Tissue"
   },
   "purple_egg": {
@@ -3520,11 +3520,11 @@
     "name": "Purple Egged Skin"
   },
   "treasure_ring": {
-    "price": 3800000,
+    "price": 4150000,
     "name": "Treasure Ring"
   },
   "rotten_helmet": {
-    "price": 5250,
+    "price": 5037,
     "name": "Rotten Helmet"
   },
   "farming_1_travel_scroll": {
@@ -3532,7 +3532,7 @@
     "name": "Travel Scroll To The Barn"
   },
   "haste_ring": {
-    "price": 97000,
+    "price": 99000,
     "name": "Haste Ring"
   },
   "unstable_shimmer": {
@@ -3544,7 +3544,7 @@
     "name": "Transmission Tuner"
   },
   "lvl_1_epic_tarantula": {
-    "price": 40000,
+    "price": 70000,
     "name": "Tarantula"
   },
   "turbo_potato_2": {
@@ -3552,7 +3552,7 @@
     "name": "Turbo Potato 2"
   },
   "witch_mask": {
-    "price": 850000,
+    "price": 890000,
     "name": "Witch Mask"
   },
   "heavy_boots": {
@@ -3564,7 +3564,7 @@
     "name": "Shimmer Skin"
   },
   "strong_dragon_helmet": {
-    "price": 969998,
+    "price": 830000,
     "name": "Strong Dragon Helmet"
   },
   "strong_dragon_helmet_skin_strong_baby": {
@@ -3576,7 +3576,7 @@
     "name": "Strong Dragon Helmet"
   },
   "zombie_commander_helmet": {
-    "price": 450000,
+    "price": 499999,
     "name": "Zombie Commander Helmet"
   },
   "revenant_leggings": {
@@ -3588,7 +3588,7 @@
     "name": "Ultimate One For All 1"
   },
   "fly_swatter": {
-    "price": 890000,
+    "price": 889000,
     "name": "Fly Swatter"
   },
   "growth_boots": {
@@ -3688,7 +3688,7 @@
     "name": "Enderman"
   },
   "golem_armor_chestplate": {
-    "price": 169000,
+    "price": 179000,
     "name": "Golem Armor Chestplate"
   },
   "turbo_carrot_5": {
@@ -3704,11 +3704,11 @@
     "name": "Uncommon Magma Cube"
   },
   "leaping_sword": {
-    "price": 1900000,
+    "price": 1895000,
     "name": "Leaping Sword"
   },
   "skeleton_master_boots": {
-    "price": 20000,
+    "price": 23000,
     "name": "Skeleton Master Boots"
   },
   "turbo_potato_5": {
@@ -3752,11 +3752,11 @@
     "name": "Voodoo Doll"
   },
   "goblin_helmet": {
-    "price": 3000,
+    "price": 4000,
     "name": "Goblin Helmet"
   },
   "lvl_1_epic_ghoul": {
-    "price": 24000,
+    "price": 25000,
     "name": "Ghoul"
   },
   "pigs_foot": {
@@ -3780,7 +3780,7 @@
     "name": "Portal To Jungle Island"
   },
   "skeleton_master_helmet": {
-    "price": 24000,
+    "price": 23898,
     "name": "Skeleton Master Helmet"
   },
   "lvl_1_legendary_megalodon": {
@@ -3800,7 +3800,7 @@
     "name": "Rat"
   },
   "lvl_100_legendary_guardian": {
-    "price": 6300000,
+    "price": 6200000,
     "name": "Guardian"
   },
   "lvl_100_legendary_guardian_skin_guardian": {
@@ -3816,11 +3816,11 @@
     "name": "Common Sheep"
   },
   "giant_fragment_diamond": {
-    "price": 1100000,
+    "price": 1180000,
     "name": "Diamante's Handle"
   },
   "golem_armor_helmet": {
-    "price": 239000,
+    "price": 179000,
     "name": "Golem Armor Helmet"
   },
   "perfect_helmet_1": {
@@ -3832,7 +3832,7 @@
     "name": "Roofed Forest Island"
   },
   "seal_of_the_family": {
-    "price": 97000000,
+    "price": 96000000,
     "name": "Seal Of The Family"
   },
   "plasmaflux_power_orb": {
@@ -3848,7 +3848,7 @@
     "name": "Ice Phoenix Skin"
   },
   "revenant_sword": {
-    "price": 750000,
+    "price": 749000,
     "name": "Revenant Falchion"
   },
   "barrier": {
@@ -3856,7 +3856,7 @@
     "name": "Barrier"
   },
   "lvl_1_epic_spider": {
-    "price": 694200,
+    "price": 549000,
     "name": "Spider"
   },
   "super_undead_bow": {
@@ -3864,7 +3864,7 @@
     "name": "Super Undead Bow"
   },
   "atomsplit_katana": {
-    "price": 42999000,
+    "price": 43999999,
     "name": "Atomsplit Katana"
   },
   "pet_skin_tiger_saber_tooth": {
@@ -3880,7 +3880,7 @@
     "name": "Spider"
   },
   "sponge_helmet": {
-    "price": 750000,
+    "price": 949000,
     "name": "Sponge Helmet"
   },
   "catacombs_expert_ring": {
@@ -3892,7 +3892,7 @@
     "name": "Mining Exp Boost"
   },
   "shadow_assassin_helmet": {
-    "price": 1800000,
+    "price": 1700000,
     "name": "Shadow Assassin Helmet"
   },
   "pet_item_combat_skill_boost_uncommon": {
@@ -3928,11 +3928,11 @@
     "name": "Aquamarine Rabbit Skin"
   },
   "mineral_boots": {
-    "price": 170000,
+    "price": 179000,
     "name": "Mineral Boots"
   },
   "goldor_the_fish": {
-    "price": 90000,
+    "price": 89000,
     "name": "Goldor The Fish"
   },
   "spooky_chestplate": {
@@ -3948,7 +3948,7 @@
     "name": "Infinite Quiver 10"
   },
   "spider_ring": {
-    "price": 80000,
+    "price": 88000,
     "name": "Spider Ring"
   },
   "fourth_master_star": {
@@ -3960,11 +3960,11 @@
     "name": "Turbo Pumpkin 1"
   },
   "challenge_rod": {
-    "price": 100000,
+    "price": 110000,
     "name": "Challenging Rod"
   },
   "gemstone_fuel_tank": {
-    "price": 31400000,
+    "price": 31000000,
     "name": "Gemstone Fuel Tank"
   },
   "rejuvenate_3": {
@@ -3972,7 +3972,7 @@
     "name": "Rejuvenate 3"
   },
   "blaze_boots": {
-    "price": 1500000,
+    "price": 1555555,
     "name": "Blaze Boots"
   },
   "lvl_100_legendary_endermite": {
@@ -4000,7 +4000,7 @@
     "name": "Topaz Drill Kgr-12"
   },
   "salmon_leggings_new": {
-    "price": 50000,
+    "price": 120000,
     "name": "Salmon Leggings"
   },
   "lvl_1_legendary_pigman": {
@@ -4036,7 +4036,7 @@
     "name": "Zombie Commander Whip"
   },
   "sniper_bow": {
-    "price": 9998,
+    "price": 30000,
     "name": "Sniper Bow"
   },
   "turbo_cane_5": {
@@ -4080,15 +4080,15 @@
     "name": "Zog Anvil"
   },
   "bat_person_helmet": {
-    "price": 741000,
+    "price": 650000,
     "name": "Bat Person Helmet"
   },
   "lvl_1_epic_pig": {
-    "price": 199000,
+    "price": 200000,
     "name": "Pig"
   },
   "battle_disc": {
-    "price": 500,
+    "price": 1,
     "name": "Battle Disc"
   },
   "ultimate_no_pain_no_gain_2": {
@@ -4104,11 +4104,11 @@
     "name": "Golem"
   },
   "florid_zombie_sword": {
-    "price": 3498000,
+    "price": 3400000,
     "name": "Florid Zombie Sword"
   },
   "beacon_1": {
-    "price": 380000,
+    "price": 400000,
     "name": "Beacon I"
   },
   "respite_2": {
@@ -4132,7 +4132,7 @@
     "name": "Gift The Fish"
   },
   "lvl_100_legendary_mithril_golem": {
-    "price": 6000000,
+    "price": 7399999,
     "name": "Mithril Golem"
   },
   "perfect_boots_3": {
@@ -4140,7 +4140,7 @@
     "name": "Boots - Tier Iii"
   },
   "perfectly_cut_fuel_tank": {
-    "price": 58000000,
+    "price": 59980000,
     "name": "Perfectly-cut Fuel Tank"
   },
   "lvl_100_legendary_griffin": {
@@ -4160,7 +4160,7 @@
     "name": "Turbo Cactus 3"
   },
   "lvl_100_legendary_ammonite": {
-    "price": 21000000,
+    "price": 21890000,
     "name": "Ammonite"
   },
   "lvl_1_legendary_squid": {
@@ -4208,7 +4208,7 @@
     "name": "Master Skull - Tier 2"
   },
   "gold_necron_head": {
-    "price": 31000000,
+    "price": 31200000,
     "name": "Golden Necron Head"
   },
   "diamond_sadan_head": {
@@ -4216,7 +4216,7 @@
     "name": "Diamond Sadan Head"
   },
   "devour_ring": {
-    "price": 1600000,
+    "price": 1698999,
     "name": "Devour Ring"
   },
   "pet_skin_elephant_green": {
@@ -4224,7 +4224,7 @@
     "name": "Green Elephant Skin"
   },
   "pet_item_combat_skill_boost_rare": {
-    "price": 398000,
+    "price": 380000,
     "name": "Combat Exp Boost"
   },
   "soulflow_battery": {
@@ -4268,7 +4268,7 @@
     "name": "Fortified Silverfish Skin"
   },
   "pet_skin_dragon_neon_red": {
-    "price": 74999999,
+    "price": 72460000,
     "name": "Neon Red Ender Dragon Skin"
   },
   "lvl_1_legendary_mithril_golem": {
@@ -4308,7 +4308,7 @@
     "name": "Lethality 6"
   },
   "mineral_leggings": {
-    "price": 280000,
+    "price": 314000,
     "name": "Mineral Leggings"
   },
   "pet_item_tier_boost": {
@@ -4324,11 +4324,11 @@
     "name": "Egg The Fish"
   },
   "master_skull_tier_1": {
-    "price": 740000,
+    "price": 700000,
     "name": "Master Skull - Tier 1"
   },
   "goblin_omelette_sunny_side": {
-    "price": 9980000,
+    "price": 10000000,
     "name": "Sunny Side Goblin Omelette"
   },
   "lvl_1_uncommon_jerry": {
@@ -4344,7 +4344,7 @@
     "name": "Ultimate Last Stand 5"
   },
   "zombie_soldier_leggings": {
-    "price": 9000,
+    "price": 12000,
     "name": "Zombie Soldier Leggings"
   },
   "dungeon_wizard_crystal": {
@@ -4360,7 +4360,7 @@
     "name": "Silk-edge Sword"
   },
   "lucky_hoof": {
-    "price": 900000,
+    "price": 7999000,
     "name": "Hoof"
   },
   "turbo_coco_5": {
@@ -4368,7 +4368,7 @@
     "name": "Turbo Coco 5"
   },
   "goblin_leggings": {
-    "price": 6500,
+    "price": 4999,
     "name": "Goblin Leggings"
   },
   "zombie_leggings": {
@@ -4384,7 +4384,7 @@
     "name": "Chicken"
   },
   "pet_skin_dragon_neon_purple": {
-    "price": 200000000,
+    "price": 180000000,
     "name": "Neon Purple Ender Dragon Skin"
   },
   "exceedingly_rare_ender_artifact_upgrader": {
@@ -4400,11 +4400,11 @@
     "name": "Critical 7"
   },
   "weak_wolf_catalyst": {
-    "price": 15000,
+    "price": 87000,
     "name": "Weak Wolf Catalyst"
   },
   "lvl_100_rare_scatha": {
-    "price": 58000000,
+    "price": 58500000,
     "name": "Rare Scatha"
   },
   "crystallized_heart": {
@@ -4412,7 +4412,7 @@
     "name": "Crystallized Heart"
   },
   "candy_talisman": {
-    "price": 399999,
+    "price": 399899,
     "name": "Candy Talisman"
   },
   "feather_falling_10": {
@@ -4424,7 +4424,7 @@
     "name": "Rejuvenate 2"
   },
   "lvl_100_epic_scatha": {
-    "price": 129000000,
+    "price": 125000000,
     "name": "Scatha"
   },
   "perfect_forge": {
@@ -4436,7 +4436,7 @@
     "name": "Ultimate Combo 4"
   },
   "ink_wand": {
-    "price": 6000000,
+    "price": 6340000,
     "name": "Ink Wand"
   },
   "pet_item_toy_jerry": {
@@ -4456,7 +4456,7 @@
     "name": "Ultimate Legion 2"
   },
   "mithril_plate": {
-    "price": 4200000,
+    "price": 4398888,
     "name": "Mithril Plate"
   },
   "danger_2_portal": {
@@ -4488,7 +4488,7 @@
     "name": "Titanium-plated Drill Engine"
   },
   "lvl_1_legendary_ocelot": {
-    "price": 2000000,
+    "price": 2690000,
     "name": "Ocelot"
   },
   "lvl_1_legendary_ocelot_skin_ocelot_snow_tiger": {
@@ -4496,11 +4496,11 @@
     "name": "Ocelot"
   },
   "winter_rod": {
-    "price": 55000,
+    "price": 54999,
     "name": "Winter Rod"
   },
   "lvl_100_rare_guardian": {
-    "price": 1200000,
+    "price": 1300000,
     "name": "Rare Guardian"
   },
   "flamebreaker_boots": {
@@ -4520,7 +4520,7 @@
     "name": "Rare Sheep"
   },
   "talisman_enrichment_critical_damage": {
-    "price": 2000000,
+    "price": 1999999,
     "name": "Critical Damage Enrichment"
   },
   "zombie_commander_boots": {
@@ -4528,11 +4528,11 @@
     "name": "Zombie Commander Boots"
   },
   "refined_titanium_pickaxe": {
-    "price": 1800000,
+    "price": 1749000,
     "name": "Titanium Pickaxe"
   },
   "recall_potion": {
-    "price": 299000,
+    "price": 350000,
     "name": "Recall Potion"
   },
   "pet_item_fishing_skill_boost_uncommon": {
@@ -4540,7 +4540,7 @@
     "name": "Fishing Exp Boost"
   },
   "mining_1_travel_scroll": {
-    "price": 349999,
+    "price": 380000,
     "name": "Travel Scroll To The Gold Mine"
   },
   "pet_item_combat_skill_boost_common": {
@@ -4556,7 +4556,7 @@
     "name": "Small Backpack"
   },
   "spooky_leggings": {
-    "price": 400000,
+    "price": 460000,
     "name": "Spooky Leggings"
   },
   "judgement_core": {
@@ -4564,7 +4564,7 @@
     "name": "Judgement Core"
   },
   "skeletor_leggings": {
-    "price": 12000,
+    "price": 18000,
     "name": "Skeletor Leggings"
   },
   "lvl_100_rare_dolphin": {
@@ -4608,15 +4608,15 @@
     "name": "Great Carrot Candy"
   },
   "lvl_1_legendary_sheep": {
-    "price": 3500000,
+    "price": 3600000,
     "name": "Sheep"
   },
   "crystal_chestplate": {
-    "price": 779000,
+    "price": 800000,
     "name": "Crystal Chestplate"
   },
   "magma_core": {
-    "price": 2000000,
+    "price": 2298700,
     "name": "Magma Core"
   },
   "sharpness_7": {
@@ -4624,7 +4624,7 @@
     "name": "Sharpness 7"
   },
   "lvl_1_legendary_wither_skeleton": {
-    "price": 3575000,
+    "price": 3599999,
     "name": "Wither Skeleton"
   },
   "sponge_boots": {
@@ -4648,11 +4648,11 @@
     "name": "Diamond Necron Head"
   },
   "bat_person_boots": {
-    "price": 700000,
+    "price": 600000,
     "name": "Bat Person Boots"
   },
   "skeletor_boots": {
-    "price": 10057,
+    "price": 10056,
     "name": "Skeletor Boots"
   },
   "lvl_100_legendary_blaze": {
@@ -4680,7 +4680,7 @@
     "name": "Rod"
   },
   "dull_shark_tooth_necklace": {
-    "price": 22999,
+    "price": 21000,
     "name": "Dull Shark Tooth Necklace"
   },
   "spider_artifact": {
@@ -4712,7 +4712,7 @@
     "name": "Uncommon Squid"
   },
   "snow_suit_chestplate": {
-    "price": 40000,
+    "price": 50000,
     "name": "Snow Suit Chestplate"
   },
   "starlight_wand": {
@@ -4732,7 +4732,7 @@
     "name": "Rare Blue Whale"
   },
   "shadow_assassin_chestplate": {
-    "price": 19788000,
+    "price": 19789000,
     "name": "Shadow Assassin Chestplate"
   },
   "turbo_potato_4": {
@@ -4740,11 +4740,11 @@
     "name": "Turbo Potato 4"
   },
   "titanium_fuel_tank": {
-    "price": 17499999,
+    "price": 17400000,
     "name": "Titanium-infused Fuel Tank"
   },
   "diver_chestplate": {
-    "price": 1780000,
+    "price": 1700000,
     "name": "Diver's Shirt"
   },
   "ultimate_no_pain_no_gain_1": {
@@ -4820,7 +4820,7 @@
     "name": "Trick Or Treat Bag"
   },
   "wand_of_atonement": {
-    "price": 3999999,
+    "price": 4000000,
     "name": "Wand Of Atonement"
   },
   "lvl_100_legendary_lion": {
@@ -4848,11 +4848,11 @@
     "name": "Guardian"
   },
   "first_master_star": {
-    "price": 7019995,
+    "price": 6947995,
     "name": "First Master Star"
   },
   "lvl_1_legendary_baby_yeti": {
-    "price": 29696969,
+    "price": 29500000,
     "name": "Baby Yeti"
   },
   "lvl_1_legendary_endermite": {
@@ -4868,7 +4868,7 @@
     "name": "Ultimate Wisdom 1"
   },
   "lvl_1_legendary_ghoul": {
-    "price": 499000,
+    "price": 470000,
     "name": "Ghoul"
   },
   "sinseeker_scythe": {
@@ -4880,11 +4880,11 @@
     "name": "Magma Cube"
   },
   "bat_person_leggings": {
-    "price": 799000,
+    "price": 650000,
     "name": "Bat Person Leggings"
   },
   "ember_fragment": {
-    "price": 80000,
+    "price": 200000,
     "name": "Ember Fragment"
   },
   "turbo_melon_2": {
@@ -4908,7 +4908,7 @@
     "name": "Compact 1"
   },
   "lvl_1_legendary_hound": {
-    "price": 1730000,
+    "price": 1750000,
     "name": "Hound"
   },
   "lvl_1_legendary_hound_skin_hound_beagle": {
@@ -4944,11 +4944,11 @@
     "name": "Squid"
   },
   "red_claw_ring": {
-    "price": 1240000,
+    "price": 1000000,
     "name": "Red Claw Ring"
   },
   "mastiff_helmet": {
-    "price": 800000,
+    "price": 750000,
     "name": "Mastiff Crown"
   },
   "mastiff_helmet_skin_mastiff_puppy": {
@@ -4972,7 +4972,7 @@
     "name": "Travel Scroll To The Void Sepulture"
   },
   "lvl_1_epic_jerry": {
-    "price": 15000,
+    "price": 70000,
     "name": "Jerry"
   },
   "lvl_1_common_horse": {
@@ -4988,7 +4988,7 @@
     "name": "Speed Ring"
   },
   "krampus_helmet": {
-    "price": 2290000,
+    "price": 1500000,
     "name": "Krampus Helmet"
   },
   "hegemony_artifact": {
@@ -5012,7 +5012,7 @@
     "name": "Venomous 6"
   },
   "great_spook_helmet": {
-    "price": 2000000,
+    "price": 1500000,
     "name": "Great Spook Helmet"
   },
   "pet_skin_elephant_pink": {
@@ -5024,7 +5024,7 @@
     "name": "Ultimate Jerry 4"
   },
   "amber_polished_drill_engine": {
-    "price": 100000000,
+    "price": 103900000,
     "name": "Amber-polished Drill Engine"
   },
   "mastiff_puppy": {
@@ -5036,7 +5036,7 @@
     "name": "Power 7"
   },
   "spider_queens_stinger": {
-    "price": 449898,
+    "price": 300000,
     "name": "Spider Queen's Stinger"
   },
   "perfect_helmet_12": {
@@ -5056,7 +5056,7 @@
     "name": "Sponge Chestplate"
   },
   "lvl_1_legendary_rock": {
-    "price": 11500000,
+    "price": 10000000,
     "name": "Rock"
   },
   "refined_mithril_pickaxe": {
@@ -5076,7 +5076,7 @@
     "name": "Golden Thorn Head"
   },
   "park_cave_travel_scroll": {
-    "price": 50000,
+    "price": 40000,
     "name": "Travel Scroll To Howling Cave"
   },
   "pet_item_fishing_skill_boost_epic": {
@@ -5096,7 +5096,7 @@
     "name": "Blaze"
   },
   "sharp_shark_tooth_necklace": {
-    "price": 220000,
+    "price": 200000,
     "name": "Shark Tooth Necklace"
   },
   "lvl_100_rare_armadillo": {
@@ -5104,7 +5104,7 @@
     "name": "Rare Armadillo"
   },
   "talisman_enrichment_strength": {
-    "price": 2100000,
+    "price": 2089999,
     "name": "Strength Enrichment"
   },
   "armor_of_magma_leggings": {
@@ -5112,7 +5112,7 @@
     "name": "Armor Of Magma Leggings"
   },
   "ultimate_carrot_candy_upgrade": {
-    "price": 3000000,
+    "price": 2999900,
     "name": "Ultimate Carrot Candy Upgrade"
   },
   "crystal_hollows_travel_scroll": {
@@ -5120,7 +5120,7 @@
     "name": "Travel Scroll To The Crystal Hollows"
   },
   "lvl_1_epic_rabbit": {
-    "price": 210000,
+    "price": 100000,
     "name": "Rabbit"
   },
   "lvl_100_epic_dolphin": {
@@ -5172,7 +5172,7 @@
     "name": "Super Cleaver"
   },
   "lvl_1_epic_baby_yeti": {
-    "price": 10799800,
+    "price": 10750000,
     "name": "Baby Yeti"
   },
   "growth_leggings": {
@@ -5188,11 +5188,11 @@
     "name": "Bane Of Arthropods 4"
   },
   "lvl_1_uncommon_bat": {
-    "price": 50000,
+    "price": 99000,
     "name": "Uncommon Bat"
   },
   "lvl_100_legendary_squid": {
-    "price": 13400000,
+    "price": 13999999,
     "name": "Squid"
   },
   "lvl_100_legendary_squid_skin_squid_glow": {
@@ -5212,7 +5212,7 @@
     "name": "Pond Island"
   },
   "beheaded_horror": {
-    "price": 49999,
+    "price": 40000,
     "name": "Beheaded Horror"
   },
   "pet_skin_elephant_purple": {
@@ -5220,11 +5220,11 @@
     "name": "Purple Elephant Skin"
   },
   "lvl_1_rare_flying_fish": {
-    "price": 139998,
+    "price": 140000,
     "name": "Rare Flying Fish"
   },
   "spooky_helmet": {
-    "price": 400000,
+    "price": 500000,
     "name": "Spooky Helmet"
   },
   "salmon_helmet": {
@@ -5232,7 +5232,7 @@
     "name": "Salmon Helmet"
   },
   "ruby_polished_drill_engine": {
-    "price": 20000000,
+    "price": 20999999,
     "name": "Ruby-polished Drill Engine"
   },
   "lvl_1_legendary_dolphin": {
@@ -5244,7 +5244,7 @@
     "name": "Dolphin"
   },
   "golem_armor_leggings": {
-    "price": 200000,
+    "price": 179000,
     "name": "Golem Armor Leggings"
   },
   "dust_the_fish": {
@@ -5264,7 +5264,7 @@
     "name": "Turbo Carrot 4"
   },
   "weird_tuba": {
-    "price": 2470000,
+    "price": 2499000,
     "name": "Weird Tuba"
   },
   "lapis_armor_chestplate": {
@@ -5273,7 +5273,7 @@
   },
   "starred_stone_blade": {
     "price": 1800000,
-    "name": "Sharp Adaptive Blade"
+    "name": "Heroic Adaptive Blade"
   },
   "lvl_100_legendary_bee": {
     "price": 39999000,
@@ -5288,7 +5288,7 @@
     "name": "Soulflow Engine"
   },
   "talisman_enrichment_ferocity": {
-    "price": 2399999,
+    "price": 2300000,
     "name": "Ferocity Enrichment"
   },
   "infinite_superboom_tnt": {
@@ -5348,8 +5348,8 @@
     "name": "Green Elf Jerry Skin"
   },
   "undead_bow": {
-    "price": 20000,
-    "name": "Undead Bow"
+    "price": 100000,
+    "name": "Bow"
   },
   "pet_skin_sheep_neon_green": {
     "price": 132000000,
@@ -5404,7 +5404,7 @@
     "name": "Soulflow Supercell"
   },
   "lvl_1_epic_armadillo": {
-    "price": 50000,
+    "price": 60000,
     "name": "Armadillo"
   },
   "perfect_chestplate_10": {
@@ -5428,7 +5428,7 @@
     "name": "Experiment The Fish"
   },
   "wolf_ring": {
-    "price": 1700000,
+    "price": 1800000,
     "name": "Wolf Ring"
   },
   "ultimate_combo_3": {
@@ -5456,11 +5456,11 @@
     "name": "Rare Magma Cube"
   },
   "lvl_1_common_squid": {
-    "price": 10000000,
+    "price": 9999990,
     "name": "Common Squid"
   },
   "echolocator": {
-    "price": 100000,
+    "price": 50000,
     "name": "Echolocator"
   },
   "perfect_boots_1": {
@@ -5472,7 +5472,7 @@
     "name": "Jasper Power Scroll"
   },
   "recluse_fang": {
-    "price": 110000,
+    "price": 115000,
     "name": "Recluse Fang"
   },
   "perfect_leggings_2": {
@@ -5500,7 +5500,7 @@
     "name": "Gold Claws"
   },
   "zombie_artifact": {
-    "price": 2500000,
+    "price": 2490000,
     "name": "Zombie Artifact"
   },
   "snipe_4": {
@@ -5512,7 +5512,7 @@
     "name": "Griffin"
   },
   "lvl_100_legendary_bal": {
-    "price": 24500000,
+    "price": 24000000,
     "name": "Bal"
   },
   "lvl_100_legendary_bal_skin_bal_inferno": {
@@ -5524,7 +5524,7 @@
     "name": "Bal"
   },
   "etherwarp_merger": {
-    "price": 640000,
+    "price": 639000,
     "name": "Etherwarp Merger"
   },
   "turbo_wheat_3": {
@@ -5532,7 +5532,7 @@
     "name": "Turbo Wheat 3"
   },
   "lvl_100_legendary_skeleton": {
-    "price": 18500000,
+    "price": 19000000,
     "name": "Skeleton"
   },
   "mosquito_bow": {
@@ -5576,7 +5576,7 @@
     "name": "Turbo Cactus 4"
   },
   "wand_of_restoration": {
-    "price": 775000,
+    "price": 850000,
     "name": "Wand Of Restoration"
   },
   "pink_donut_personality": {
@@ -5592,7 +5592,7 @@
     "name": "Turbo Pumpkin 2"
   },
   "lvl_1_rare_dolphin": {
-    "price": 750000,
+    "price": 800000,
     "name": "Rare Dolphin"
   },
   "shadow_assassin_mauve": {
@@ -5600,7 +5600,7 @@
     "name": "Mauve Skin"
   },
   "lvl_1_epic_elephant": {
-    "price": 950000,
+    "price": 1000000,
     "name": "Elephant"
   },
   "steel_chestplate": {
@@ -5660,7 +5660,7 @@
     "name": "Wither Artifact"
   },
   "lvl_1_common_guardian": {
-    "price": 225000,
+    "price": 224000,
     "name": "Common Guardian"
   },
   "overload_4": {
@@ -5752,7 +5752,7 @@
     "name": "Respite 3"
   },
   "titanium_pickaxe": {
-    "price": 1239900,
+    "price": 1100000,
     "name": "Titanium Pickaxe"
   },
   "talisman_enrichment_defense": {
@@ -5804,7 +5804,7 @@
     "name": "Rare Ocelot"
   },
   "lvl_100_common_griffin": {
-    "price": 2700000,
+    "price": 3333333,
     "name": "Common Griffin"
   },
   "cluck_the_fish": {
@@ -5836,7 +5836,7 @@
     "name": "Parrot"
   },
   "zombie_lord_leggings": {
-    "price": 299999,
+    "price": 900000,
     "name": "Zombie Lord Leggings"
   },
   "armor_of_magma_helmet": {
@@ -5860,7 +5860,7 @@
     "name": "Mercenary Axe"
   },
   "wither_helmet": {
-    "price": 3200000,
+    "price": 3250000,
     "name": "Wither Helmet"
   },
   "lvl_100_legendary_snowman": {
@@ -5884,23 +5884,23 @@
     "name": "Cleave 6"
   },
   "jungle_amulet": {
-    "price": 1750000,
+    "price": 1798989,
     "name": "Jungle Amulet"
   },
   "helix": {
-    "price": 100000,
+    "price": 10000,
     "name": "Helix"
   },
   "flame_breaker_chestplate": {
-    "price": 650000,
+    "price": 1250000,
     "name": "Flamebreaker Chestplate"
   },
   "perfect_leggings_1": {
-    "price": 799999,
-    "name": "Leggings - Tier I"
+    "price": 798000,
+    "name": "Perfect Leggings - Tier I"
   },
   "holy_dragon_leggings": {
-    "price": 170000,
+    "price": 200000,
     "name": "Holy Dragon Leggings"
   },
   "foraging_4_portal": {
@@ -5912,7 +5912,7 @@
     "name": "Lantern Helmet"
   },
   "snow_snowglobe": {
-    "price": 57000000,
+    "price": 250000000,
     "name": "Snowglobe Skin"
   },
   "museum_travel_scroll": {
@@ -5972,7 +5972,7 @@
     "name": "Travel Scroll To Hub Castle"
   },
   "mineral_helmet": {
-    "price": 217999,
+    "price": 210000,
     "name": "Mineral Helmet"
   },
   "lvl_100_uncommon_guardian": {
@@ -6016,15 +6016,15 @@
     "name": "Mithril Golem"
   },
   "starlight_leggings": {
-    "price": 50000,
-    "name": "Starlight Leggings"
+    "price": 80000,
+    "name": "Leggings"
   },
   "lvl_100_legendary_enderman": {
     "price": 45000000,
     "name": "Enderman"
   },
   "talisman_enrichment_critical_chance": {
-    "price": 2000000,
+    "price": 1999000,
     "name": "Critical Chance Enrichment"
   },
   "sapphire_polished_drill_engine": {
@@ -6040,8 +6040,8 @@
     "name": "End Portal Fumes"
   },
   "divan_drill": {
-    "price": 1000000000,
-    "name": "Divan's Drill"
+    "price": 1050000000,
+    "name": "Heated Divan's Drill"
   },
   "pet_item_hardened_scales_uncommon": {
     "price": 1200000,
@@ -6092,11 +6092,11 @@
     "name": "Ultimate Soul Eater 3"
   },
   "lvl_1_legendary_silverfish": {
-    "price": 940000,
+    "price": 939000,
     "name": "Silverfish"
   },
   "lvl_1_uncommon_silverfish": {
-    "price": 7900,
+    "price": 8000,
     "name": "Uncommon Silverfish"
   },
   "first_strike_5": {
@@ -6152,7 +6152,7 @@
     "name": "Turtle"
   },
   "skeleton_lord_leggings": {
-    "price": 2000000,
+    "price": 4590000,
     "name": "Skeleton Lord Leggings"
   },
   "turbo_warts_2": {
@@ -6160,7 +6160,7 @@
     "name": "Turbo Warts 2"
   },
   "bat_person_artifact": {
-    "price": 12400000,
+    "price": 13000000,
     "name": "Bat Person Artifact"
   },
   "spirit_sword": {
@@ -6184,11 +6184,11 @@
     "name": "Music Disc - Stal"
   },
   "ember_chestplate": {
-    "price": 1400000,
+    "price": 1500000,
     "name": "Ember Chestplate"
   },
   "pet_item_foraging_skill_boost_epic": {
-    "price": 1500000,
+    "price": 1100000,
     "name": "Foraging Exp Boost"
   },
   "wolf_fur_mixin": {
@@ -6236,7 +6236,7 @@
     "name": "Glass"
   },
   "hunter_ring": {
-    "price": 27500000,
+    "price": 27000000,
     "name": "Hunter Ring"
   },
   "starred_spider_queens_stinger": {
@@ -6260,7 +6260,7 @@
     "name": "Baby Skin"
   },
   "eternal_hoof": {
-    "price": 12000000,
+    "price": 12499000,
     "name": "Eternal Hoof"
   },
   "lvl_100_legendary_spider": {
@@ -6352,7 +6352,7 @@
     "name": "Dragon Hunter 4"
   },
   "soul_esoward": {
-    "price": 3800000,
+    "price": 3700000,
     "name": "Soul Esoward"
   },
   "lvl_100_rare_rabbit": {
@@ -6456,7 +6456,7 @@
     "name": "Farm Armor Helmet"
   },
   "lava_talisman": {
-    "price": 27499,
+    "price": 27400,
     "name": "Lava Talisman"
   },
   "jungle_axe": {
@@ -6476,7 +6476,7 @@
     "name": "Flamebreaker Helmet"
   },
   "flame_breaker_leggings": {
-    "price": 499000,
+    "price": 500000,
     "name": "Flamebreaker Leggings"
   },
   "perfect_leggings_9": {
@@ -6616,7 +6616,7 @@
     "name": "Enchanted Dandelion"
   },
   "danger_1_portal": {
-    "price": 100000,
+    "price": 110000,
     "name": "Portal To Spider's Den"
   },
   "wood_sword": {
@@ -6672,7 +6672,7 @@
     "name": "Triple Strike 3"
   },
   "farm_armor_boots": {
-    "price": 99000,
+    "price": 100000,
     "name": "Farm Armor Boots"
   },
   "lvl_1_legendary_black_cat": {
@@ -6724,7 +6724,7 @@
     "name": "Stone Shovel"
   },
   "zombie_boots": {
-    "price": 1000000,
+    "price": 990000,
     "name": "Zombie Boots"
   },
   "cracked_piggy_bank": {
@@ -6740,12 +6740,12 @@
     "name": "Spider Talisman"
   },
   "bat_person_ring": {
-    "price": 2599999,
+    "price": 2499999,
     "name": "Bat Person Ring"
   },
   "rune": {
-    "price": 500,
-    "name": "◆ Lava Rune I"
+    "price": 1000,
+    "name": "◆ Gem Rune I"
   },
   "perfect_leggings_7": {
     "price": 8000000,
@@ -6860,7 +6860,7 @@
     "name": "Tripwire Hook"
   },
   "lvl_100_epic_wither_skeleton": {
-    "price": 5999999,
+    "price": 6000000,
     "name": "Wither Skeleton"
   },
   "iron_chestplate": {
@@ -7200,7 +7200,7 @@
     "name": "Uncommon Mithril Golem"
   },
   "titanium_talisman": {
-    "price": 110000,
+    "price": 256000,
     "name": "Titanium Talisman"
   },
   "defuse_kit": {
@@ -7248,7 +7248,7 @@
     "name": "Orange Wool"
   },
   "desert_island": {
-    "price": 44999,
+    "price": 35000,
     "name": "Desert Island"
   },
   "wool:10": {
@@ -10900,7 +10900,7 @@
     "name": "Dolphin"
   },
   "hot_potato_book": {
-    "price": 49985,
+    "price": 49982,
     "name": "Hot Potato Book"
   },
   "lvl_100_legendary_magma_cube_candy_4": {
@@ -11460,11 +11460,11 @@
     "name": "Snubfin Dolphin Skin"
   },
   "pet_skin_dolphin_snubnose_red": {
-    "price": 7000000,
+    "price": 7500000,
     "name": "Red Snubfin Dolphin Skin"
   },
   "pet_skin_dolphin_snubnose_purple": {
-    "price": 8999999,
+    "price": 9900000,
     "name": "Purple Snubfin Dolphin Skin"
   },
   "pet_skin_dolphin_snubnose_green": {
@@ -11996,11 +11996,11 @@
     "name": "Pet Rock Century Cake"
   },
   "epoch_cake_purple": {
-    "price": 3600000,
+    "price": 3500000,
     "name": "Streamer's Century Cake"
   },
   "epoch_cake_pink": {
-    "price": 2400000,
+    "price": 2399999,
     "name": "Crab-colored Century Cake"
   },
   "epoch_cake_black": {
@@ -12012,7 +12012,7 @@
     "name": "Sea Emperor Century Cake"
   },
   "epoch_cake_red": {
-    "price": 1769990,
+    "price": 1700000,
     "name": "Apunch Century Cake"
   },
   "epoch_cake_orange": {
@@ -12020,7 +12020,7 @@
     "name": "Latest Update Century Cake"
   },
   "epoch_cake_yellow": {
-    "price": 2700000,
+    "price": 2499999,
     "name": "Potato-style Century Cake"
   },
   "jukebox": {
@@ -12316,11 +12316,11 @@
     "name": "Rabbit"
   },
   "epoch_cake_brown": {
-    "price": 2300000,
+    "price": 2299999,
     "name": "Chocolate Century Cake"
   },
   "epoch_cake_white": {
-    "price": 2999999,
+    "price": 1999999,
     "name": "Cloudy Century Cake"
   },
   "dye_carmine": {
@@ -12408,11 +12408,11 @@
     "name": "Amalgamated Crimsonite"
   },
   "moody_grappleshot": {
-    "price": 3500000,
+    "price": 3200000,
     "name": "Moody Grappleshot"
   },
   "staff_of_the_volcano": {
-    "price": 210000,
+    "price": 175000,
     "name": "Staff Of The Volcano"
   },
   "magma_fish": {
@@ -12420,7 +12420,7 @@
     "name": "Magma Fish"
   },
   "chyme": {
-    "price": 450000,
+    "price": 490000,
     "name": "Chyme"
   },
   "charm_1": {
@@ -12428,7 +12428,7 @@
     "name": "Charm 1"
   },
   "slug_boots": {
-    "price": 185000,
+    "price": 199000,
     "name": "Slug Boots"
   },
   "sword_of_bad_health": {
@@ -12440,7 +12440,7 @@
     "name": "Blade Of The Volcano"
   },
   "moogma_leggings": {
-    "price": 275000,
+    "price": 230000,
     "name": "Moogma Leggings"
   },
   "flaming_chestplate": {
@@ -12456,7 +12456,7 @@
     "name": "Mesa Biome Stick"
   },
   "magma_necklace": {
-    "price": 120000,
+    "price": 89000,
     "name": "Magma Necklace"
   },
   "taurus_helmet": {
@@ -12472,7 +12472,7 @@
     "name": "Abiphone Xii Mega Color"
   },
   "thunder_in_a_bottle_empty": {
-    "price": 345000,
+    "price": 300000,
     "name": "Empty Thunder Bottle"
   },
   "smoldering_1": {
@@ -12488,11 +12488,11 @@
     "name": "Charminizer"
   },
   "ghast_cloak": {
-    "price": 1200000,
+    "price": 1000000,
     "name": "Ghast Cloak"
   },
   "vanquished_blaze_belt": {
-    "price": 1789000,
+    "price": 1788999,
     "name": "Vanquished Blaze Belt"
   },
   "magma_rod": {
@@ -12500,8 +12500,8 @@
     "name": "Magma Rod"
   },
   "vanquished_magma_necklace": {
-    "price": 1480000,
-    "name": "Strengthened Vanquished Magma Necklace"
+    "price": 1400000,
+    "name": "Vanquished Magma Necklace"
   },
   "rainbow_2": {
     "price": 49000,
@@ -12524,7 +12524,7 @@
     "name": "Blessing 6"
   },
   "lvl_1_legendary_snail": {
-    "price": 6000000,
+    "price": 6388888,
     "name": "Snail"
   },
   "lvl_1_legendary_mooshroom_cow": {
@@ -12548,7 +12548,7 @@
     "name": "Abiphone X Plus Special Edition"
   },
   "ancient_cloak": {
-    "price": 4990000,
+    "price": 4800000,
     "name": "Cloak"
   },
   "lvl_1_epic_mooshroom_cow": {
@@ -12560,11 +12560,11 @@
     "name": "Firedust Dagger"
   },
   "corrupt_soil": {
-    "price": 1400000,
+    "price": 1478000,
     "name": "Corrupt Soil"
   },
   "opal_power_scroll": {
-    "price": 649000,
+    "price": 600000,
     "name": "Opal Power Scroll"
   },
   "lvl_1_common_mooshroom_cow": {
@@ -12576,7 +12576,7 @@
     "name": "Rare Mooshroom Cow"
   },
   "berserker_boots": {
-    "price": 2000000,
+    "price": 1800000,
     "name": "Berserker Boots"
   },
   "red_thornleaf": {
@@ -12588,7 +12588,7 @@
     "name": "Mycelium Dust"
   },
   "mana_disintegrator": {
-    "price": 898000,
+    "price": 890000,
     "name": "Mana Disintegrator"
   },
   "charm_2": {
@@ -12604,7 +12604,7 @@
     "name": "Berserker Chestplate"
   },
   "berserker_leggings": {
-    "price": 6400000,
+    "price": 10000000,
     "name": "Berserker Leggings"
   },
   "berserker_helmet": {
@@ -12676,7 +12676,7 @@
     "name": "Corruption 4"
   },
   "scorched_power_crystal": {
-    "price": 2400000,
+    "price": 2399000,
     "name": "Scorched Power Crystal"
   },
   "archfiend_dice": {
@@ -12704,7 +12704,7 @@
     "name": "Sulphur Bow"
   },
   "inferno_fuel_magma_cream": {
-    "price": 799000,
+    "price": 500000,
     "name": "Inferno Minion Fuel"
   },
   "inferno_rod": {
@@ -12712,7 +12712,7 @@
     "name": "Inferno Rod"
   },
   "thunderbolt_necklace": {
-    "price": 450000,
+    "price": 400000,
     "name": "Thunderbolt Necklace"
   },
   "dye_flame": {
@@ -12728,11 +12728,11 @@
     "name": "Inferno Minion Fuel"
   },
   "implosion_belt": {
-    "price": 1188000,
+    "price": 1080000,
     "name": "Implosion Belt"
   },
   "magma_lord_fragment": {
-    "price": 2000000,
+    "price": 2600000,
     "name": "Magma Lord Fragment"
   },
   "burstfire_dagger": {
@@ -12772,7 +12772,7 @@
     "name": "Fire Aspect 3"
   },
   "ragnarock_axe": {
-    "price": 200000,
+    "price": 500000,
     "name": "Ragnarock Axe"
   },
   "fire_fury_staff": {
@@ -12792,7 +12792,7 @@
     "name": "Common Elephant"
   },
   "fire_veil_wand": {
-    "price": 7400000,
+    "price": 7500000,
     "name": "Fire Veil Wand"
   },
   "smoldering_3": {
@@ -12800,7 +12800,7 @@
     "name": "Smoldering 3"
   },
   "gauntlet_of_contagion": {
-    "price": 14400000,
+    "price": 13899999,
     "name": "Gauntlet Of Contagion"
   },
   "hardened_mana_1": {
@@ -12816,7 +12816,7 @@
     "name": "Mana Vampire 1"
   },
   "fervor_boots": {
-    "price": 480000,
+    "price": 500000,
     "name": "Fervor Boots"
   },
   "ferocious_mana_1": {
@@ -12828,39 +12828,39 @@
     "name": "Attribute Shard"
   },
   "fervor_helmet": {
-    "price": 300000,
+    "price": 400000,
     "name": "Fervor Helmet"
   },
   "crimson_helmet": {
-    "price": 1700000,
+    "price": 1650000,
     "name": "Crimson Helmet"
   },
   "terror_leggings": {
-    "price": 940000,
+    "price": 925000,
     "name": "Terror Leggings"
   },
   "fervor_leggings": {
-    "price": 599000,
+    "price": 575000,
     "name": "Fervor Leggings"
   },
   "crimson_chestplate": {
-    "price": 1490000,
+    "price": 1400000,
     "name": "Crimson Chestplate"
   },
   "molten_necklace": {
-    "price": 5495000,
+    "price": 5200000,
     "name": "Molten Necklace"
   },
   "crimson_boots": {
-    "price": 1798000,
+    "price": 1600000,
     "name": "Crimson Boots"
   },
   "terror_chestplate": {
-    "price": 640000,
+    "price": 650000,
     "name": "Terror Chestplate"
   },
   "aurora_boots": {
-    "price": 795000,
+    "price": 790000,
     "name": "Aurora Boots"
   },
   "crimson_leggings": {
@@ -12868,7 +12868,7 @@
     "name": "Crimson Leggings"
   },
   "terror_boots": {
-    "price": 1299999,
+    "price": 1300000,
     "name": "Terror Boots"
   },
   "terror_helmet": {
@@ -12880,7 +12880,7 @@
     "name": "Snail"
   },
   "aurora_helmet": {
-    "price": 640000,
+    "price": 635000,
     "name": "Aurora Helmet"
   },
   "ferocious_mana_2": {
@@ -12888,23 +12888,23 @@
     "name": "Ferocious Mana 2"
   },
   "fervor_chestplate": {
-    "price": 680000,
+    "price": 600000,
     "name": "Fervor Chestplate"
   },
   "aurora_chestplate": {
-    "price": 780000,
+    "price": 799000,
     "name": "Aurora Chestplate"
   },
   "runic_staff": {
-    "price": 1000000,
+    "price": 900000,
     "name": "Aurora Staff"
   },
   "aurora_leggings": {
-    "price": 899000,
+    "price": 850000,
     "name": "Aurora Leggings"
   },
   "molten_bracelet": {
-    "price": 2349899,
+    "price": 2339900,
     "name": "Molten Bracelet"
   },
   "molten_belt": {
@@ -12924,7 +12924,7 @@
     "name": "Hardened Mana 2"
   },
   "molten_cloak": {
-    "price": 4000000,
+    "price": 3999000,
     "name": "Molten Cloak"
   },
   "shimmering_light_tunic": {
@@ -12932,7 +12932,7 @@
     "name": "Shimmering Light Tunic"
   },
   "delirium_necklace": {
-    "price": 5499999,
+    "price": 5400000,
     "name": "Delirium Necklace"
   },
   "mana_vampire_2": {
@@ -12996,8 +12996,8 @@
     "name": "Ultimate Fatal Tempo 1"
   },
   "synthesizer_v3": {
-    "price": 59000000,
-    "name": "Strengthened Synthesizer V3"
+    "price": 40000000,
+    "name": "Glistening Synthesizer V3"
   },
   "mana_vampire_4": {
     "price": 3600000,
@@ -13016,7 +13016,7 @@
     "name": "Mana Vampire 5"
   },
   "inferno_fuel_glowstone_dust": {
-    "price": 1300000,
+    "price": 1258000,
     "name": "Inferno Minion Fuel"
   },
   "scourge_cloak": {
@@ -13028,7 +13028,7 @@
     "name": "Inferno Minion Fuel"
   },
   "thunder_in_a_bottle": {
-    "price": 2980000,
+    "price": 2490000,
     "name": "Thunder In A Bottle"
   },
   "hardened_mana_6": {
@@ -13044,8 +13044,8 @@
     "name": "Ferocious Mana 6"
   },
   "magma_lord_gauntlet": {
-    "price": 14999000,
-    "name": "Strengthened Magma Lord Gauntlet"
+    "price": 12000000,
+    "name": "Waxed Magma Lord Gauntlet"
   },
   "hardened_mana_7": {
     "price": 14800000,
@@ -13096,7 +13096,7 @@
     "name": "Magma Lord Leggings"
   },
   "magma_lord_helmet": {
-    "price": 12200000,
+    "price": 11900000,
     "name": "Magma Lord Helmet"
   },
   "smoldering_5": {
@@ -13120,7 +13120,7 @@
     "name": "Unknown"
   },
   "lvl_100_epic_snail": {
-    "price": 17000000,
+    "price": 14900000,
     "name": "Snail"
   },
   "strong_mana_6": {
@@ -13216,7 +13216,7 @@
     "name": "Ferocious Mana 8"
   },
   "subzero_inverter": {
-    "price": 3000000,
+    "price": 1500000,
     "name": "Subzero Inverter"
   },
   "lvl_100_common_wolf": {
@@ -13308,7 +13308,7 @@
     "name": "Radioactive Vial"
   },
   "lvl_100_mythic_flying_fish": {
-    "price": 197000000,
+    "price": 196000000,
     "name": "Flying Fish"
   },
   "ultimate_flash_5": {
@@ -13376,7 +13376,7 @@
     "name": "Infinileap"
   },
   "amalgamated_crimsonite_new": {
-    "price": 304998,
+    "price": 304999,
     "name": "Amalgamated Crimsonite New"
   },
   "ender_chest": {
@@ -13604,7 +13604,7 @@
     "name": "Purple Crab Hat Of Celebration - 2022 Edition"
   },
   "summoning_eye": {
-    "price": 853567,
+    "price": 850710,
     "name": "Summoning Eye"
   },
   "alert_flare": {
@@ -13676,7 +13676,7 @@
     "name": "Rare Bee"
   },
   "volleyball": {
-    "price": 188999,
+    "price": 180000,
     "name": "Volleyball Court"
   },
   "fish_personality": {
@@ -13692,7 +13692,7 @@
     "name": "Pufferfish Minion Skin"
   },
   "ice_cream_cart": {
-    "price": 130000,
+    "price": 100000,
     "name": "Ice Cream Cart"
   },
   "small_pool": {
@@ -13708,7 +13708,7 @@
     "name": "Scarleton Premium"
   },
   "pet_skin_bal_inferno": {
-    "price": 17400000,
+    "price": 17499000,
     "name": "Inferno Bal Skin"
   },
   "lvl_1_common_chicken_skinned_chicken_baby_chick": {
@@ -13752,7 +13752,7 @@
     "name": "Uncommon Bat"
   },
   "pet_skin_megalodon_baby": {
-    "price": 5800000,
+    "price": 5950000,
     "name": "Baby Megalodon Skin"
   },
   "lvl_1_legendary_megalodon_skinned_megalodon_baby": {
@@ -13824,7 +13824,7 @@
     "name": "Red Sandstone Stairs"
   },
   "pet_skin_ender_dragon_undead": {
-    "price": 5499999,
+    "price": 5500000,
     "name": "Ender Dragon Skin"
   },
   "lvl_100_legendary_ender_dragon_skinned_ender_dragon_undead": {
@@ -13856,7 +13856,7 @@
     "name": "Thunder Chestplate"
   },
   "thunder_leggings": {
-    "price": 1300000,
+    "price": 1200000,
     "name": "Thunder Leggings"
   },
   "salmon_hat": {
@@ -13864,7 +13864,7 @@
     "name": "Salmon Hat"
   },
   "adaptive_boots": {
-    "price": 160000,
+    "price": 200000,
     "name": "Adaptive Boots"
   },
   "goblin_boots": {
@@ -13892,7 +13892,7 @@
     "name": "Re-heated Gummy Polar Bear"
   },
   "hypergolic_ionized_ceramics": {
-    "price": 550000,
+    "price": 544000,
     "name": "Hypergolic Ionized Ceramics"
   },
   "capsaicin_eyedrops": {
@@ -14036,7 +14036,7 @@
     "name": "Stuffed Chili Pepper"
   },
   "bird_house": {
-    "price": 535000,
+    "price": 470000,
     "name": "Bird House"
   },
   "dirt_bottle": {
@@ -14152,7 +14152,7 @@
     "name": "Greater Backpack"
   },
   "crimson_essence": {
-    "price": 12333.333333333334,
+    "price": 11500,
     "name": "Crimson Essence"
   },
   "ink_sack:4": {
@@ -14168,7 +14168,7 @@
     "name": "Tarantula Web"
   },
   "ink_sack:3": {
-    "price": 2,
+    "price": 5,
     "name": "Cocoa Beans"
   },
   "spooky_shard": {
@@ -14180,7 +14180,7 @@
     "name": "Experience Bottle"
   },
   "enchanted_potato": {
-    "price": 336,
+    "price": 335,
     "name": "Enchanted Potato"
   },
   "jerry_box_green": {
@@ -14188,7 +14188,7 @@
     "name": "Green Jerry Box"
   },
   "enchanted_slime_ball": {
-    "price": 2989,
+    "price": 3047,
     "name": "Enchanted Slimeball"
   },
   "carrot_item": {
@@ -14196,7 +14196,7 @@
     "name": "Carrot"
   },
   "enchanted_red_mushroom": {
-    "price": 738,
+    "price": 737,
     "name": "Enchanted Red Mushroom"
   },
   "enchanted_golden_carrot": {
@@ -14216,7 +14216,7 @@
     "name": "Perfect Jade Gemstone"
   },
   "enchanted_sugar": {
-    "price": 348,
+    "price": 347,
     "name": "Enchanted Sugar"
   },
   "enchanted_birch_log": {
@@ -14248,7 +14248,7 @@
     "name": "Enchanted Cake"
   },
   "flawed_jasper_gem": {
-    "price": 638,
+    "price": 639,
     "name": "Flawed Jasper Gemstone"
   },
   "enchanted_brown_mushroom": {
@@ -14256,7 +14256,7 @@
     "name": "Enchanted Brown Mushroom"
   },
   "enchanted_raw_salmon": {
-    "price": 1598,
+    "price": 1599,
     "name": "Enchanted Raw Salmon"
   },
   "goblin_egg_yellow": {
@@ -14264,7 +14264,7 @@
     "name": "Yellow Goblin Egg"
   },
   "flawed_amber_gem": {
-    "price": 309,
+    "price": 308,
     "name": "Flawed Amber Gemstone"
   },
   "nurse_shark_tooth": {
@@ -14288,7 +14288,7 @@
     "name": "Enchanted Emerald"
   },
   "protector_fragment": {
-    "price": 6191,
+    "price": 6192,
     "name": "Protector Dragon Fragment"
   },
   "enchanted_spider_eye": {
@@ -14296,7 +14296,7 @@
     "name": "Enchanted Spider Eye"
   },
   "enchanted_melon_block": {
-    "price": 25831,
+    "price": 25830,
     "name": "Enchanted Melon Block"
   },
   "power_crystal": {
@@ -14304,7 +14304,7 @@
     "name": "Power Crystal"
   },
   "grand_exp_bottle": {
-    "price": 4660,
+    "price": 4664,
     "name": "Grand Experience Bottle"
   },
   "red_mushroom": {
@@ -14316,11 +14316,11 @@
     "name": "Mutton"
   },
   "raw_soulflow": {
-    "price": 99,
+    "price": 100,
     "name": "Raw Soulflow"
   },
   "diamond": {
-    "price": 8,
+    "price": 7,
     "name": "Diamond"
   },
   "cobblestone": {
@@ -14336,7 +14336,7 @@
     "name": "Wise Dragon Fragment"
   },
   "refined_mithril": {
-    "price": 297355,
+    "price": 297354,
     "name": "Refined Mithril"
   },
   "raw_fish": {
@@ -14356,7 +14356,7 @@
     "name": "Perfect Ruby Gemstone"
   },
   "perfect_jasper_gem": {
-    "price": 5160231,
+    "price": 5160230,
     "name": "Perfect Jasper Gemstone"
   },
   "yoggie": {
@@ -14368,7 +14368,7 @@
     "name": "Enchanted Netherrack"
   },
   "enchanted_hard_stone": {
-    "price": 1996,
+    "price": 1997,
     "name": "Enchanted Hard Stone"
   },
   "enchanted_huge_mushroom_1": {
@@ -14376,11 +14376,11 @@
     "name": "Enchanted Brown Mushroom Block"
   },
   "refined_diamond": {
-    "price": 474998,
+    "price": 480489,
     "name": "Refined Diamond"
   },
   "enchanted_cobblestone": {
-    "price": 260,
+    "price": 259,
     "name": "Enchanted Cobblestone"
   },
   "tightly_tied_hay_bale": {
@@ -14388,11 +14388,11 @@
     "name": "Tightly-Tied Hay Bale"
   },
   "enchanted_huge_mushroom_2": {
-    "price": 19032,
+    "price": 18222,
     "name": "Enchanted Red Mushroom Block"
   },
   "pork": {
-    "price": 9,
+    "price": 8,
     "name": "Raw Porkchop"
   },
   "tiger_shark_tooth": {
@@ -14412,11 +14412,11 @@
     "name": "Ice"
   },
   "ice_bait": {
-    "price": 22,
+    "price": 24,
     "name": "Ice Bait"
   },
   "enchanted_snow_block": {
-    "price": 599,
+    "price": 598,
     "name": "Enchanted Snow Block"
   },
   "golden_tooth": {
@@ -14428,11 +14428,11 @@
     "name": "Red Mushroom Block"
   },
   "string": {
-    "price": 6,
+    "price": 5,
     "name": "String"
   },
   "hyper_catalyst": {
-    "price": 124285,
+    "price": 123906,
     "name": "Hyper Catalyst"
   },
   "rabbit_foot": {
@@ -14444,7 +14444,7 @@
     "name": "Redstone"
   },
   "jerry_box_golden": {
-    "price": 1299999,
+    "price": 1300000,
     "name": "Golden Jerry Box"
   },
   "pumpkin_guts": {
@@ -14456,11 +14456,11 @@
     "name": "Enchanted Carrot on a Stick"
   },
   "booster_cookie": {
-    "price": 2734999,
+    "price": 2735755,
     "name": "Booster Cookie"
   },
   "enchanted_cactus_green": {
-    "price": 1258,
+    "price": 1244,
     "name": "Enchanted Cactus Green"
   },
   "enchanted_lapis_lazuli_block": {
@@ -14468,11 +14468,11 @@
     "name": "Enchanted Lapis Block"
   },
   "enchanted_cookie": {
-    "price": 63383,
+    "price": 63382,
     "name": "Enchanted Cookie"
   },
   "enchanted_endstone": {
-    "price": 899,
+    "price": 898,
     "name": "Enchanted End Stone"
   },
   "enchanted_sand": {
@@ -14488,19 +14488,19 @@
     "name": "Enchanted String"
   },
   "strong_fragment": {
-    "price": 19997,
+    "price": 19998,
     "name": "Strong Dragon Fragment"
   },
   "slime_ball": {
-    "price": 19,
+    "price": 20,
     "name": "Slimeball"
   },
   "holy_fragment": {
-    "price": 2467,
+    "price": 2463,
     "name": "Holy Dragon Fragment"
   },
   "enchanted_acacia_log": {
-    "price": 1328,
+    "price": 1327,
     "name": "Enchanted Acacia Wood"
   },
   "snow_ball": {
@@ -14544,15 +14544,15 @@
     "name": "Enchanted Ghast Tear"
   },
   "enchanted_lapis_lazuli": {
-    "price": 760,
+    "price": 746,
     "name": "Enchanted Lapis Lazuli"
   },
   "enchanted_cocoa": {
-    "price": 480,
+    "price": 479,
     "name": "Enchanted Cocoa Bean"
   },
   "fine_topaz_gem": {
-    "price": 19812,
+    "price": 19864,
     "name": "Fine Topaz Gemstone"
   },
   "carrot_bait": {
@@ -14560,7 +14560,7 @@
     "name": "Carrot Bait"
   },
   "fine_ruby_gem": {
-    "price": 19265,
+    "price": 19259,
     "name": "Fine Ruby Gemstone"
   },
   "seeds": {
@@ -14572,7 +14572,7 @@
     "name": "Enchanted Leather"
   },
   "perfect_amber_gem": {
-    "price": 9139294,
+    "price": 9139293,
     "name": "Perfect Amber Gemstone"
   },
   "hay_block": {
@@ -14584,7 +14584,7 @@
     "name": "Enchanted Shark Fin"
   },
   "enchanted_sponge": {
-    "price": 2223,
+    "price": 2200,
     "name": "Enchanted Sponge"
   },
   "ink_sack": {
@@ -14592,11 +14592,11 @@
     "name": "Ink Sack"
   },
   "flint": {
-    "price": 23,
+    "price": 22,
     "name": "Flint"
   },
   "enchanted_spruce_log": {
-    "price": 938,
+    "price": 936,
     "name": "Enchanted Spruce Wood"
   },
   "enchanted_rotten_flesh": {
@@ -14604,7 +14604,7 @@
     "name": "Enchanted Rotten Flesh"
   },
   "wolf_tooth": {
-    "price": 528,
+    "price": 524,
     "name": "Wolf Tooth"
   },
   "enchanted_grilled_pork": {
@@ -14612,19 +14612,19 @@
     "name": "Enchanted Grilled Pork"
   },
   "enchanted_nether_stalk": {
-    "price": 357,
+    "price": 356,
     "name": "Enchanted Nether Wart"
   },
   "enchanted_redstone_block": {
-    "price": 36544,
+    "price": 36304,
     "name": "Enchanted Redstone Block"
   },
   "enchanted_quartz_block": {
-    "price": 280253,
+    "price": 280254,
     "name": "Enchanted Quartz Block"
   },
   "enchanted_ancient_claw": {
-    "price": 1921,
+    "price": 1922,
     "name": "Enchanted Ancient Claw"
   },
   "green_candy": {
@@ -14636,7 +14636,7 @@
     "name": "Treasurite"
   },
   "enchanted_redstone": {
-    "price": 228,
+    "price": 227,
     "name": "Enchanted Redstone"
   },
   "enchanted_redstone_lamp": {
@@ -14668,7 +14668,7 @@
     "name": "Enchanted Packed Ice"
   },
   "enchanted_lava_bucket": {
-    "price": 387425,
+    "price": 387423,
     "name": "Enchanted Lava Bucket"
   },
   "enchanted_prismarine_shard": {
@@ -14676,11 +14676,11 @@
     "name": "Enchanted Prismarine Shard"
   },
   "recombobulator_3000": {
-    "price": 5926787,
+    "price": 5926786,
     "name": "Recombobulator 3000"
   },
   "enchanted_iron_block": {
-    "price": 399951,
+    "price": 399950,
     "name": "Enchanted Iron Block"
   },
   "enchanted_carrot_stick": {
@@ -14688,7 +14688,7 @@
     "name": "Enchanted Carrot on a Stick"
   },
   "bone": {
-    "price": 2,
+    "price": 3,
     "name": "Bone"
   },
   "raw_fish:2": {
@@ -14736,7 +14736,7 @@
     "name": "Sponge"
   },
   "enchanted_dark_oak_log": {
-    "price": 606,
+    "price": 605,
     "name": "Enchanted Dark Oak Wood"
   },
   "blaze_rod": {
@@ -14744,7 +14744,7 @@
     "name": "Blaze Rod"
   },
   "young_fragment": {
-    "price": 2492,
+    "price": 2494,
     "name": "Young Dragon Fragment"
   },
   "flawless_topaz_gem": {
@@ -14752,11 +14752,11 @@
     "name": "Flawless Topaz Gemstone"
   },
   "enchanted_clownfish": {
-    "price": 3212,
+    "price": 3211,
     "name": "Enchanted Clownfish"
   },
   "refined_mineral": {
-    "price": 30045,
+    "price": 29864,
     "name": "Refined Mineral"
   },
   "enchanted_gold": {
@@ -14788,7 +14788,7 @@
     "name": "Null Atom"
   },
   "log:1": {
-    "price": 5,
+    "price": 6,
     "name": "Spruce Wood"
   },
   "flawless_ruby_gem": {
@@ -14796,11 +14796,11 @@
     "name": "Flawless Ruby Gemstone"
   },
   "titanium_ore": {
-    "price": 93,
+    "price": 92,
     "name": "Titanium"
   },
   "blessed_bait": {
-    "price": 107,
+    "price": 112,
     "name": "Blessed Bait"
   },
   "catalyst": {
@@ -14808,7 +14808,7 @@
     "name": "Catalyst"
   },
   "log:3": {
-    "price": 8,
+    "price": 7,
     "name": "Jungle Wood"
   },
   "log:2": {
@@ -14824,7 +14824,7 @@
     "name": "Enchanted Ink Sack"
   },
   "enchanted_sugar_cane": {
-    "price": 51358,
+    "price": 51277,
     "name": "Enchanted Sugar Cane"
   },
   "flawless_sapphire_gem": {
@@ -14840,7 +14840,7 @@
     "name": "Enchanted Cooked Salmon"
   },
   "enchanted_seeds": {
-    "price": 75,
+    "price": 79,
     "name": "Enchanted Seeds"
   },
   "concentrated_stone": {
@@ -14856,7 +14856,7 @@
     "name": "Enchanted Bone Block"
   },
   "jacobs_ticket": {
-    "price": 8989,
+    "price": 9241,
     "name": "Jacob's Ticket"
   },
   "ghast_tear": {
@@ -14864,15 +14864,15 @@
     "name": "Ghast Tear"
   },
   "enchanted_ender_pearl": {
-    "price": 171,
+    "price": 169,
     "name": "Enchanted Ender Pearl"
   },
   "absolute_ender_pearl": {
-    "price": 11710,
+    "price": 11709,
     "name": "Absolute Ender Pearl"
   },
   "unstable_fragment": {
-    "price": 2512,
+    "price": 2509,
     "name": "Unstable Dragon Fragment"
   },
   "purple_candy": {
@@ -14892,7 +14892,7 @@
     "name": "Polished Pumpkin"
   },
   "enchanted_gold_block": {
-    "price": 107865,
+    "price": 107691,
     "name": "Enchanted Gold Block"
   },
   "rough_jade_gem": {
@@ -14904,7 +14904,7 @@
     "name": "Enchanted Jungle Wood"
   },
   "null_ovoid": {
-    "price": 297982,
+    "price": 297099,
     "name": "Null Ovoid"
   },
   "enchanted_flint": {
@@ -14932,7 +14932,7 @@
     "name": "Rough Sapphire Gemstone"
   },
   "enchanted_clay_ball": {
-    "price": 475,
+    "price": 472,
     "name": "Enchanted Clay"
   },
   "revenant_viscera": {
@@ -14940,7 +14940,7 @@
     "name": "Revenant Viscera"
   },
   "perfect_amethyst_gem": {
-    "price": 7153821,
+    "price": 7153820,
     "name": "Perfect Amethyst Gemstone"
   },
   "enchanted_mutton": {
@@ -14956,7 +14956,7 @@
     "name": "Tarantula Silk"
   },
   "null_sphere": {
-    "price": 1628,
+    "price": 1649,
     "name": "Null Sphere"
   },
   "enchanted_iron": {
@@ -14964,7 +14964,7 @@
     "name": "Enchanted Iron"
   },
   "super_compactor_3000": {
-    "price": 168953,
+    "price": 162707,
     "name": "Super Compactor 3000"
   },
   "super_egg": {
@@ -14984,11 +14984,11 @@
     "name": "Enchanted Paper"
   },
   "enchanted_bone": {
-    "price": 518,
+    "price": 517,
     "name": "Enchanted Bone"
   },
   "enchanted_hay_block": {
-    "price": 4153,
+    "price": 4152,
     "name": "Enchanted Hay Bale"
   },
   "enchanted_titanium": {
@@ -14996,11 +14996,11 @@
     "name": "Enchanted Titanium"
   },
   "enchanted_diamond_block": {
-    "price": 205127,
+    "price": 205126,
     "name": "Enchanted Diamond Block"
   },
   "superior_fragment": {
-    "price": 98173,
+    "price": 96854,
     "name": "Superior Dragon Fragment"
   },
   "goblin_egg_green": {
@@ -15012,19 +15012,19 @@
     "name": "Magma Bucket"
   },
   "spooky_bait": {
-    "price": 86,
+    "price": 74,
     "name": "Spooky Bait"
   },
   "emerald": {
-    "price": 7,
+    "price": 8,
     "name": "Emerald"
   },
   "enchanted_rabbit_foot": {
-    "price": 1596,
+    "price": 1597,
     "name": "Enchanted Rabbit Foot"
   },
   "enchanted_ice": {
-    "price": 797,
+    "price": 788,
     "name": "Enchanted Ice"
   },
   "clay_ball": {
@@ -15044,7 +15044,7 @@
     "name": "Arachne's Keeper Fragment"
   },
   "green_gift": {
-    "price": 9887,
+    "price": 9679,
     "name": "Green Gift"
   },
   "worm_membrane": {
@@ -15056,7 +15056,7 @@
     "name": "Flawless Amethyst Gemstone"
   },
   "packed_ice": {
-    "price": 39,
+    "price": 36,
     "name": "Packed Ice"
   },
   "rough_amber_gem": {
@@ -15076,7 +15076,7 @@
     "name": "Hamster Wheel"
   },
   "enchanted_obsidian": {
-    "price": 2214,
+    "price": 2221,
     "name": "Enchanted Obsidian"
   },
   "fine_amber_gem": {
@@ -15084,11 +15084,11 @@
     "name": "Fine Amber Gemstone"
   },
   "enchanted_coal": {
-    "price": 1187,
+    "price": 1181,
     "name": "Enchanted Coal"
   },
   "enchanted_quartz": {
-    "price": 1734,
+    "price": 1745,
     "name": "Enchanted Quartz"
   },
   "enchanted_coal_block": {
@@ -15108,7 +15108,7 @@
     "name": "Daedalus Stick"
   },
   "goblin_egg": {
-    "price": 4953,
+    "price": 5084,
     "name": "Goblin Egg"
   },
   "enchanted_prismarine_crystals": {
@@ -15128,11 +15128,11 @@
     "name": "Nether Quartz"
   },
   "ender_stone": {
-    "price": 5,
+    "price": 4,
     "name": "End Stone"
   },
   "enchanted_raw_fish": {
-    "price": 2614,
+    "price": 2598,
     "name": "Enchanted Raw Fish"
   },
   "foul_flesh": {
@@ -15148,11 +15148,11 @@
     "name": "Purple Jerry Box"
   },
   "enchanted_eye_of_ender": {
-    "price": 4999,
+    "price": 5050,
     "name": "Enchanted Eye of Ender"
   },
   "sludge_juice": {
-    "price": 1299,
+    "price": 1298,
     "name": "Sludge Juice"
   },
   "ectoplasm": {
@@ -15172,7 +15172,7 @@
     "name": "Magma Cream"
   },
   "red_gift": {
-    "price": 44520,
+    "price": 44521,
     "name": "Red Gift"
   },
   "enchanted_mithril": {
@@ -15184,7 +15184,7 @@
     "name": "Blue Jerry Box"
   },
   "enchanted_slime_block": {
-    "price": 498994,
+    "price": 498995,
     "name": "Enchanted Slime Block"
   },
   "enchanted_raw_beef": {
@@ -15196,11 +15196,11 @@
     "name": "Enchanted Feather"
   },
   "enchanted_oak_log": {
-    "price": 988,
+    "price": 986,
     "name": "Enchanted Oak Wood"
   },
   "white_gift": {
-    "price": 5618,
+    "price": 5636,
     "name": "White Gift"
   },
   "rabbit_hide": {
@@ -15232,11 +15232,11 @@
     "name": "Dark Bait"
   },
   "enchanted_carrot": {
-    "price": 362,
+    "price": 361,
     "name": "Enchanted Carrot"
   },
   "soulflow": {
-    "price": 12995,
+    "price": 12996,
     "name": "Soulflow"
   },
   "obsidian": {
@@ -15260,7 +15260,7 @@
     "name": "Minnow Bait"
   },
   "enchanted_magma_cream": {
-    "price": 1366,
+    "price": 1365,
     "name": "Enchanted Magma Cream"
   },
   "starfall": {
@@ -15276,11 +15276,11 @@
     "name": "Hard Stone"
   },
   "flawless_jade_gem": {
-    "price": 1428425,
+    "price": 1428426,
     "name": "Flawless Jade Gemstone"
   },
   "flawed_topaz_gem": {
-    "price": 274,
+    "price": 269,
     "name": "Flawed Topaz Gemstone"
   },
   "enchanted_cooked_mutton": {
@@ -15292,7 +15292,7 @@
     "name": "Fine Amethyst Gemstone"
   },
   "refined_titanium": {
-    "price": 300843,
+    "price": 306226,
     "name": "Refined Titanium"
   },
   "enchanted_rabbit": {
@@ -15312,15 +15312,15 @@
     "name": "Enchanted Bread"
   },
   "fuming_potato_book": {
-    "price": 1079833,
+    "price": 1077630,
     "name": "Fuming Potato Book"
   },
   "fine_jasper_gem": {
-    "price": 51598,
+    "price": 51989,
     "name": "Fine Jasper Gemstone"
   },
   "flawless_amber_gem": {
-    "price": 1674407,
+    "price": 1773189,
     "name": "Flawless Amber Gemstone"
   },
   "flawed_sapphire_gem": {
@@ -15328,7 +15328,7 @@
     "name": "Flawed Sapphire Gemstone"
   },
   "enchanted_blaze_powder": {
-    "price": 2200,
+    "price": 2201,
     "name": "Enchanted Blaze Powder"
   },
   "snow_block": {
@@ -15336,11 +15336,11 @@
     "name": "Snow Block"
   },
   "fish_bait": {
-    "price": 89,
+    "price": 82,
     "name": "Fish Bait"
   },
   "perfect_sapphire_gem": {
-    "price": 7799992,
+    "price": 7799991,
     "name": "Perfect Sapphire Gemstone"
   },
   "bazaar_cookie": {
@@ -15348,11 +15348,11 @@
     "name": "Bazaar Cookie"
   },
   "enchanted_diamond": {
-    "price": 1326,
+    "price": 1327,
     "name": "Enchanted Diamond"
   },
   "compactor": {
-    "price": 2443,
+    "price": 2444,
     "name": "Compactor"
   },
   "enchanted_baked_potato": {
@@ -15364,7 +15364,7 @@
     "name": "Horns Of Torment"
   },
   "dark_orb": {
-    "price": 589997,
+    "price": 589499,
     "name": "Dark Orb"
   },
   "enchanted_mycelium_cube": {
@@ -15388,7 +15388,7 @@
     "name": "Hazmat Enderman"
   },
   "luxurious_spool": {
-    "price": 799999,
+    "price": 809999,
     "name": "Luxurious Spool"
   },
   "kuudra_mandible": {
@@ -15432,7 +15432,7 @@
     "name": "Deep Sea Orb"
   },
   "necromancer_brooch": {
-    "price": 33290,
+    "price": 33289,
     "name": "Necromancer's Brooch"
   },
   "petrified_starfall": {
@@ -15460,7 +15460,7 @@
     "name": "Furball"
   },
   "giant_tooth": {
-    "price": 492207,
+    "price": 491999,
     "name": "Giant Tooth"
   },
   "optical_lens": {
@@ -15468,11 +15468,11 @@
     "name": "Optical Lens"
   },
   "endstone_geode": {
-    "price": 94998,
+    "price": 90399,
     "name": "End Stone Geode"
   },
   "salmon_opal": {
-    "price": 1999,
+    "price": 1998,
     "name": "Salmon Opal"
   },
   "aote_stone": {
@@ -15484,7 +15484,7 @@
     "name": "Golden Ball"
   },
   "glowstone_dust_distillate": {
-    "price": 21000,
+    "price": 20999,
     "name": "Glowstone Dust Distillate"
   },
   "sulphur_ore": {
@@ -15560,7 +15560,7 @@
     "name": "Diamonite"
   },
   "spirit_decoy": {
-    "price": 1402427,
+    "price": 1402426,
     "name": "Spirit Stone"
   },
   "obsidian_tablet": {
@@ -15572,7 +15572,7 @@
     "name": "Candy Corn"
   },
   "premium_flesh": {
-    "price": 2,
+    "price": 3,
     "name": "Premium Flesh"
   },
   "midas_jewel": {
@@ -15588,7 +15588,7 @@
     "name": "Jerry Stone"
   },
   "vitamin_death": {
-    "price": 140000,
+    "price": 139999,
     "name": "Vitamin Death"
   },
   "hypergolic_gabagool": {
@@ -15628,11 +15628,11 @@
     "name": "Red Nose"
   },
   "dragon_claw": {
-    "price": 631040,
+    "price": 617023,
     "name": "Dragon Claw"
   },
   "fuel_gabagool": {
-    "price": 17456,
+    "price": 17422,
     "name": "Fuel Gabagool"
   },
   "lucky_dice": {
@@ -15640,7 +15640,7 @@
     "name": "Lucky Dice"
   },
   "enchanted_mycelium": {
-    "price": 8190,
+    "price": 8265,
     "name": "Enchanted Mycelium"
   },
   "precious_pearl": {
@@ -15652,11 +15652,11 @@
     "name": "Scorched Books"
   },
   "blaze_wax": {
-    "price": 563638,
+    "price": 563637,
     "name": "Blaze Wax"
   },
   "wither_blood": {
-    "price": 2346199,
+    "price": 2346200,
     "name": "Wither Blood"
   },
   "shiny_prism": {
@@ -15672,11 +15672,11 @@
     "name": "Flawed Opal Gem"
   },
   "enchanted_red_sand": {
-    "price": 2384,
+    "price": 2391,
     "name": "Enchanted Red Sand"
   },
   "fine_opal_gem": {
-    "price": 22499,
+    "price": 22498,
     "name": "Fine Opal Gem"
   },
   "perfect_opal_gem": {
@@ -15744,7 +15744,7 @@
     "name": "Essence Ice"
   },
   "essence_gold": {
-    "price": 94,
+    "price": 95,
     "name": "Essence Gold"
   },
   "enchantment_blast_protection_6": {
@@ -15764,15 +15764,15 @@
     "name": "Enchantment Turbo Mushrooms 2"
   },
   "enchantment_turbo_mushrooms_4": {
-    "price": 799999,
+    "price": 500000,
     "name": "Enchantment Turbo Mushrooms 4"
   },
   "enchantment_turbo_mushrooms_3": {
-    "price": 1440198,
+    "price": 1296378,
     "name": "Enchantment Turbo Mushrooms 3"
   },
   "essence_spider": {
-    "price": 167,
+    "price": 168,
     "name": "Essence Spider"
   },
   "enchantment_angler_6": {
@@ -15784,15 +15784,15 @@
     "name": "Essence Crimson"
   },
   "enchantment_ultimate_bank_5": {
-    "price": 17118,
+    "price": 18534,
     "name": "Enchantment Ultimate Bank 5"
   },
   "enchantment_ultimate_bank_2": {
-    "price": 798,
+    "price": 799,
     "name": "Enchantment Ultimate Bank 2"
   },
   "enchantment_ultimate_bank_1": {
-    "price": 218,
+    "price": 215,
     "name": "Enchantment Ultimate Bank 1"
   },
   "enchantment_ultimate_bank_4": {
@@ -15812,7 +15812,7 @@
     "name": "Essence Wither"
   },
   "essence_undead": {
-    "price": 702,
+    "price": 700,
     "name": "Essence Undead"
   },
   "enchantment_bane_of_arthropods_6": {
@@ -15828,7 +15828,7 @@
     "name": "Enchantment Sharpness 7"
   },
   "enchantment_sharpness_6": {
-    "price": 1816749,
+    "price": 1780825,
     "name": "Enchantment Sharpness 6"
   },
   "enchantment_feather_falling_6": {
@@ -15884,7 +15884,7 @@
     "name": "Enchantment Corruption 2"
   },
   "enchantment_corruption_3": {
-    "price": 29999,
+    "price": 28506,
     "name": "Enchantment Corruption 3"
   },
   "enchantment_corruption_1": {
@@ -16000,7 +16000,7 @@
     "name": "Enchantment Strong Mana 2"
   },
   "enchantment_strong_mana_1": {
-    "price": 260361,
+    "price": 260360,
     "name": "Enchantment Strong Mana 1"
   },
   "enchantment_hardened_mana_1": {
@@ -16032,11 +16032,11 @@
     "name": "Enchantment Ultimate Combo 4"
   },
   "enchantment_ultimate_combo_3": {
-    "price": 132999,
+    "price": 132998,
     "name": "Enchantment Ultimate Combo 3"
   },
   "enchantment_strong_mana_9": {
-    "price": 66652416,
+    "price": 66652160,
     "name": "Enchantment Strong Mana 9"
   },
   "enchantment_strong_mana_8": {
@@ -16096,7 +16096,7 @@
     "name": "Enchantment Hardened Mana 8"
   },
   "enchantment_ultimate_no_pain_no_gain_5": {
-    "price": 29999,
+    "price": 60000,
     "name": "Enchantment Ultimate No Pain No Gain 5"
   },
   "enchantment_experience_4": {
@@ -16156,7 +16156,7 @@
     "name": "Enchantment Overload 2"
   },
   "enchantment_overload_1": {
-    "price": 936398,
+    "price": 936249,
     "name": "Enchantment Overload 1"
   },
   "enchantment_fire_protection_6": {
@@ -16172,7 +16172,7 @@
     "name": "Enchantment Hardened Mana 10"
   },
   "enchantment_ultimate_jerry_2": {
-    "price": 1099,
+    "price": 1054,
     "name": "Enchantment Ultimate Jerry 2"
   },
   "enchantment_ultimate_rend_3": {
@@ -16212,23 +16212,23 @@
     "name": "Enchantment Ultimate Jerry 3"
   },
   "enchantment_ultimate_wise_2": {
-    "price": 324989,
+    "price": 324988,
     "name": "Enchantment Ultimate Wise 2"
   },
   "enchantment_ultimate_wise_1": {
-    "price": 147352,
+    "price": 147247,
     "name": "Enchantment Ultimate Wise 1"
   },
   "enchantment_ultimate_wise_4": {
-    "price": 1366689,
+    "price": 1422712,
     "name": "Enchantment Ultimate Wise 4"
   },
   "enchantment_ultimate_wise_3": {
-    "price": 644999,
+    "price": 685106,
     "name": "Enchantment Ultimate Wise 3"
   },
   "enchantment_true_protection_1": {
-    "price": 949999,
+    "price": 950000,
     "name": "Enchantment True Protection 1"
   },
   "enchantment_luck_of_the_sea_6": {
@@ -16240,7 +16240,7 @@
     "name": "Enchantment Smarty Pants 3"
   },
   "enchantment_ultimate_wise_5": {
-    "price": 2493602,
+    "price": 2452963,
     "name": "Enchantment Ultimate Wise 5"
   },
   "enchantment_smarty_pants_2": {
@@ -16248,7 +16248,7 @@
     "name": "Enchantment Smarty Pants 2"
   },
   "enchantment_smarty_pants_5": {
-    "price": 11180369,
+    "price": 11180368,
     "name": "Enchantment Smarty Pants 5"
   },
   "enchantment_smarty_pants_4": {
@@ -16256,7 +16256,7 @@
     "name": "Enchantment Smarty Pants 4"
   },
   "enchantment_smarty_pants_1": {
-    "price": 581419,
+    "price": 567867,
     "name": "Enchantment Smarty Pants 1"
   },
   "enchantment_lure_6": {
@@ -16272,7 +16272,7 @@
     "name": "Enchantment Ferocious Mana 9"
   },
   "enchantment_ferocious_mana_4": {
-    "price": 6949999,
+    "price": 6500000,
     "name": "Enchantment Ferocious Mana 4"
   },
   "enchantment_ferocious_mana_5": {
@@ -16348,7 +16348,7 @@
     "name": "Enchantment Charm 4"
   },
   "enchantment_charm_5": {
-    "price": 4099999,
+    "price": 4099998,
     "name": "Enchantment Charm 5"
   },
   "enchantment_ultimate_swarm_5": {
@@ -16396,7 +16396,7 @@
     "name": "Enchantment Sugar Rush 2"
   },
   "enchantment_sugar_rush_1": {
-    "price": 389352,
+    "price": 746999,
     "name": "Enchantment Sugar Rush 1"
   },
   "enchantment_growth_6": {
@@ -16404,7 +16404,7 @@
     "name": "Enchantment Growth 6"
   },
   "enchantment_growth_7": {
-    "price": 141699997,
+    "price": 132000000,
     "name": "Enchantment Growth 7"
   },
   "enchantment_ultimate_chimera_1": {
@@ -16412,7 +16412,7 @@
     "name": "Enchantment Ultimate Chimera 1"
   },
   "enchantment_ultimate_last_stand_5": {
-    "price": 4734275,
+    "price": 4734274,
     "name": "Enchantment Ultimate Last Stand 5"
   },
   "enchantment_ultimate_last_stand_4": {
@@ -16428,7 +16428,7 @@
     "name": "Enchantment Ultimate Last Stand 3"
   },
   "enchantment_ultimate_last_stand_2": {
-    "price": 576981,
+    "price": 564782,
     "name": "Enchantment Ultimate Last Stand 2"
   },
   "enchantment_ultimate_chimera_4": {
@@ -16436,7 +16436,7 @@
     "name": "Enchantment Ultimate Chimera 4"
   },
   "enchantment_ultimate_last_stand_1": {
-    "price": 293104,
+    "price": 293103,
     "name": "Enchantment Ultimate Last Stand 1"
   },
   "enchantment_ultimate_chimera_3": {
@@ -16472,7 +16472,7 @@
     "name": "Enchantment Smoldering 2"
   },
   "enchantment_critical_6": {
-    "price": 13898,
+    "price": 13899,
     "name": "Enchantment Critical 6"
   },
   "enchantment_critical_7": {
@@ -16504,7 +16504,7 @@
     "name": "Enchantment Ultimate Reiterate 3"
   },
   "enchantment_venomous_6": {
-    "price": 35300000,
+    "price": 35499998,
     "name": "Enchantment Venomous 6"
   },
   "enchantment_strong_mana_10": {
@@ -16520,7 +16520,7 @@
     "name": "Enchantment Feather Falling 9"
   },
   "enchantment_feather_falling_8": {
-    "price": 2171,
+    "price": 1999,
     "name": "Enchantment Feather Falling 8"
   },
   "enchantment_compact_1": {
@@ -16556,7 +16556,7 @@
     "name": "Enchantment Life Steal 5"
   },
   "enchantment_life_steal_4": {
-    "price": 106244,
+    "price": 100000,
     "name": "Enchantment Life Steal 4"
   },
   "enchantment_tabasco_3": {
@@ -16572,7 +16572,7 @@
     "name": "Enchantment Tabasco 2"
   },
   "enchantment_mana_vampire_1": {
-    "price": 418033,
+    "price": 418032,
     "name": "Enchantment Mana Vampire 1"
   },
   "enchantment_mana_vampire_2": {
@@ -16588,7 +16588,7 @@
     "name": "Enchantment Mana Vampire 3"
   },
   "enchantment_mana_vampire_6": {
-    "price": 13377056,
+    "price": 13377024,
     "name": "Enchantment Mana Vampire 6"
   },
   "enchantment_mana_vampire_5": {
@@ -16596,7 +16596,7 @@
     "name": "Enchantment Mana Vampire 5"
   },
   "enchantment_mana_vampire_8": {
-    "price": 53508224,
+    "price": 53508096,
     "name": "Enchantment Mana Vampire 8"
   },
   "enchantment_mana_vampire_7": {
@@ -16612,7 +16612,7 @@
     "name": "Enchantment Titan Killer 7"
   },
   "enchantment_titan_killer_6": {
-    "price": 19436,
+    "price": 20915,
     "name": "Enchantment Titan Killer 6"
   },
   "enchantment_power_7": {
@@ -16632,7 +16632,7 @@
     "name": "Enchantment Cultivating 1"
   },
   "enchantment_ultimate_soul_eater_1": {
-    "price": 1862279,
+    "price": 1865313,
     "name": "Enchantment Ultimate Soul Eater 1"
   },
   "enchantment_ultimate_soul_eater_3": {
@@ -16640,7 +16640,7 @@
     "name": "Enchantment Ultimate Soul Eater 3"
   },
   "enchantment_ultimate_soul_eater_2": {
-    "price": 3959050,
+    "price": 3959051,
     "name": "Enchantment Ultimate Soul Eater 2"
   },
   "enchantment_ultimate_soul_eater_5": {
@@ -16684,7 +16684,7 @@
     "name": "Enchantment Ultimate Flash 5"
   },
   "enchantment_turbo_pumpkin_1": {
-    "price": 87900,
+    "price": 87901,
     "name": "Enchantment Turbo Pumpkin 1"
   },
   "enchantment_turbo_pumpkin_2": {
@@ -16732,7 +16732,7 @@
     "name": "Enchantment Blessing 6"
   },
   "enchantment_champion_1": {
-    "price": 1389998,
+    "price": 1389997,
     "name": "Enchantment Champion 1"
   },
   "enchantment_champion_3": {
@@ -16776,7 +16776,7 @@
     "name": "Enchantment Snipe 4"
   },
   "enchantment_ultimate_legion_1": {
-    "price": 1362705,
+    "price": 1361498,
     "name": "Enchantment Ultimate Legion 1"
   },
   "enchantment_ultimate_legion_2": {
@@ -16792,7 +16792,7 @@
     "name": "Enchantment Ultimate Legion 3"
   },
   "enchantment_ultimate_legion_4": {
-    "price": 12429999,
+    "price": 12186999,
     "name": "Enchantment Ultimate Legion 4"
   },
   "enchantment_hecatomb_10": {
@@ -16812,7 +16812,7 @@
     "name": "Enchantment Counter Strike 5"
   },
   "enchantment_spiked_hook_6": {
-    "price": 3000,
+    "price": 2999,
     "name": "Enchantment Spiked Hook 6"
   },
   "enchantment_lethality_6": {
@@ -16820,15 +16820,15 @@
     "name": "Enchantment Lethality 6"
   },
   "enchantment_rejuvenate_1": {
-    "price": 22508,
+    "price": 22233,
     "name": "Enchantment Rejuvenate 1"
   },
   "enchantment_cleave_6": {
-    "price": 20000000,
+    "price": 20399999,
     "name": "Enchantment Cleave 6"
   },
   "enchantment_rejuvenate_5": {
-    "price": 403492,
+    "price": 426551,
     "name": "Enchantment Rejuvenate 5"
   },
   "enchantment_vicious_3": {
@@ -16848,7 +16848,7 @@
     "name": "Enchantment Rejuvenate 3"
   },
   "enchantment_rejuvenate_2": {
-    "price": 45974,
+    "price": 45973,
     "name": "Enchantment Rejuvenate 2"
   },
   "enchantment_vicious_5": {
@@ -16860,7 +16860,7 @@
     "name": "Enchantment Turbo Carrot 2"
   },
   "enchantment_turbo_carrot_1": {
-    "price": 26330,
+    "price": 26329,
     "name": "Enchantment Turbo Carrot 1"
   },
   "enchantment_giant_killer_6": {
@@ -16908,7 +16908,7 @@
     "name": "Enchantment Turbo Cane 4"
   },
   "enchantment_turbo_cane_3": {
-    "price": 276594,
+    "price": 255000,
     "name": "Enchantment Turbo Cane 3"
   },
   "enchantment_turbo_cane_2": {
@@ -16936,15 +16936,15 @@
     "name": "Enchantment Syphon 5"
   },
   "enchantment_syphon_4": {
-    "price": 599995,
+    "price": 599994,
     "name": "Enchantment Syphon 4"
   },
   "enchantment_infinite_quiver_10": {
-    "price": 8075,
+    "price": 8199,
     "name": "Enchantment Infinite Quiver 10"
   },
   "enchantment_looting_4": {
-    "price": 368,
+    "price": 369,
     "name": "Enchantment Looting 4"
   },
   "enchantment_execute_6": {
@@ -16972,7 +16972,7 @@
     "name": "Enchantment Cubism 6"
   },
   "enchantment_smite_6": {
-    "price": 938,
+    "price": 939,
     "name": "Enchantment Smite 6"
   },
   "enchantment_hecatomb_2": {
@@ -16984,7 +16984,7 @@
     "name": "Enchantment Hecatomb 3"
   },
   "enchantment_hecatomb_1": {
-    "price": 2078947,
+    "price": 2100000,
     "name": "Enchantment Hecatomb 1"
   },
   "enchantment_hecatomb_6": {
@@ -17020,7 +17020,7 @@
     "name": "Enchantment Luck 7"
   },
   "enchantment_infinite_quiver_8": {
-    "price": 2398,
+    "price": 2670,
     "name": "Enchantment Infinite Quiver 8"
   },
   "enchantment_infinite_quiver_9": {
@@ -17044,7 +17044,7 @@
     "name": "Enchantment Turbo Potato 3"
   },
   "enchantment_ultimate_wisdom_5": {
-    "price": 2805594,
+    "price": 2805593,
     "name": "Enchantment Ultimate Wisdom 5"
   },
   "enchantment_turbo_potato_4": {
@@ -17056,11 +17056,11 @@
     "name": "Enchantment Turbo Potato 5"
   },
   "enchantment_ultimate_wisdom_1": {
-    "price": 170221,
+    "price": 168980,
     "name": "Enchantment Ultimate Wisdom 1"
   },
   "enchantment_turbo_potato_1": {
-    "price": 28147,
+    "price": 28148,
     "name": "Enchantment Turbo Potato 1"
   },
   "enchantment_ultimate_wisdom_2": {
@@ -17084,7 +17084,7 @@
     "name": "Enchantment Ultimate Habanero Tactics 4"
   },
   "enchantment_fire_aspect_3": {
-    "price": 8000000,
+    "price": 9009133,
     "name": "Enchantment Fire Aspect 3"
   },
   "enchantment_harvesting_6": {
