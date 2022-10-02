@@ -45,10 +45,10 @@
     "price": 4000000
   },
   "adaptive_helmet": {
-    "price": 2000000
+    "price": 2100000
   },
   "adaptive_leggings": {
-    "price": 397000
+    "price": 370000
   },
   "alert_flare": {
     "price": 289000000
@@ -84,7 +84,7 @@
     "price": 540000000
   },
   "antique_remedies": {
-    "price": 25000
+    "price": 24000
   },
   "arachne_fragment": {
     "price": 2857
@@ -96,7 +96,7 @@
     "price": 7500000
   },
   "armor_of_magma_chestplate": {
-    "price": 7900000
+    "price": 7800000
   },
   "armor_of_magma_helmet": {
     "price": 7500000
@@ -123,10 +123,10 @@
     "price": 750000
   },
   "armor_of_yog_helmet": {
-    "price": 387000
+    "price": 380000
   },
   "armor_of_yog_leggings": {
-    "price": 649000
+    "price": 690000
   },
   "artifact_of_control": {
     "price": 666666666
@@ -138,25 +138,25 @@
     "price": 950000
   },
   "aspect_of_the_end": {
-    "price": 206507
+    "price": 206397
   },
   "aspect_of_the_jerry": {
     "price": 1
   },
   "aspect_of_the_void": {
-    "price": 8790000
+    "price": 8749000
   },
   "astraea": {
-    "price": 1170000000
+    "price": 1149900000
   },
   "atominizer": {
     "price": 2550000
   },
   "atomsplit_katana": {
-    "price": 57000000
+    "price": 56900000
   },
   "attribute_shard_arachno": {
-    "price": 9900
+    "price": 10000
   },
   "attribute_shard_arachno_resistance": {
     "price": 11000
@@ -165,10 +165,10 @@
     "price": 10000
   },
   "attribute_shard_blazing_fortune": {
-    "price": 1200000
+    "price": 1199000
   },
   "attribute_shard_breeze": {
-    "price": 999000
+    "price": 1000000
   },
   "attribute_shard_combo": {
     "price": 10000
@@ -207,16 +207,16 @@
     "price": 20000
   },
   "attribute_shard_life_regeneration": {
-    "price": 400000
+    "price": 500000
   },
   "attribute_shard_mana_pool": {
-    "price": 1400000
+    "price": 1250000
   },
   "attribute_shard_midas_touch": {
-    "price": 9000
+    "price": 15000
   },
   "attribute_shard_speed": {
-    "price": 399999
+    "price": 449000
   },
   "attribute_shard_trophy_hunter": {
     "price": 1000000
@@ -267,16 +267,16 @@
     "price": 400000
   },
   "battle_disc": {
-    "price": 2
+    "price": 1
   },
   "bat_artifact": {
     "price": 1200000
   },
   "bat_firework": {
-    "price": 85000
+    "price": 88000
   },
   "bat_person_artifact": {
-    "price": 11264999
+    "price": 11265000
   },
   "bat_person_boots": {
     "price": 770000
@@ -288,19 +288,19 @@
     "price": 750000
   },
   "bat_person_leggings": {
-    "price": 888000
+    "price": 789000
   },
   "bat_person_ring": {
     "price": 2500000
   },
   "bat_person_talisman": {
-    "price": 195000
+    "price": 199000
   },
   "bat_ring": {
-    "price": 480000
+    "price": 499000
   },
   "bat_talisman": {
-    "price": 100000
+    "price": 120000
   },
   "bat_the_fish": {
     "price": 50000
@@ -333,7 +333,7 @@
     "price": 8000000
   },
   "beastmaster_crest_legendary": {
-    "price": 20999980
+    "price": 20750000
   },
   "beastmaster_crest_rare": {
     "price": 1999999
@@ -396,7 +396,7 @@
     "price": 250
   },
   "blade_of_the_volcano": {
-    "price": 150000
+    "price": 170000
   },
   "blazetekk_ham_radio": {
     "price": 549000000
@@ -429,7 +429,7 @@
     "price": 1700000
   },
   "rune_blood_2_1": {
-    "price": 745
+    "price": 600
   },
   "rune_blood_2_2": {
     "price": 15000
@@ -447,13 +447,13 @@
     "price": 7149999
   },
   "bonzo_fragment": {
-    "price": 20000
+    "price": 12500
   },
   "bonzo_mask": {
     "price": 1000000
   },
   "bonzo_staff": {
-    "price": 3800000
+    "price": 3500000
   },
   "boots_of_the_pack": {
     "price": 710000
@@ -462,7 +462,7 @@
     "price": 1111111111
   },
   "bottle_of_jyrre": {
-    "price": 103
+    "price": 93
   },
   "bow:96": {
     "price": 500000
@@ -477,10 +477,10 @@
     "price": 28370
   },
   "budget_hopper": {
-    "price": 13810
+    "price": 15281
   },
   "builders_wand": {
-    "price": 4499000
+    "price": 4500000
   },
   "burstfire_dagger": {
     "price": 10000000
@@ -489,7 +489,7 @@
     "price": 10800000
   },
   "burststopper_artifact": {
-    "price": 157157157
+    "price": 150000000
   },
   "burststopper_talisman": {
     "price": 68000000
@@ -567,19 +567,19 @@
     "price": 249
   },
   "chum": {
-    "price": 2188
+    "price": 1250
   },
   "chumming_talisman": {
-    "price": 1999000
+    "price": 1950000
   },
   "chum_rod": {
-    "price": 300000
+    "price": 288000
   },
   "chyme": {
-    "price": 520000
+    "price": 560000
   },
   "cleaver": {
-    "price": 3901
+    "price": 3659
   },
   "rune_clouds_1": {
     "price": 10000
@@ -588,7 +588,7 @@
     "price": 21000
   },
   "rune_clouds_3": {
-    "price": 160000
+    "price": 175000
   },
   "clownfish_hat": {
     "price": 163
@@ -606,13 +606,13 @@
     "price": 400000
   },
   "control_switch": {
-    "price": 88000
+    "price": 62000
   },
   "corleonite": {
-    "price": 1250000
+    "price": 1090000
   },
   "corrupt_soil": {
-    "price": 900000
+    "price": 965000
   },
   "rune_couture_1": {
     "price": 199999
@@ -663,7 +663,7 @@
     "price": 5038
   },
   "crypt_dreadlord_sword": {
-    "price": 5300
+    "price": 5312
   },
   "crystallized_heart": {
     "price": 800000
@@ -684,7 +684,7 @@
     "price": 1987000
   },
   "daedalus_axe": {
-    "price": 46850000
+    "price": 45000000
   },
   "danger_1_portal": {
     "price": 80000
@@ -702,22 +702,22 @@
     "price": 6867
   },
   "danger_3_travel_scroll": {
-    "price": 369000
+    "price": 340000
   },
   "dante_talisman": {
-    "price": 2062165
+    "price": 2167736
   },
   "dark_claymore": {
     "price": 484500000
   },
   "dark_goggles": {
-    "price": 75000
+    "price": 79000
   },
   "dark_queens_soul_drop": {
     "price": 120000
   },
   "day_saver": {
-    "price": 12279
+    "price": 17209
   },
   "dctr_space_helm": {
     "price": 1740000000
@@ -771,7 +771,7 @@
     "price": 115000000
   },
   "diamond_spreading": {
-    "price": 9000
+    "price": 15000
   },
   "diamond_the_fish": {
     "price": 69690000
@@ -792,7 +792,7 @@
     "price": 733333333
   },
   "divan_boots": {
-    "price": 21700000
+    "price": 22000000
   },
   "divan_chestplate": {
     "price": 32900000
@@ -801,13 +801,13 @@
     "price": 1050000000
   },
   "divan_fragment": {
-    "price": 1790000
+    "price": 1699000
   },
   "divan_helmet": {
     "price": 23600000
   },
   "divan_leggings": {
-    "price": 33900000
+    "price": 33850000
   },
   "diver_boots": {
     "price": 999000
@@ -840,7 +840,7 @@
     "price": 600000
   },
   "drill_engine": {
-    "price": 3400000
+    "price": 3390000
   },
   "dr_paper": {
     "price": 18000
@@ -849,10 +849,10 @@
     "price": 6000000000
   },
   "dull_shark_tooth_necklace": {
-    "price": 55000
+    "price": 50000
   },
   "dungeon_chest_key": {
-    "price": 187000
+    "price": 199000
   },
   "dungeon_disc_1": {
     "price": 50000
@@ -879,7 +879,7 @@
     "price": 800000
   },
   "dwarf_turtle_shelmet": {
-    "price": 800000
+    "price": 900000
   },
   "dye_aquamarine": {
     "price": 749999000
@@ -891,7 +891,7 @@
     "price": 99495000
   },
   "dye_byzantium": {
-    "price": 67000000
+    "price": 68000000
   },
   "dye_carmine": {
     "price": 350000000
@@ -936,7 +936,7 @@
     "price": 5999999
   },
   "electron_transmitter": {
-    "price": 40000
+    "price": 52500
   },
   "elegant_tuxedo_boots": {
     "price": 15000000
@@ -945,10 +945,10 @@
     "price": 23000000
   },
   "elegant_tuxedo_leggings": {
-    "price": 15000000
+    "price": 14000000
   },
   "ember_boots": {
-    "price": 700000
+    "price": 699000
   },
   "ember_chestplate": {
     "price": 1300000
@@ -978,7 +978,7 @@
     "price": 283590
   },
   "emerald_ring": {
-    "price": 22657
+    "price": 24036
   },
   "empty_chum_bucket": {
     "price": 24000
@@ -993,7 +993,7 @@
     "price": 60000000
   },
   "enchanted_dandelion": {
-    "price": 68767
+    "price": 68642
   },
   "enchanted_hopper": {
     "price": 2000000
@@ -1029,10 +1029,10 @@
     "price": 400000
   },
   "ender_artifact": {
-    "price": 91000000
+    "price": 90000000
   },
   "ender_bow": {
-    "price": 44999
+    "price": 45000
   },
   "ender_relic": {
     "price": 119999990
@@ -1047,22 +1047,22 @@
     "price": 24082
   },
   "end_chestplate": {
-    "price": 27609
+    "price": 28324
   },
   "end_helmet": {
-    "price": 25028
+    "price": 21212
   },
   "end_leggings": {
-    "price": 23213
+    "price": 25354
   },
   "end_portal_fumes_mixin": {
     "price": 299000
   },
   "end_stone_bow": {
-    "price": 19999
+    "price": 20000
   },
   "end_stone_sword": {
-    "price": 295000
+    "price": 290000
   },
   "end_sword": {
     "price": 65
@@ -1122,10 +1122,10 @@
     "price": 49990000
   },
   "exceedingly_rare_ender_artifact_upgrader": {
-    "price": 30999999
+    "price": 30500000
   },
   "experience_artifact": {
-    "price": 513111
+    "price": 579000
   },
   "experiment_the_fish": {
     "price": 50000
@@ -1158,7 +1158,7 @@
     "price": 49000
   },
   "farming_1_travel_scroll": {
-    "price": 119999
+    "price": 119000
   },
   "farming_2_portal": {
     "price": 47000
@@ -1179,7 +1179,7 @@
     "price": 85000
   },
   "farm_armor_helmet": {
-    "price": 87000
+    "price": 85000
   },
   "farm_suit_boots": {
     "price": 26
@@ -1206,16 +1206,16 @@
     "price": 199000
   },
   "fervor_boots": {
-    "price": 450000
+    "price": 490000
   },
   "fervor_chestplate": {
-    "price": 580000
+    "price": 579999
   },
   "fervor_helmet": {
-    "price": 498999
+    "price": 500000
   },
   "fervor_leggings": {
-    "price": 490000
+    "price": 498000
   },
   "rune_fiery_burst_1": {
     "price": 1100000
@@ -1227,16 +1227,16 @@
     "price": 11000000
   },
   "final_destination_boots": {
-    "price": 639000
+    "price": 644000
   },
   "final_destination_chestplate": {
-    "price": 1190000
+    "price": 1170000
   },
   "final_destination_helmet": {
-    "price": 942000
+    "price": 888888
   },
   "final_destination_leggings": {
-    "price": 950000
+    "price": 945000
   },
   "firedust_dagger": {
     "price": 1990000
@@ -1251,13 +1251,13 @@
     "price": 100000
   },
   "rune_fire_spiral_2": {
-    "price": 666666
+    "price": 700000
   },
   "rune_fire_spiral_3": {
     "price": 2400000
   },
   "fire_talisman": {
-    "price": 35882
+    "price": 38692
   },
   "fire_veil_wand": {
     "price": 9200000
@@ -1275,7 +1275,7 @@
     "price": 60000000
   },
   "fish_affinity_talisman": {
-    "price": 60000
+    "price": 64000
   },
   "fish_hat": {
     "price": 626
@@ -1296,7 +1296,7 @@
     "price": 4500000
   },
   "flame_breaker_boots": {
-    "price": 300000
+    "price": 200000
   },
   "flame_breaker_chestplate": {
     "price": 499999
@@ -1323,10 +1323,10 @@
     "price": 500
   },
   "florid_zombie_sword": {
-    "price": 3288000
+    "price": 3499990
   },
   "flower_of_truth": {
-    "price": 1599000
+    "price": 1549000
   },
   "flycatcher_upgrade": {
     "price": 18000000
@@ -1359,7 +1359,7 @@
     "price": 239000
   },
   "fractured_mithril_pickaxe": {
-    "price": 4928
+    "price": 6035
   },
   "french_bread": {
     "price": 18800000
@@ -1368,7 +1368,7 @@
     "price": 8898000
   },
   "frozen_blaze_chestplate": {
-    "price": 10999000
+    "price": 9500000
   },
   "frozen_blaze_helmet": {
     "price": 11000000
@@ -1380,19 +1380,19 @@
     "price": 96000000
   },
   "frozen_blaze_leggings": {
-    "price": 10500000
+    "price": 10200000
   },
   "frozen_scythe": {
-    "price": 8500000
+    "price": 8700000
   },
   "ftx_3070": {
-    "price": 55000
+    "price": 60000
   },
   "fuel_tank": {
     "price": 469999
   },
   "full_chum_bucket": {
-    "price": 40000
+    "price": 42000
   },
   "fungi_cutter": {
     "price": 898000
@@ -1407,16 +1407,16 @@
     "price": 1799999900
   },
   "gauntlet_of_contagion": {
-    "price": 13000000
+    "price": 12999999
   },
   "gemstone_chamber": {
-    "price": 5794000
+    "price": 5970000
   },
   "gemstone_collection": {
     "price": 25000000
   },
   "gemstone_drill_1": {
-    "price": 4399999
+    "price": 4500000
   },
   "gemstone_drill_2": {
     "price": 6500000
@@ -1428,13 +1428,13 @@
     "price": 18000000
   },
   "gemstone_fuel_tank": {
-    "price": 37999990
+    "price": 38000000
   },
   "gemstone_gauntlet": {
     "price": 14699000
   },
   "gemstone_mixture": {
-    "price": 999999
+    "price": 1100000
   },
   "rune_gem_1": {
     "price": 150
@@ -1446,10 +1446,10 @@
     "price": 15000
   },
   "ghast_cloak": {
-    "price": 1380000
+    "price": 1385000
   },
   "ghast_head": {
-    "price": 64
+    "price": 3000
   },
   "ghost_boots": {
     "price": 46596
@@ -1464,40 +1464,40 @@
     "price": 4000000
   },
   "giant_fragment_bigfoot": {
-    "price": 60000
+    "price": 80000
   },
   "giant_fragment_boulder": {
-    "price": 60000
+    "price": 50000
   },
   "giant_fragment_diamond": {
-    "price": 970000
+    "price": 1000000
   },
   "giant_fragment_laser": {
-    "price": 390000
+    "price": 350000
   },
   "gift_the_fish": {
     "price": 50000
   },
   "glacite_boots": {
-    "price": 50000
+    "price": 40000
   },
   "glacite_chestplate": {
-    "price": 45000
+    "price": 40000
   },
   "glacite_helmet": {
-    "price": 50000
+    "price": 40000
   },
   "glacite_jewel": {
-    "price": 70000
+    "price": 99000
   },
   "glacite_leggings": {
-    "price": 54000
+    "price": 40000
   },
   "gloomlock_grimoire": {
-    "price": 5300000
+    "price": 5399000
   },
   "glowing_mushroom": {
-    "price": 2344
+    "price": 2000
   },
   "glowstone_gauntlet": {
     "price": 20180
@@ -1518,7 +1518,7 @@
     "price": 445000
   },
   "goblin_omelette_blue_cheese": {
-    "price": 98000000
+    "price": 98999990
   },
   "goblin_omelette_pesto": {
     "price": 999000
@@ -1533,7 +1533,7 @@
     "price": 599000
   },
   "god_potion_2": {
-    "price": 500000
+    "price": 598000
   },
   "rune_golden_1": {
     "price": 2000
@@ -1545,7 +1545,7 @@
     "price": 180000
   },
   "golden_plate": {
-    "price": 1500000
+    "price": 1550000
   },
   "goldor_the_fish": {
     "price": 50000
@@ -1557,13 +1557,13 @@
     "price": 500000
   },
   "gold_claws": {
-    "price": 4200000
+    "price": 4150000
   },
   "gold_gift": {
     "price": 100000
   },
   "gold_livid_head": {
-    "price": 799999
+    "price": 800000
   },
   "gold_necron_head": {
     "price": 20000000
@@ -1572,10 +1572,10 @@
     "price": 1000000
   },
   "gold_sadan_head": {
-    "price": 2600000
+    "price": 2800000
   },
   "gold_scarf_head": {
-    "price": 569000
+    "price": 600000
   },
   "gold_thorn_head": {
     "price": 2600000
@@ -1587,16 +1587,16 @@
     "price": 200000
   },
   "golem_armor_helmet": {
-    "price": 199999
+    "price": 195000
   },
   "golem_armor_leggings": {
     "price": 250000
   },
   "golem_hat": {
-    "price": 249
+    "price": 239
   },
   "golem_poppy": {
-    "price": 120000
+    "price": 143000
   },
   "golem_sword": {
     "price": 800000
@@ -1605,13 +1605,13 @@
     "price": 58500000
   },
   "grappling_hook": {
-    "price": 8246
+    "price": 5300
   },
   "gravity_talisman": {
     "price": 2154
   },
   "greater_backpack": {
-    "price": 549000
+    "price": 500000
   },
   "greater_backpack_skinned_enderpack": {
     "price": 10000000
@@ -1647,10 +1647,10 @@
     "price": 20000000
   },
   "griffin_upgrade_stone_rare": {
-    "price": 1775000
+    "price": 1750000
   },
   "griffin_upgrade_stone_uncommon": {
-    "price": 930000
+    "price": 900000
   },
   "grizzly_bait": {
     "price": 350000
@@ -1680,7 +1680,7 @@
     "price": 20000
   },
   "hardened_diamond_chestplate": {
-    "price": 30000
+    "price": 34000
   },
   "hardened_diamond_leggings": {
     "price": 35000
@@ -1701,13 +1701,13 @@
     "price": 2800000
   },
   "healing_ring": {
-    "price": 281687
+    "price": 261505
   },
   "healing_talisman": {
     "price": 7557
   },
   "healing_tissue": {
-    "price": 40000
+    "price": 25000
   },
   "heartfire_dagger": {
     "price": 450000000
@@ -1716,7 +1716,7 @@
     "price": 400000000
   },
   "rune_hearts_1": {
-    "price": 4900
+    "price": 1250
   },
   "rune_hearts_2": {
     "price": 20000
@@ -1725,13 +1725,13 @@
     "price": 180000
   },
   "heat_boots": {
-    "price": 16999
+    "price": 17000
   },
   "heat_chestplate": {
     "price": 18999
   },
   "heat_core": {
-    "price": 1150000
+    "price": 1340000
   },
   "heat_helmet": {
     "price": 15999
@@ -1743,10 +1743,10 @@
     "price": 10000
   },
   "heavy_chestplate": {
-    "price": 20000
+    "price": 10000
   },
   "heavy_helmet": {
-    "price": 6000
+    "price": 6500
   },
   "heavy_leggings": {
     "price": 8000
@@ -1755,7 +1755,7 @@
     "price": 359900000
   },
   "helix": {
-    "price": 39000
+    "price": 30000
   },
   "hellfire_rod": {
     "price": 200000000
@@ -1863,7 +1863,7 @@
     "price": 3881
   },
   "ice_spray_wand": {
-    "price": 24000000
+    "price": 24100000
   },
   "implosion_belt": {
     "price": 714348
@@ -1929,7 +1929,7 @@
     "price": 150000
   },
   "ink_wand": {
-    "price": 5299989
+    "price": 5100000
   },
   "intimidation_artifact": {
     "price": 1400000
@@ -1962,7 +1962,7 @@
     "price": 99000
   },
   "jerry_talisman_blue": {
-    "price": 2999000
+    "price": 2950000
   },
   "jerry_talisman_golden": {
     "price": 77488888
@@ -1974,13 +1974,13 @@
     "price": 15500000
   },
   "judgement_core": {
-    "price": 393500000
+    "price": 393999000
   },
   "juju_shortbow": {
-    "price": 12200000
+    "price": 12500000
   },
   "jumbo_backpack": {
-    "price": 2399000
+    "price": 2599999
   },
   "jumbo_backpack_skinned_blue_egg": {
     "price": 17000000
@@ -1995,34 +1995,34 @@
     "price": 10000000
   },
   "jumbo_backpack_upgrade": {
-    "price": 1700000
+    "price": 1690000
   },
   "jungle_amulet": {
     "price": 1500000
   },
   "jungle_axe": {
-    "price": 3688
+    "price": 3780
   },
   "jungle_biome_stick": {
     "price": 32
   },
   "jungle_heart": {
-    "price": 49000
+    "price": 45000
   },
   "jungle_key": {
-    "price": 70000
+    "price": 74999
   },
   "jungle_pickaxe": {
-    "price": 350000
+    "price": 359000
   },
   "kat_flower": {
-    "price": 180000
+    "price": 199000
   },
   "kelvin_inverter": {
     "price": 102092
   },
   "kismet_feather": {
-    "price": 500000
+    "price": 560000
   },
   "krampus_helmet": {
     "price": 3400000
@@ -2037,19 +2037,19 @@
     "price": 2500
   },
   "lapis_armor_boots": {
-    "price": 2682
+    "price": 2453
   },
   "lapis_armor_chestplate": {
-    "price": 4232
+    "price": 4706
   },
   "lapis_armor_helmet": {
-    "price": 8342
+    "price": 6189
   },
   "lapis_armor_leggings": {
-    "price": 3751
+    "price": 4307
   },
   "large_backpack": {
-    "price": 250000
+    "price": 229000
   },
   "large_backpack_skinned_blue_egg": {
     "price": 10000000
@@ -2061,7 +2061,7 @@
     "price": 250000
   },
   "last_breath": {
-    "price": 5999000
+    "price": 5999888
   },
   "rune_lavatears_1": {
     "price": 450000
@@ -2073,7 +2073,7 @@
     "price": 2899999
   },
   "rune_lava_1": {
-    "price": 150
+    "price": 100
   },
   "rune_lava_2": {
     "price": 6000
@@ -2172,34 +2172,34 @@
     "price": 4000000
   },
   "legend_rod": {
-    "price": 4850000
+    "price": 4900000
   },
   "leggings_of_the_pack": {
     "price": 800000
   },
   "lesser_soulflow_engine": {
-    "price": 1600000
+    "price": 1890000
   },
   "rune_lightning_1": {
     "price": 40000
   },
   "rune_lightning_2": {
-    "price": 99999
+    "price": 100000
   },
   "rune_lightning_3": {
     "price": 800000
   },
   "livid_dagger": {
-    "price": 8600000
+    "price": 8800000
   },
   "livid_fragment": {
-    "price": 85000
+    "price": 69000
   },
   "log:0": {
     "price": 25000000
   },
   "lucky_hoof": {
-    "price": 400000
+    "price": 410000
   },
   "luminous_bracelet": {
     "price": 150000
@@ -2307,7 +2307,7 @@
     "price": 2999999
   },
   "lvl_100_epic_baby_yeti": {
-    "price": 22000000
+    "price": 23000000
   },
   "lvl_100_epic_baby_yeti_skinned_yeti_grown_up": {
     "price": 140000000
@@ -2520,7 +2520,7 @@
     "price": 21000000
   },
   "lvl_100_legendary_armadillo": {
-    "price": 6600000
+    "price": 6700000
   },
   "lvl_100_legendary_armadillo_skinned_armadillo_enchanted": {
     "price": 35000000
@@ -2529,7 +2529,7 @@
     "price": 29999999
   },
   "lvl_100_legendary_baby_yeti": {
-    "price": 45250000
+    "price": 45999900
   },
   "lvl_100_legendary_baby_yeti_skinned_yeti_grown_up": {
     "price": 99000000
@@ -2646,7 +2646,7 @@
     "price": 585000000
   },
   "lvl_100_legendary_ender_dragon_skinned_dragon_pastel": {
-    "price": 578000000
+    "price": 580000000
   },
   "lvl_100_legendary_ender_dragon_skinned_ender_dragon_undead": {
     "price": 569696968
@@ -2667,7 +2667,7 @@
     "price": 18000000
   },
   "lvl_100_legendary_griffin": {
-    "price": 32000000
+    "price": 31999999
   },
   "lvl_100_legendary_guardian": {
     "price": 5699000
@@ -2754,7 +2754,7 @@
     "price": 19000000
   },
   "lvl_100_legendary_rabbit": {
-    "price": 5400000
+    "price": 5300000
   },
   "lvl_100_legendary_rabbit_skinned_rabbit": {
     "price": 210000000
@@ -2805,10 +2805,10 @@
     "price": 420000000
   },
   "lvl_100_legendary_scatha": {
-    "price": 300000000
+    "price": 299999999
   },
   "lvl_100_legendary_sheep": {
-    "price": 10999899
+    "price": 10500000
   },
   "lvl_100_legendary_sheep_skinned_sheep_black": {
     "price": 1444444444
@@ -2850,7 +2850,7 @@
     "price": 18000000
   },
   "lvl_100_legendary_skeleton": {
-    "price": 12350000
+    "price": 12000000
   },
   "lvl_100_legendary_skeleton_horse": {
     "price": 22499000
@@ -2883,10 +2883,10 @@
     "price": 20000000
   },
   "lvl_100_legendary_tiger": {
-    "price": 26000000
+    "price": 25500000
   },
   "lvl_100_legendary_tiger_skinned_tiger_golden": {
-    "price": 32000000
+    "price": 31999999
   },
   "lvl_100_legendary_tiger_skinned_tiger_saber_tooth": {
     "price": 31000000
@@ -2913,7 +2913,7 @@
     "price": 25000000
   },
   "lvl_100_mythic_enderman": {
-    "price": 37250000
+    "price": 37000000
   },
   "lvl_100_mythic_enderman_skinned_enderman": {
     "price": 145000000
@@ -2943,7 +2943,7 @@
     "price": 5999000
   },
   "lvl_100_rare_dolphin": {
-    "price": 2900000
+    "price": 2990000
   },
   "lvl_100_rare_dolphin_skinned_dolphin_snubfin": {
     "price": 4500000
@@ -3048,7 +3048,7 @@
     "price": 550000
   },
   "lvl_100_uncommon_griffin": {
-    "price": 2510000
+    "price": 2500000
   },
   "lvl_100_uncommon_guardian": {
     "price": 350000
@@ -3102,7 +3102,7 @@
     "price": 39000000
   },
   "lvl_1_common_dolphin": {
-    "price": 30000
+    "price": 35000
   },
   "lvl_1_common_dolphin_skinned_dolphin_snubfin": {
     "price": 4000000
@@ -3117,7 +3117,7 @@
     "price": 14000000
   },
   "lvl_1_common_elephant": {
-    "price": 19998
+    "price": 19999
   },
   "lvl_1_common_enderman": {
     "price": 1000
@@ -3216,7 +3216,7 @@
     "price": 200000
   },
   "lvl_1_epic_baby_yeti": {
-    "price": 10800000
+    "price": 10880000
   },
   "lvl_1_epic_bal": {
     "price": 7000000
@@ -3255,7 +3255,7 @@
     "price": 5000000
   },
   "lvl_1_epic_elephant": {
-    "price": 1250000
+    "price": 1251000
   },
   "lvl_1_epic_enderman": {
     "price": 45000
@@ -3318,7 +3318,7 @@
     "price": 3600000
   },
   "lvl_1_epic_jerry": {
-    "price": 120000
+    "price": 100000
   },
   "lvl_1_epic_jerry_skinned_jerry_handsome": {
     "price": 8299999
@@ -3369,7 +3369,7 @@
     "price": 500000
   },
   "lvl_1_epic_rabbit": {
-    "price": 130000
+    "price": 125000
   },
   "lvl_1_epic_rock": {
     "price": 2500000
@@ -3414,7 +3414,7 @@
     "price": 350000
   },
   "lvl_1_epic_wolf": {
-    "price": 299000
+    "price": 299999
   },
   "lvl_1_epic_zombie": {
     "price": 198999
@@ -3549,7 +3549,7 @@
     "price": 42000000
   },
   "lvl_1_legendary_jerry": {
-    "price": 1100000
+    "price": 1150000
   },
   "lvl_1_legendary_jerry_skinned_jerry_handsome": {
     "price": 3000000
@@ -3645,7 +3645,7 @@
     "price": 950000
   },
   "lvl_1_legendary_skeleton_horse": {
-    "price": 890000
+    "price": 895000
   },
   "lvl_1_legendary_skeleton_horse_skinned_horse_zombie": {
     "price": 25000000
@@ -3717,7 +3717,7 @@
     "price": 75000
   },
   "lvl_1_rare_bee": {
-    "price": 100000
+    "price": 110000
   },
   "lvl_1_rare_blue_whale": {
     "price": 300000
@@ -3807,7 +3807,7 @@
     "price": 500000
   },
   "lvl_1_rare_silverfish": {
-    "price": 30000
+    "price": 29000
   },
   "lvl_1_rare_skeleton": {
     "price": 60000
@@ -3852,7 +3852,7 @@
     "price": 7000
   },
   "lvl_1_uncommon_blue_whale": {
-    "price": 99000
+    "price": 99999
   },
   "lvl_1_uncommon_chicken": {
     "price": 25000
@@ -3894,7 +3894,7 @@
     "price": 40000
   },
   "lvl_1_uncommon_griffin": {
-    "price": 989000
+    "price": 989999
   },
   "lvl_1_uncommon_guardian": {
     "price": 199000
@@ -3981,7 +3981,7 @@
     "price": 44000
   },
   "magical_water_bucket": {
-    "price": 248
+    "price": 217
   },
   "rune_magic_1": {
     "price": 10000
@@ -4008,7 +4008,7 @@
     "price": 367
   },
   "magma_lord_boots": {
-    "price": 5750000
+    "price": 5880000
   },
   "magma_lord_chestplate": {
     "price": 15999999
@@ -4026,7 +4026,7 @@
     "price": 16000000
   },
   "magma_necklace": {
-    "price": 156000
+    "price": 155000
   },
   "magma_rod": {
     "price": 120000
@@ -4038,7 +4038,7 @@
     "price": 850000
   },
   "mana_flux_power_orb": {
-    "price": 3150000
+    "price": 3125000
   },
   "map:-128": {
     "price": 9500000
@@ -4263,13 +4263,13 @@
     "price": 1100000
   },
   "mastiff_helmet": {
-    "price": 880000
+    "price": 850000
   },
   "mastiff_helmet_skinned_mastiff_puppy": {
     "price": 40000000
   },
   "mastiff_leggings": {
-    "price": 960000
+    "price": 950000
   },
   "mastiff_puppy": {
     "price": 75000000
@@ -4296,7 +4296,7 @@
     "price": 300000
   },
   "mender_helmet": {
-    "price": 45000
+    "price": 44000
   },
   "mercenary_axe": {
     "price": 25000
@@ -4308,22 +4308,22 @@
     "price": 150000
   },
   "midas_staff": {
-    "price": 64000000
+    "price": 65000000
   },
   "midas_sword": {
     "price": 11000000
   },
   "mineral_boots": {
-    "price": 140000
+    "price": 149000
   },
   "mineral_chestplate": {
-    "price": 250000
+    "price": 270000
   },
   "mineral_helmet": {
-    "price": 160000
+    "price": 199000
   },
   "mineral_leggings": {
-    "price": 235000
+    "price": 260000
   },
   "mineral_talisman": {
     "price": 294000
@@ -4350,16 +4350,16 @@
     "price": 333000
   },
   "mining_2_portal": {
-    "price": 45000
+    "price": 44999
   },
   "mining_2_travel_scroll": {
-    "price": 274000
+    "price": 270000
   },
   "minion_expander": {
     "price": 59000
   },
   "minion_storage_expander": {
-    "price": 599000
+    "price": 580000
   },
   "minos_relic": {
     "price": 26900000
@@ -4368,7 +4368,7 @@
     "price": 24268
   },
   "mithril_drill_1": {
-    "price": 3900000
+    "price": 5300000
   },
   "mithril_drill_2": {
     "price": 13000000
@@ -4395,10 +4395,10 @@
     "price": 1500000
   },
   "molten_bracelet": {
-    "price": 1599000
+    "price": 1600000
   },
   "molten_cloak": {
-    "price": 3800000
+    "price": 3900000
   },
   "molten_necklace": {
     "price": 4700000
@@ -4416,7 +4416,7 @@
     "price": 25000000
   },
   "museum_travel_scroll": {
-    "price": 294000
+    "price": 284000
   },
   "mushroom_biome_stick": {
     "price": 2000
@@ -4458,13 +4458,13 @@
     "price": 9999999
   },
   "necromancer_lord_helmet": {
-    "price": 130000
+    "price": 139000
   },
   "necromancer_lord_leggings": {
-    "price": 3399999
+    "price": 3550000
   },
   "necromancer_sword": {
-    "price": 9400000
+    "price": 8000000
   },
   "necron_blade": {
     "price": 1080000000
@@ -4485,7 +4485,7 @@
     "price": 2300000
   },
   "new_year_cake": {
-    "price": 200000
+    "price": 195000
   },
   "new_year_cake_1": {
     "price": 27990000
@@ -4887,34 +4887,34 @@
     "price": 250000
   },
   "new_year_cake_219": {
-    "price": 275000
+    "price": 250000
   },
   "new_year_cake_220": {
     "price": 235000
   },
   "new_year_cake_221": {
-    "price": 285000
+    "price": 250000
   },
   "new_year_cake_222": {
     "price": 249000
   },
   "new_year_cake_223": {
-    "price": 230000
+    "price": 200000
   },
   "new_year_cake_224": {
-    "price": 249000
+    "price": 248000
   },
   "new_year_cake_225": {
     "price": 209000
   },
   "new_year_cake_226": {
-    "price": 220000
+    "price": 210000
   },
   "new_year_cake_227": {
     "price": 200000
   },
   "new_year_cake_228": {
-    "price": 230000
+    "price": 200000
   },
   "new_year_cake_229": {
     "price": 249000
@@ -4929,13 +4929,13 @@
     "price": 250000
   },
   "new_year_cake_232": {
-    "price": 250000
+    "price": 249000
   },
   "new_year_cake_233": {
     "price": 249000
   },
   "new_year_cake_234": {
-    "price": 199998
+    "price": 195000
   },
   "new_year_cake_24": {
     "price": 500000
@@ -5190,7 +5190,7 @@
     "price": 3883
   },
   "night_vision_charm": {
-    "price": 5566
+    "price": 7276
   },
   "null_blade": {
     "price": 33000000
@@ -5247,7 +5247,7 @@
     "price": 480000
   },
   "ornate_zombie_sword": {
-    "price": 1000000
+    "price": 1050000
   },
   "overflux_capacitor": {
     "price": 58900000
@@ -5259,7 +5259,7 @@
     "price": 500000000
   },
   "park_cave_travel_scroll": {
-    "price": 8000
+    "price": 20000
   },
   "park_jungle_travel_scroll": {
     "price": 100000
@@ -5436,13 +5436,13 @@
     "price": 9153450
   },
   "personal_bank_item": {
-    "price": 30000
+    "price": 28999
   },
   "personal_compactor_4000": {
-    "price": 499000
+    "price": 449000
   },
   "personal_compactor_5000": {
-    "price": 1000000
+    "price": 1045000
   },
   "personal_compactor_6000": {
     "price": 2180000
@@ -5457,7 +5457,7 @@
     "price": 310000
   },
   "pet_item_combat_skill_boost_uncommon": {
-    "price": 50000
+    "price": 49000
   },
   "pet_item_exp_share": {
     "price": 1250000
@@ -5469,7 +5469,7 @@
     "price": 450000
   },
   "pet_item_fishing_skill_boost_epic": {
-    "price": 4500000
+    "price": 4400000
   },
   "pet_item_fishing_skill_boost_rare": {
     "price": 900000
@@ -5484,7 +5484,7 @@
     "price": 999000
   },
   "pet_item_lucky_clover": {
-    "price": 3300000
+    "price": 3299900
   },
   "pet_item_lucky_clover_drop": {
     "price": 2500000
@@ -5502,7 +5502,7 @@
     "price": 640000
   },
   "pet_item_tier_boost": {
-    "price": 94000000
+    "price": 93999999
   },
   "pet_item_tier_boost_drop": {
     "price": 85000000
@@ -5628,7 +5628,7 @@
     "price": 250000000
   },
   "pet_skin_kuudra_loyalty": {
-    "price": 10100000
+    "price": 11670000
   },
   "pet_skin_megalodon_baby": {
     "price": 6000000
@@ -5751,10 +5751,10 @@
     "price": 2099000
   },
   "pickonimbus": {
-    "price": 299999
+    "price": 290000
   },
   "piggy_bank": {
-    "price": 55713
+    "price": 54991
   },
   "pigman_sword": {
     "price": 9061519
@@ -5787,7 +5787,7 @@
     "price": 19000
   },
   "potato_talisman": {
-    "price": 11000000
+    "price": 10999999
   },
   "potion_affinity_talisman": {
     "price": 262
@@ -5799,13 +5799,13 @@
     "price": 10200000
   },
   "power_wither_chestplate": {
-    "price": 23999999
+    "price": 24300000
   },
   "power_wither_helmet": {
-    "price": 12100000
+    "price": 12000000
   },
   "power_wither_leggings": {
-    "price": 14980000
+    "price": 15000000
   },
   "precursor_eye": {
     "price": 29990000
@@ -5859,7 +5859,7 @@
     "price": 220000
   },
   "pulse_ring": {
-    "price": 8010749
+    "price": 8205990
   },
   "pumpkin_boots": {
     "price": 14
@@ -5916,7 +5916,7 @@
     "price": 700000
   },
   "ranchers_boots": {
-    "price": 2690000
+    "price": 2689999
   },
   "rat_jetpack": {
     "price": 53400000
@@ -5976,7 +5976,7 @@
     "price": 999999
   },
   "red_claw_talisman": {
-    "price": 49995
+    "price": 40000
   },
   "red_rose:10": {
     "price": 2000000
@@ -6003,7 +6003,7 @@
     "price": 1300000
   },
   "reforge_anvil": {
-    "price": 1349000
+    "price": 1390000
   },
   "reheated_gummy_polar_bear": {
     "price": 430000
@@ -6027,10 +6027,10 @@
     "price": 1900000
   },
   "revenant_leggings": {
-    "price": 200000
+    "price": 175000
   },
   "revenant_sword": {
-    "price": 900000
+    "price": 870000
   },
   "revived_heart": {
     "price": 4099999
@@ -6039,7 +6039,7 @@
     "price": 8272
   },
   "robotron_reflector": {
-    "price": 200000
+    "price": 250000
   },
   "rock_the_fish": {
     "price": 60000000
@@ -6066,16 +6066,16 @@
     "price": 609
   },
   "rotten_boots": {
-    "price": 7000
+    "price": 6000
   },
   "rotten_chestplate": {
-    "price": 9999
+    "price": 6000
   },
   "rotten_helmet": {
     "price": 10000
   },
   "rotten_leggings": {
-    "price": 10000
+    "price": 6000
   },
   "ruby_polished_drill_engine": {
     "price": 24000000
@@ -6084,10 +6084,10 @@
     "price": 650000
   },
   "runaans_bow": {
-    "price": 600000
+    "price": 599999
   },
   "rune": {
-    "price": 1500
+    "price": 8000
   },
   "runic_staff": {
     "price": 1200000
@@ -6102,7 +6102,7 @@
     "price": 10000000
   },
   "salmon_chestplate_new": {
-    "price": 49999
+    "price": 40000
   },
   "salmon_hat": {
     "price": 39721202
@@ -6111,13 +6111,13 @@
     "price": 15000000
   },
   "salmon_helmet_new": {
-    "price": 39999
+    "price": 37000
   },
   "salmon_leggings": {
     "price": 10000000
   },
   "salmon_leggings_new": {
-    "price": 49999
+    "price": 39999
   },
   "sand:7": {
     "price": 250000
@@ -6174,7 +6174,7 @@
     "price": 5000000
   },
   "scourge_cloak": {
-    "price": 10000000
+    "price": 10500000
   },
   "scoville_belt": {
     "price": 6800000
@@ -6231,10 +6231,10 @@
     "price": 9000000
   },
   "shadow_assassin_leggings": {
-    "price": 3950000
+    "price": 3900000
   },
   "shadow_assassin_mauve": {
-    "price": 18999999
+    "price": 19000000
   },
   "shadow_fury": {
     "price": 46500000
@@ -6264,7 +6264,7 @@
     "price": 1800000
   },
   "sharp_shark_tooth_necklace": {
-    "price": 680000
+    "price": 725000
   },
   "shens_regalia": {
     "price": 360000000
@@ -6312,13 +6312,13 @@
     "price": 9000000
   },
   "skeleton_grunt_boots": {
-    "price": 9999
+    "price": 9000
   },
   "skeleton_grunt_chestplate": {
     "price": 5100
   },
   "skeleton_grunt_helmet": {
-    "price": 10000
+    "price": 11111
   },
   "skeleton_grunt_leggings": {
     "price": 4000000
@@ -6342,34 +6342,34 @@
     "price": 780000
   },
   "skeleton_master_boots": {
-    "price": 35000
+    "price": 33000
   },
   "skeleton_master_chestplate": {
     "price": 15000
   },
   "skeleton_master_helmet": {
-    "price": 15000
+    "price": 10000
   },
   "skeleton_master_leggings": {
-    "price": 29000
+    "price": 20000
   },
   "skeleton_soldier_boots": {
-    "price": 15000
+    "price": 14000
   },
   "skeleton_soldier_chestplate": {
-    "price": 15000
+    "price": 13000
   },
   "skeleton_soldier_helmet": {
-    "price": 15000
+    "price": 8000
   },
   "skeleton_soldier_leggings": {
-    "price": 14000
+    "price": 12000
   },
   "skeleton_talisman": {
     "price": 460
   },
   "skeletor_boots": {
-    "price": 28000
+    "price": 30000
   },
   "skeletor_chestplate": {
     "price": 4958
@@ -6390,10 +6390,10 @@
     "price": 3581374
   },
   "slime_hat": {
-    "price": 25
+    "price": 26
   },
   "slug_boots": {
-    "price": 145000
+    "price": 144000
   },
   "small_enchanted_chest": {
     "price": 80
@@ -6426,10 +6426,10 @@
     "price": 400000
   },
   "sniper_bow": {
-    "price": 150000
+    "price": 120000
   },
   "sniper_helmet": {
-    "price": 8500
+    "price": 8000
   },
   "snow:1": {
     "price": 9999999
@@ -6444,7 +6444,7 @@
     "price": 649000
   },
   "rune_snow_1": {
-    "price": 500
+    "price": 1000
   },
   "rune_snow_2": {
     "price": 1000
@@ -6453,19 +6453,19 @@
     "price": 30000
   },
   "snow_cannon": {
-    "price": 4500
+    "price": 5000
   },
   "snow_snowglobe": {
     "price": 51111111
   },
   "snow_suit_boots": {
-    "price": 42000
+    "price": 40000
   },
   "snow_suit_chestplate": {
-    "price": 50000
+    "price": 41000
   },
   "snow_suit_helmet": {
-    "price": 55000
+    "price": 50000
   },
   "snow_suit_helmet_skinned_snow_snowglobe": {
     "price": 40000000
@@ -6480,19 +6480,19 @@
     "price": 120767
   },
   "sorrow": {
-    "price": 343750
+    "price": 330000
   },
   "sorrow_boots": {
-    "price": 4200000
+    "price": 4099999
   },
   "sorrow_chestplate": {
     "price": 8600000
   },
   "sorrow_helmet": {
-    "price": 5949999
+    "price": 6100000
   },
   "sorrow_leggings": {
-    "price": 7950000
+    "price": 7900000
   },
   "sos_flare": {
     "price": 2000000000
@@ -6546,10 +6546,10 @@
     "price": 21940
   },
   "speed_talisman": {
-    "price": 138
+    "price": 147
   },
   "speed_wither_boots": {
-    "price": 2700000
+    "price": 3000000
   },
   "speed_wither_chestplate": {
     "price": 16999999
@@ -6576,22 +6576,22 @@
     "price": 38
   },
   "spider_queens_stinger": {
-    "price": 398000
+    "price": 399000
   },
   "spider_ring": {
-    "price": 169999
+    "price": 150000
   },
   "spider_sword": {
     "price": 25
   },
   "spider_talisman": {
-    "price": 69859
+    "price": 73278
   },
   "spiked_atrocity": {
     "price": 28900000
   },
   "rune_spirit_1": {
-    "price": 30000
+    "price": 35000
   },
   "rune_spirit_2": {
     "price": 60000
@@ -6609,7 +6609,7 @@
     "price": 3200000
   },
   "spirit_wing": {
-    "price": 5850000
+    "price": 5700000
   },
   "sponge:2": {
     "price": 630000
@@ -6627,13 +6627,13 @@
     "price": 280000
   },
   "sponge_chestplate": {
-    "price": 887000
+    "price": 850000
   },
   "sponge_helmet": {
     "price": 498000
   },
   "sponge_leggings": {
-    "price": 898000
+    "price": 897000
   },
   "sponge_rod": {
     "price": 420
@@ -6660,7 +6660,7 @@
     "price": 7875000
   },
   "squid_boots": {
-    "price": 32932
+    "price": 33131
   },
   "squid_hat": {
     "price": 642
@@ -6687,7 +6687,7 @@
     "price": 50028
   },
   "starlight_helmet": {
-    "price": 99999
+    "price": 100000
   },
   "starlight_leggings": {
     "price": 120000
@@ -6717,13 +6717,13 @@
     "price": 6000000
   },
   "starred_shadow_assassin_boots": {
-    "price": 2800000
+    "price": 1200000
   },
   "starred_shadow_assassin_chestplate": {
     "price": 17600000
   },
   "starred_shadow_assassin_helmet": {
-    "price": 3000000
+    "price": 2150000
   },
   "starred_shadow_assassin_helmet_skinned_shadow_assassin_admiral": {
     "price": 8400000
@@ -6735,7 +6735,7 @@
     "price": 20000000
   },
   "starred_shadow_assassin_leggings": {
-    "price": 6799999
+    "price": 4400000
   },
   "starred_shadow_fury": {
     "price": 54000000
@@ -6789,13 +6789,13 @@
     "price": 255000000
   },
   "strong_dragon_boots": {
-    "price": 1100000
+    "price": 1200000
   },
   "strong_dragon_chestplate": {
-    "price": 700000
+    "price": 730000
   },
   "strong_dragon_helmet": {
-    "price": 950000
+    "price": 980000
   },
   "strong_dragon_helmet_skinned_strong_baby": {
     "price": 195420000
@@ -6804,7 +6804,7 @@
     "price": 27000000
   },
   "strong_dragon_leggings": {
-    "price": 2049799
+    "price": 2199000
   },
   "strong_shimmer": {
     "price": 25000000
@@ -6819,22 +6819,22 @@
     "price": 3000000
   },
   "summoning_ring": {
-    "price": 12998500
+    "price": 12000000
   },
   "superb_carrot_candy": {
-    "price": 1330000
+    "price": 1348000
   },
   "superior_baby": {
     "price": 255000000
   },
   "superior_dragon_boots": {
-    "price": 4099999
+    "price": 4008999
   },
   "superior_dragon_chestplate": {
     "price": 8000000
   },
   "superior_dragon_helmet": {
-    "price": 4900000
+    "price": 4700000
   },
   "superior_dragon_helmet_skinned_superior_baby": {
     "price": 210000000
@@ -6849,10 +6849,10 @@
     "price": 80000000
   },
   "superlite_motor": {
-    "price": 35000
+    "price": 49999
   },
   "super_cleaver": {
-    "price": 90000
+    "price": 99000
   },
   "super_heavy_boots": {
     "price": 50000
@@ -6864,10 +6864,10 @@
     "price": 115000
   },
   "super_heavy_leggings": {
-    "price": 44000
+    "price": 40000
   },
   "super_magic_mushroom_soup": {
-    "price": 8000
+    "price": 12000
   },
   "super_undead_bow": {
     "price": 170000
@@ -6876,7 +6876,7 @@
     "price": 60000
   },
   "sword_of_bad_health": {
-    "price": 95479
+    "price": 89550
   },
   "sword_of_revelations": {
     "price": 10000000
@@ -6891,7 +6891,7 @@
     "price": 39990000
   },
   "synthetic_heart": {
-    "price": 189999
+    "price": 175000
   },
   "tactical_insertion": {
     "price": 170000000
@@ -6903,7 +6903,7 @@
     "price": 2000000
   },
   "talisman_enrichment_critical_chance": {
-    "price": 1990000
+    "price": 1999900
   },
   "talisman_enrichment_critical_damage": {
     "price": 2000000
@@ -6966,7 +6966,7 @@
     "price": 1400000
   },
   "tarantula_helmet": {
-    "price": 870000
+    "price": 899999
   },
   "tarantula_helmet_skinned_tarantula_black_widow": {
     "price": 29999999
@@ -6975,7 +6975,7 @@
     "price": 1000000
   },
   "tarantula_talisman": {
-    "price": 1650000
+    "price": 1690000
   },
   "taurus_helmet": {
     "price": 550000
@@ -7053,13 +7053,13 @@
     "price": 53990000
   },
   "the_shredder": {
-    "price": 799999
+    "price": 750000
   },
   "thornleaf_scythe": {
     "price": 50
   },
   "thorns_boots": {
-    "price": 3990000
+    "price": 3999999
   },
   "thunderbolt_necklace": {
     "price": 115636
@@ -7104,7 +7104,7 @@
     "price": 155000000
   },
   "titanium_drill_4": {
-    "price": 298000000
+    "price": 299000000
   },
   "titanium_drill_engine": {
     "price": 56969420
@@ -7128,13 +7128,13 @@
     "price": 29999988
   },
   "treasure_ring": {
-    "price": 2990000
+    "price": 2999999
   },
   "treasure_talisman": {
-    "price": 260000
+    "price": 320000
   },
   "treecapitator_axe": {
-    "price": 1544444
+    "price": 1550000
   },
   "tribal_spear": {
     "price": 500000
@@ -7221,7 +7221,7 @@
     "price": 1490000
   },
   "vanquished_magma_necklace": {
-    "price": 1800000
+    "price": 1700000
   },
   "venoms_touch": {
     "price": 400000
@@ -7230,13 +7230,13 @@
     "price": 678
   },
   "voidedge_katana": {
-    "price": 650000
+    "price": 700000
   },
   "voidwalker_katana": {
     "price": 69000
   },
   "void_sepulture_travel_scroll": {
-    "price": 1799000
+    "price": 1790000
   },
   "volleyball": {
     "price": 30000
@@ -7245,7 +7245,7 @@
     "price": 1250000
   },
   "vorpal_katana": {
-    "price": 5400000
+    "price": 5200000
   },
   "rune_wake_1": {
     "price": 40000
@@ -7263,10 +7263,10 @@
     "price": 89000
   },
   "wand_of_restoration": {
-    "price": 1249000
+    "price": 1250000
   },
   "wand_of_strength": {
-    "price": 780000
+    "price": 775000
   },
   "warden_heart": {
     "price": 80000000
@@ -7284,10 +7284,10 @@
     "price": 300000
   },
   "water_hydra_head": {
-    "price": 269000
+    "price": 275000
   },
   "weak_wolf_catalyst": {
-    "price": 44999
+    "price": 40000
   },
   "weather_node": {
     "price": 40000
@@ -7308,7 +7308,7 @@
     "price": 900000
   },
   "werewolf_leggings": {
-    "price": 999000
+    "price": 950000
   },
   "whipped_magma_cream": {
     "price": 149825
@@ -7338,10 +7338,10 @@
     "price": 1300000
   },
   "wise_dragon_chestplate": {
-    "price": 1200000
+    "price": 1000000
   },
   "wise_dragon_helmet": {
-    "price": 1000000
+    "price": 1099999
   },
   "wise_dragon_helmet_skinned_wise_baby": {
     "price": 230000000
@@ -7359,7 +7359,7 @@
     "price": 5999999
   },
   "wise_wither_chestplate": {
-    "price": 18900000
+    "price": 18800000
   },
   "wise_wither_helmet": {
     "price": 7600000
@@ -7368,7 +7368,7 @@
     "price": 10500000
   },
   "wishing_compass": {
-    "price": 3
+    "price": 4
   },
   "witch_mask": {
     "price": 750000
@@ -7377,7 +7377,7 @@
     "price": 62500000
   },
   "wither_boots": {
-    "price": 1400000
+    "price": 1500000
   },
   "wither_bow": {
     "price": 9
@@ -7389,7 +7389,7 @@
     "price": 14000000
   },
   "wither_cloak": {
-    "price": 4600000
+    "price": 4500000
   },
   "wither_goggles": {
     "price": 5400000
@@ -7398,7 +7398,7 @@
     "price": 3000000
   },
   "wither_leggings": {
-    "price": 5850000
+    "price": 5890000
   },
   "wither_relic": {
     "price": 67600000
@@ -7410,10 +7410,10 @@
     "price": 199000
   },
   "wolf_ring": {
-    "price": 1600000
+    "price": 1583470
   },
   "wolf_talisman": {
-    "price": 1300326
+    "price": 1315326
   },
   "wood:9": {
     "price": 200000
@@ -7428,7 +7428,7 @@
     "price": 220000
   },
   "wood_talisman": {
-    "price": 739
+    "price": 715
   },
   "worm_the_fish": {
     "price": 6000000
@@ -7476,13 +7476,13 @@
     "price": 35000000
   },
   "young_dragon_leggings": {
-    "price": 145913
+    "price": 147218
   },
   "young_shimmer": {
     "price": 45000000
   },
   "rune_zap_1": {
-    "price": 750
+    "price": 545
   },
   "rune_zap_2": {
     "price": 4500
@@ -7494,7 +7494,7 @@
     "price": 555000
   },
   "zombie_artifact": {
-    "price": 3000000
+    "price": 3500000
   },
   "zombie_boots": {
     "price": 120000
@@ -7509,7 +7509,7 @@
     "price": 200000
   },
   "zombie_commander_chestplate": {
-    "price": 145000
+    "price": 140000
   },
   "zombie_commander_helmet": {
     "price": 300000
@@ -7530,7 +7530,7 @@
     "price": 70000
   },
   "zombie_knight_leggings": {
-    "price": 50000
+    "price": 70000
   },
   "zombie_leggings": {
     "price": 60375
@@ -7545,7 +7545,7 @@
     "price": 495000
   },
   "zombie_lord_leggings": {
-    "price": 333333
+    "price": 350000
   },
   "zombie_pickaxe": {
     "price": 8
@@ -7563,10 +7563,10 @@
     "price": 100000
   },
   "zombie_soldier_boots": {
-    "price": 24750
+    "price": 24998
   },
   "zombie_soldier_chestplate": {
-    "price": 20000
+    "price": 19999
   },
   "zombie_soldier_helmet": {
     "price": 12000
@@ -7836,19 +7836,19 @@
     "price": 6158
   },
   "enchanted_potato": {
-    "price": 378
+    "price": 377
   },
   "jerry_box_green": {
-    "price": 55124
+    "price": 54792
   },
   "enchanted_slime_ball": {
-    "price": 1600
+    "price": 1581
   },
   "enchanted_red_mushroom": {
-    "price": 1354
+    "price": 1319
   },
   "enchanted_golden_carrot": {
-    "price": 49294
+    "price": 49440
   },
   "flawed_amethyst_gem": {
     "price": 385
@@ -7860,10 +7860,10 @@
     "price": 432
   },
   "enchanted_birch_log": {
-    "price": 468
+    "price": 467
   },
   "enchanted_gunpowder": {
-    "price": 2918
+    "price": 2917
   },
   "enchanted_melon": {
     "price": 176
@@ -7878,13 +7878,13 @@
     "price": 778
   },
   "enchanted_brown_mushroom": {
-    "price": 979
+    "price": 942
   },
   "enchanted_raw_salmon": {
     "price": 1595
   },
   "goblin_egg_yellow": {
-    "price": 93719
+    "price": 91323
   },
   "flawed_amber_gem": {
     "price": 379
@@ -7896,7 +7896,7 @@
     "price": 12399
   },
   "enchanted_emerald": {
-    "price": 1085
+    "price": 1087
   },
   "protector_fragment": {
     "price": 8992
@@ -7905,25 +7905,25 @@
     "price": 902
   },
   "enchanted_melon_block": {
-    "price": 25584
+    "price": 25583
   },
   "power_crystal": {
-    "price": 502362
+    "price": 496625
   },
   "grand_exp_bottle": {
-    "price": 5419
+    "price": 5425
   },
   "raw_soulflow": {
-    "price": 181
+    "price": 180
   },
   "shark_fin": {
-    "price": 3639
+    "price": 3607
   },
   "wise_fragment": {
-    "price": 34674
+    "price": 34825
   },
   "refined_mithril": {
-    "price": 301762
+    "price": 318714
   },
   "enchanted_pufferfish": {
     "price": 2424
@@ -7932,7 +7932,7 @@
     "price": 9026321
   },
   "perfect_jasper_gem": {
-    "price": 12099996
+    "price": 12099999
   },
   "yoggie": {
     "price": 229
@@ -7941,16 +7941,16 @@
     "price": 197
   },
   "enchanted_hard_stone": {
-    "price": 2483
+    "price": 2292
   },
   "enchanted_huge_mushroom_1": {
     "price": 24862
   },
   "refined_diamond": {
-    "price": 497999
+    "price": 499996
   },
   "enchanted_cobblestone": {
-    "price": 329
+    "price": 330
   },
   "tightly_tied_hay_bale": {
     "price": 639999
@@ -7968,52 +7968,52 @@
     "price": 59
   },
   "enchanted_snow_block": {
-    "price": 594
+    "price": 599
   },
   "golden_tooth": {
-    "price": 88443
+    "price": 88078
   },
   "huge_mushroom_2": {
     "price": 25
   },
   "cheese_fuel": {
-    "price": 7740
+    "price": 8283
   },
   "hyper_catalyst": {
     "price": 128243
   },
   "jerry_box_golden": {
-    "price": 910000
+    "price": 907549
   },
   "pumpkin_guts": {
-    "price": 74177
+    "price": 73711
   },
   "enchanted_carrot_on_a_stick": {
     "price": 0
   },
   "booster_cookie": {
-    "price": 3309999
+    "price": 3315914
   },
   "enchanted_cactus_green": {
-    "price": 1200
+    "price": 1238
   },
   "enchanted_lapis_lazuli_block": {
-    "price": 57096
+    "price": 57095
   },
   "enchanted_cookie": {
     "price": 63534
   },
   "enchanted_endstone": {
-    "price": 1204
+    "price": 1203
   },
   "enchanted_sand": {
     "price": 936
   },
   "colossal_exp_bottle": {
-    "price": 899998
+    "price": 878181
   },
   "enchanted_string": {
-    "price": 1539
+    "price": 1538
   },
   "strong_fragment": {
     "price": 26984
@@ -8022,10 +8022,10 @@
     "price": 2555
   },
   "enchanted_acacia_log": {
-    "price": 1799
+    "price": 1798
   },
   "soul_fragment": {
-    "price": 1049999
+    "price": 1249999
   },
   "flawed_ruby_gem": {
     "price": 279
@@ -8037,19 +8037,19 @@
     "price": 20298
   },
   "plasma_bucket": {
-    "price": 5999988
+    "price": 5999989
   },
   "ancient_claw": {
     "price": 194
   },
   "flawless_jasper_gem": {
-    "price": 4710853
+    "price": 4710855
   },
   "enchanted_ghast_tear": {
-    "price": 478
+    "price": 479
   },
   "enchanted_lapis_lazuli": {
-    "price": 867
+    "price": 858
   },
   "enchanted_cocoa": {
     "price": 476
@@ -8061,7 +8061,7 @@
     "price": 49
   },
   "fine_ruby_gem": {
-    "price": 19993
+    "price": 19992
   },
   "enchanted_leather": {
     "price": 6109
@@ -8073,16 +8073,16 @@
     "price": 516967
   },
   "enchanted_sponge": {
-    "price": 2078
+    "price": 2058
   },
   "enchanted_spruce_log": {
-    "price": 946
+    "price": 919
   },
   "enchanted_rotten_flesh": {
-    "price": 1112
+    "price": 1114
   },
   "wolf_tooth": {
-    "price": 477
+    "price": 476
   },
   "enchanted_grilled_pork": {
     "price": 234997
@@ -8091,22 +8091,22 @@
     "price": 478
   },
   "enchanted_redstone_block": {
-    "price": 35452
+    "price": 35451
   },
   "enchanted_quartz_block": {
-    "price": 211477
+    "price": 210893
   },
   "enchanted_ancient_claw": {
     "price": 1663
   },
   "green_candy": {
-    "price": 812
+    "price": 811
   },
   "treasurite": {
     "price": 6919
   },
   "enchanted_redstone": {
-    "price": 254
+    "price": 269
   },
   "enchanted_redstone_lamp": {
     "price": 84990
@@ -8121,16 +8121,16 @@
     "price": 15
   },
   "enchanted_packed_ice": {
-    "price": 129996
+    "price": 129995
   },
   "enchanted_lava_bucket": {
-    "price": 347687
+    "price": 347688
   },
   "enchanted_prismarine_shard": {
-    "price": 398
+    "price": 396
   },
   "recombobulator_3000": {
-    "price": 6039000
+    "price": 6030489
   },
   "enchanted_iron_block": {
     "price": 374298
@@ -8142,19 +8142,19 @@
     "price": 19
   },
   "revenant_flesh": {
-    "price": 3
+    "price": 4
   },
   "enchanted_pork": {
-    "price": 1999
+    "price": 1962
   },
   "enchanted_glowstone": {
     "price": 69078
   },
   "raw_fish:1": {
-    "price": 17
+    "price": 19
   },
   "goblin_egg_red": {
-    "price": 7937
+    "price": 7938
   },
   "rough_jasper_gem": {
     "price": 9
@@ -8163,22 +8163,22 @@
     "price": 1697
   },
   "enchanted_dark_oak_log": {
-    "price": 1056
+    "price": 1049
   },
   "young_fragment": {
-    "price": 2581
+    "price": 2580
   },
   "flawless_topaz_gem": {
-    "price": 2041420
+    "price": 2399994
   },
   "enchanted_clownfish": {
     "price": 3196
   },
   "refined_mineral": {
-    "price": 25899
+    "price": 25900
   },
   "enchanted_gold": {
-    "price": 663
+    "price": 666
   },
   "enchanted_water_lily": {
     "price": 22996
@@ -8190,13 +8190,13 @@
     "price": 3
   },
   "rough_ruby_gem": {
-    "price": 3
+    "price": 2
   },
   "goblin_egg_blue": {
     "price": 872165
   },
   "null_atom": {
-    "price": 39649
+    "price": 39650
   },
   "flawless_ruby_gem": {
     "price": 1599999
@@ -8205,22 +8205,22 @@
     "price": 91
   },
   "blessed_bait": {
-    "price": 796
+    "price": 458
   },
   "catalyst": {
-    "price": 106863
+    "price": 106862
   },
   "enchanted_glowstone_dust": {
-    "price": 995
+    "price": 996
   },
   "enchanted_ink_sack": {
-    "price": 74997
+    "price": 74998
   },
   "enchanted_sugar_cane": {
     "price": 54358
   },
   "flawless_sapphire_gem": {
-    "price": 1579995
+    "price": 1579993
   },
   "enchanted_cactus": {
     "price": 196793
@@ -8229,7 +8229,7 @@
     "price": 254894
   },
   "enchanted_seeds": {
-    "price": 76
+    "price": 77
   },
   "concentrated_stone": {
     "price": 1533667
@@ -8238,19 +8238,19 @@
     "price": 129999
   },
   "jacobs_ticket": {
-    "price": 9177
+    "price": 9178
   },
   "enchanted_ender_pearl": {
-    "price": 147
+    "price": 146
   },
   "absolute_ender_pearl": {
-    "price": 13945
+    "price": 13946
   },
   "unstable_fragment": {
-    "price": 2938
+    "price": 2832
   },
   "purple_candy": {
-    "price": 7948
+    "price": 7937
   },
   "spiked_bait": {
     "price": 81
@@ -8262,52 +8262,52 @@
     "price": 146095
   },
   "enchanted_gold_block": {
-    "price": 104081
+    "price": 104080
   },
   "rough_jade_gem": {
-    "price": 3
+    "price": 2
   },
   "enchanted_jungle_log": {
-    "price": 1634
+    "price": 1618
   },
   "null_ovoid": {
-    "price": 242827
+    "price": 241950
   },
   "enchanted_flint": {
     "price": 4512
   },
   "enchanted_emerald_block": {
-    "price": 164469
+    "price": 164467
   },
   "rough_sapphire_gem": {
     "price": 2
   },
   "enchanted_clay_ball": {
-    "price": 474
+    "price": 477
   },
   "revenant_viscera": {
-    "price": 51524
+    "price": 52264
   },
   "perfect_amethyst_gem": {
-    "price": 12091061
+    "price": 12156733
   },
   "enchanted_mutton": {
-    "price": 3351
+    "price": 3327
   },
   "titanic_exp_bottle": {
-    "price": 345030
+    "price": 344211
   },
   "tarantula_silk": {
-    "price": 175512
+    "price": 175510
   },
   "null_sphere": {
-    "price": 1145
+    "price": 1142
   },
   "enchanted_iron": {
-    "price": 2413
+    "price": 2411
   },
   "super_compactor_3000": {
-    "price": 200630
+    "price": 198027
   },
   "super_egg": {
     "price": 229700
@@ -8316,13 +8316,13 @@
     "price": 758176
   },
   "mithril_ore": {
-    "price": 8
+    "price": 7
   },
   "enchanted_paper": {
-    "price": 556
+    "price": 549
   },
   "enchanted_bone": {
-    "price": 834
+    "price": 833
   },
   "enchanted_hay_block": {
     "price": 4997
@@ -8331,82 +8331,82 @@
     "price": 14274
   },
   "enchanted_diamond_block": {
-    "price": 204448
+    "price": 204301
   },
   "superior_fragment": {
-    "price": 108880
+    "price": 108877
   },
   "goblin_egg_green": {
     "price": 8188
   },
   "magma_bucket": {
-    "price": 2253999
+    "price": 2353707
   },
   "spooky_bait": {
     "price": 28
   },
   "enchanted_rabbit_foot": {
-    "price": 2301
+    "price": 2300
   },
   "hot_potato_book": {
-    "price": 59122
+    "price": 59121
   },
   "enchanted_ice": {
-    "price": 917
+    "price": 897
   },
   "light_bait": {
-    "price": 64
+    "price": 63
   },
   "old_fragment": {
-    "price": 9000
+    "price": 9449
   },
   "arachne_keeper_fragment": {
-    "price": 7027
+    "price": 7026
   },
   "green_gift": {
-    "price": 11014
+    "price": 10490
   },
   "worm_membrane": {
     "price": 39426
   },
   "flawless_amethyst_gem": {
-    "price": 2169990
+    "price": 2169991
   },
   "rough_amber_gem": {
     "price": 4
   },
   "hamster_wheel": {
-    "price": 25923
+    "price": 25631
   },
   "enchanted_obsidian": {
-    "price": 2899
+    "price": 2898
   },
   "fine_amber_gem": {
     "price": 29633
   },
   "enchanted_coal": {
-    "price": 1140
+    "price": 1141
   },
   "enchanted_quartz": {
-    "price": 1413
+    "price": 1414
   },
   "enchanted_coal_block": {
-    "price": 166346
+    "price": 165723
   },
   "werewolf_skin": {
     "price": 39399
   },
   "perfect_topaz_gem": {
-    "price": 12725695
+    "price": 12725694
   },
   "daedalus_stick": {
     "price": 19919083
   },
   "goblin_egg": {
-    "price": 6987
+    "price": 6985
   },
   "enchanted_prismarine_crystals": {
-    "price": 395
+    "price": 394
   },
   "flawed_jade_gem": {
     "price": 263
@@ -8415,34 +8415,34 @@
     "price": 80306
   },
   "enchanted_raw_fish": {
-    "price": 2279
+    "price": 2348
   },
   "foul_flesh": {
-    "price": 38914
+    "price": 38998
   },
   "jerry_box_purple": {
-    "price": 319001
+    "price": 318109
   },
   "enchanted_eye_of_ender": {
-    "price": 6242
+    "price": 6240
   },
   "sludge_juice": {
-    "price": 1189
+    "price": 1191
   },
   "ectoplasm": {
-    "price": 60708
+    "price": 60803
   },
   "shark_bait": {
     "price": 59
   },
   "red_gift": {
-    "price": 42999
+    "price": 42625
   },
   "enchanted_mithril": {
     "price": 1340
   },
   "jerry_box_blue": {
-    "price": 96051
+    "price": 95445
   },
   "enchanted_slime_block": {
     "price": 239996
@@ -8454,40 +8454,40 @@
     "price": 474
   },
   "enchanted_oak_log": {
-    "price": 847
+    "price": 838
   },
   "white_gift": {
     "price": 5299
   },
   "sulphur": {
-    "price": 21
+    "price": 24
   },
   "fine_sapphire_gem": {
     "price": 19537
   },
   "enchanted_pumpkin": {
-    "price": 1105
+    "price": 1087
   },
   "dark_bait": {
-    "price": 900
+    "price": 899
   },
   "enchanted_carrot": {
-    "price": 345
+    "price": 349
   },
   "soulflow": {
-    "price": 16498
+    "price": 16630
   },
   "enchanted_cooked_fish": {
-    "price": 367489
+    "price": 367490
   },
   "griffin_feather": {
-    "price": 44269
+    "price": 43945
   },
   "minnow_bait": {
-    "price": 1499
+    "price": 899
   },
   "enchanted_magma_cream": {
-    "price": 1479
+    "price": 1478
   },
   "starfall": {
     "price": 1477
@@ -8499,19 +8499,19 @@
     "price": 3
   },
   "flawless_jade_gem": {
-    "price": 1529998
+    "price": 1531666
   },
   "flawed_topaz_gem": {
-    "price": 473
+    "price": 445
   },
   "enchanted_cooked_mutton": {
-    "price": 171270
+    "price": 171269
   },
   "fine_amethyst_gem": {
     "price": 25985
   },
   "refined_titanium": {
-    "price": 375997
+    "price": 379996
   },
   "enchanted_rabbit": {
     "price": 640
@@ -8523,10 +8523,10 @@
     "price": 4112
   },
   "enchanted_bread": {
-    "price": 62
+    "price": 63
   },
   "fuming_potato_book": {
-    "price": 1139997
+    "price": 1119707
   },
   "fine_jasper_gem": {
     "price": 56226
@@ -8538,13 +8538,13 @@
     "price": 259
   },
   "enchanted_blaze_powder": {
-    "price": 3699
+    "price": 3644
   },
   "summoning_eye": {
-    "price": 828988
+    "price": 799999
   },
   "fish_bait": {
-    "price": 129
+    "price": 119
   },
   "perfect_sapphire_gem": {
     "price": 9799998
@@ -8553,25 +8553,25 @@
     "price": 0
   },
   "enchanted_diamond": {
-    "price": 1421
+    "price": 1411
   },
   "compactor": {
-    "price": 856
+    "price": 809
   },
   "enchanted_baked_potato": {
-    "price": 54224
+    "price": 54223
   },
   "horns_of_torment": {
     "price": 1729602
   },
   "dark_orb": {
-    "price": 629996
+    "price": 629997
   },
   "enchanted_mycelium_cube": {
     "price": 702200
   },
   "rock_gemstone": {
-    "price": 999998
+    "price": 977423
   },
   "end_stone_shulker": {
     "price": 139899
@@ -8580,7 +8580,7 @@
     "price": 1550
   },
   "hazmat_enderman": {
-    "price": 80497
+    "price": 80496
   },
   "luxurious_spool": {
     "price": 86150
@@ -8589,13 +8589,13 @@
     "price": 2846000
   },
   "blaze_rod_distillate": {
-    "price": 9399
+    "price": 9287
   },
   "acacia_birdhouse": {
-    "price": 677025
+    "price": 662748
   },
   "derelict_ashe": {
-    "price": 1117
+    "price": 1116
   },
   "moil_log": {
     "price": 0
@@ -8613,13 +8613,13 @@
     "price": 7055
   },
   "precursor_gear": {
-    "price": 786839
+    "price": 802229
   },
   "deep_sea_orb": {
     "price": 11714997
   },
   "necromancer_brooch": {
-    "price": 48299
+    "price": 48298
   },
   "petrified_starfall": {
     "price": 324338
@@ -8628,7 +8628,7 @@
     "price": 482610
   },
   "enchanted_sulphur": {
-    "price": 1602
+    "price": 1603
   },
   "omega_egg": {
     "price": 888799
@@ -8637,10 +8637,10 @@
     "price": 7934
   },
   "furball": {
-    "price": 628477
+    "price": 622221
   },
   "giant_tooth": {
-    "price": 423938
+    "price": 423939
   },
   "optical_lens": {
     "price": 2397
@@ -8655,7 +8655,7 @@
     "price": 0
   },
   "aote_stone": {
-    "price": 5552928
+    "price": 7105697
   },
   "golden_ball": {
     "price": 1399998
@@ -8682,16 +8682,16 @@
     "price": 1571311
   },
   "rare_diamond": {
-    "price": 2699
+    "price": 2998
   },
   "jaderald": {
-    "price": 7799999
+    "price": 7830764
   },
   "nether_stalk_distillate": {
     "price": 7970
   },
   "crude_gabagool": {
-    "price": 460
+    "price": 463
   },
   "dragon_scale": {
     "price": 23997
@@ -8703,7 +8703,7 @@
     "price": 8379700
   },
   "hardened_wood": {
-    "price": 84744
+    "price": 84743
   },
   "heavy_gabagool": {
     "price": 479319
@@ -8748,28 +8748,28 @@
     "price": 10984663
   },
   "magma_urchin": {
-    "price": 2761441
+    "price": 2761439
   },
   "molten_powder": {
     "price": 579986
   },
   "rock_candy": {
-    "price": 48000
+    "price": 47999
   },
   "searing_stone": {
-    "price": 942156
+    "price": 921190
   },
   "blessed_fruit": {
-    "price": 1099000
+    "price": 1098999
   },
   "hot_stuff": {
-    "price": 109998
+    "price": 109997
   },
   "suspicious_vial": {
-    "price": 60259
+    "price": 60258
   },
   "red_nose": {
-    "price": 29998
+    "price": 16505
   },
   "dirt_bottle": {
     "price": 0
@@ -8784,19 +8784,19 @@
     "price": 1274271
   },
   "enchanted_mycelium": {
-    "price": 5277
+    "price": 5260
   },
   "precious_pearl": {
-    "price": 860000
+    "price": 919298
   },
   "scorched_books": {
-    "price": 5481425
+    "price": 5391782
   },
   "blaze_wax": {
     "price": 699999
   },
   "wither_blood": {
-    "price": 2299993
+    "price": 2299994
   },
   "shiny_prism": {
     "price": 852041
@@ -8805,22 +8805,22 @@
     "price": 289993
   },
   "flawed_opal_gem": {
-    "price": 562
+    "price": 561
   },
   "enchanted_red_sand": {
     "price": 8741
   },
   "fine_opal_gem": {
-    "price": 49994
+    "price": 49993
   },
   "perfect_opal_gem": {
-    "price": 15199998
+    "price": 15194999
   },
   "rough_opal_gem": {
     "price": 39
   },
   "flawless_opal_gem": {
-    "price": 3499998
+    "price": 3397999
   },
   "enchanted_red_sand_cube": {
     "price": 1222199
@@ -8832,16 +8832,16 @@
     "price": 19
   },
   "hot_bait": {
-    "price": 1447
+    "price": 1444
   },
   "magma_fish": {
-    "price": 423
+    "price": 404
   },
   "magma_fish_silver": {
-    "price": 20324
+    "price": 19999
   },
   "magma_fish_gold": {
-    "price": 1599996
+    "price": 1583064
   },
   "magma_fish_diamond": {
     "price": 44999997
@@ -8862,7 +8862,7 @@
     "price": 408859
   },
   "essence_dragon": {
-    "price": 78
+    "price": 79
   },
   "enchantment_blast_protection_7": {
     "price": 2706128
@@ -8904,43 +8904,43 @@
     "price": 350
   },
   "enchantment_angler_6": {
-    "price": 323999
+    "price": 292999
   },
   "essence_crimson": {
-    "price": 13125
+    "price": 13042
   },
   "enchantment_ultimate_bank_5": {
-    "price": 9504
+    "price": 8496
   },
   "enchantment_ultimate_bank_2": {
-    "price": 999
+    "price": 1062
   },
   "enchantment_ultimate_bank_1": {
-    "price": 594
+    "price": 531
   },
   "enchantment_ultimate_bank_4": {
-    "price": 4752
+    "price": 4248
   },
   "enchantment_ultimate_bank_3": {
-    "price": 2376
+    "price": 2124
   },
   "essence_diamond": {
     "price": 37
   },
   "essence_wither": {
-    "price": 2335
+    "price": 2333
   },
   "essence_undead": {
     "price": 587
   },
   "enchantment_bane_of_arthropods_6": {
-    "price": 5489
+    "price": 5305
   },
   "enchantment_bane_of_arthropods_7": {
     "price": 1999995
   },
   "first_master_star": {
-    "price": 7439176
+    "price": 7439175
   },
   "enchantment_sharpness_7": {
     "price": 87903375
@@ -8949,7 +8949,7 @@
     "price": 3169998
   },
   "enchantment_feather_falling_6": {
-    "price": 8
+    "price": 9
   },
   "enchantment_ultimate_no_pain_no_gain_2": {
     "price": 814
@@ -8964,19 +8964,19 @@
     "price": 3976395
   },
   "enchantment_turbo_coco_1": {
-    "price": 71999
+    "price": 69299
   },
   "enchantment_turbo_coco_5": {
-    "price": 1151984
+    "price": 1108784
   },
   "enchantment_turbo_coco_4": {
-    "price": 575992
+    "price": 554392
   },
   "enchantment_turbo_coco_2": {
-    "price": 143998
+    "price": 138598
   },
   "enchantment_turbo_coco_3": {
-    "price": 287996
+    "price": 277196
   },
   "enchantment_corruption_4": {
     "price": 11808
@@ -9006,22 +9006,22 @@
     "price": 2
   },
   "enchantment_turbo_cactus_5": {
-    "price": 2399984
+    "price": 2399968
   },
   "enchantment_cayenne_1": {
     "price": 16542
   },
   "enchantment_turbo_cactus_4": {
-    "price": 1199992
+    "price": 1199984
   },
   "enchantment_turbo_cactus_3": {
-    "price": 599996
+    "price": 599992
   },
   "enchantment_turbo_cactus_2": {
-    "price": 299998
+    "price": 299996
   },
   "enchantment_turbo_cactus_1": {
-    "price": 149999
+    "price": 149998
   },
   "enchantment_ender_slayer_7": {
     "price": 55500098
@@ -9030,7 +9030,7 @@
     "price": 1583935
   },
   "enchantment_thunderlord_6": {
-    "price": 2227
+    "price": 2278
   },
   "enchantment_turbo_melon_5": {
     "price": 1039968
@@ -9048,34 +9048,34 @@
     "price": 259992
   },
   "enchantment_strong_mana_7": {
-    "price": 11839424
+    "price": 11839360
   },
   "enchantment_turbo_melon_4": {
     "price": 519984
   },
   "enchantment_strong_mana_6": {
-    "price": 5919712
+    "price": 5919680
   },
   "enchantment_turbo_melon_1": {
     "price": 64998
   },
   "enchantment_strong_mana_5": {
-    "price": 2959856
+    "price": 2959840
   },
   "enchantment_strong_mana_4": {
-    "price": 1479928
+    "price": 1479920
   },
   "enchantment_turbo_melon_2": {
     "price": 129996
   },
   "enchantment_strong_mana_3": {
-    "price": 739964
+    "price": 739960
   },
   "enchantment_strong_mana_2": {
-    "price": 369982
+    "price": 369980
   },
   "enchantment_strong_mana_1": {
-    "price": 184991
+    "price": 184990
   },
   "enchantment_hardened_mana_1": {
     "price": 80999
@@ -9087,40 +9087,40 @@
     "price": 161998
   },
   "enchantment_ultimate_combo_1": {
-    "price": 49998
+    "price": 49997
   },
   "enchantment_ultimate_combo_2": {
     "price": 76369
   },
   "enchantment_ultimate_combo_5": {
-    "price": 711162
+    "price": 711163
   },
   "enchantment_ultimate_combo_4": {
-    "price": 399984
+    "price": 399976
   },
   "enchantment_ultimate_combo_3": {
-    "price": 199992
+    "price": 199988
   },
   "enchantment_strong_mana_9": {
-    "price": 47357696
+    "price": 47357440
   },
   "enchantment_strong_mana_8": {
-    "price": 23678848
+    "price": 23678720
   },
   "enchantment_turbo_warts_1": {
-    "price": 19536
+    "price": 19900
   },
   "enchantment_turbo_warts_2": {
-    "price": 39072
+    "price": 39800
   },
   "enchantment_turbo_warts_3": {
-    "price": 78144
+    "price": 79600
   },
   "enchantment_turbo_warts_4": {
-    "price": 156288
+    "price": 159200
   },
   "enchantment_turbo_warts_5": {
-    "price": 312576
+    "price": 318400
   },
   "enchantment_hardened_mana_5": {
     "price": 1295984
@@ -9159,10 +9159,10 @@
     "price": 31024699
   },
   "enchantment_mana_vampire_10": {
-    "price": 191329280
+    "price": 191329792
   },
   "enchantment_delicate_5": {
-    "price": 792153
+    "price": 849999
   },
   "enchantment_prosecute_6": {
     "price": 32999998
@@ -9186,22 +9186,22 @@
     "price": 62754
   },
   "enchantment_overload_4": {
-    "price": 6205272
+    "price": 6133232
   },
   "enchantment_overload_5": {
     "price": 11999999
   },
   "enchantment_overload_3": {
-    "price": 3102636
+    "price": 3066616
   },
   "enchantment_overload_2": {
-    "price": 1551318
+    "price": 1533308
   },
   "enchantment_overload_1": {
-    "price": 775659
+    "price": 766654
   },
   "second_master_star": {
-    "price": 15269407
+    "price": 15165289
   },
   "enchantment_fire_protection_6": {
     "price": 18070
@@ -9213,31 +9213,31 @@
     "price": 41471488
   },
   "enchantment_ultimate_jerry_2": {
-    "price": 3735
+    "price": 3548
   },
   "enchantment_ultimate_rend_3": {
     "price": 2860000
   },
   "enchantment_ultimate_jerry_1": {
-    "price": 3997
+    "price": 3996
   },
   "enchantment_ultimate_rend_2": {
     "price": 1149433
   },
   "enchantment_ultimate_rend_1": {
-    "price": 999999
+    "price": 999998
   },
   "enchantment_ultimate_jerry_5": {
-    "price": 63952
+    "price": 63936
   },
   "enchantment_ultimate_rend_5": {
-    "price": 15999984
+    "price": 15999968
   },
   "enchantment_ultimate_jerry_4": {
-    "price": 31976
+    "price": 31968
   },
   "enchantment_ultimate_rend_4": {
-    "price": 7999992
+    "price": 7999984
   },
   "enchantment_ultimate_jerry_3": {
     "price": 10664
@@ -9246,82 +9246,82 @@
     "price": 38999994
   },
   "enchantment_ultimate_wise_2": {
-    "price": 401488
+    "price": 396312
   },
   "enchantment_ultimate_wise_1": {
-    "price": 200744
+    "price": 198156
   },
   "enchantment_ultimate_wise_4": {
-    "price": 1605952
+    "price": 1585248
   },
   "enchantment_ultimate_wise_3": {
-    "price": 802976
+    "price": 792624
   },
   "enchantment_true_protection_1": {
     "price": 996998
   },
   "enchantment_smarty_pants_3": {
-    "price": 1664568
+    "price": 1707764
   },
   "enchantment_ultimate_wise_5": {
-    "price": 3211904
+    "price": 3170496
   },
   "enchantment_smarty_pants_2": {
-    "price": 832284
+    "price": 853882
   },
   "enchantment_smarty_pants_5": {
-    "price": 6658272
+    "price": 6831056
   },
   "enchantment_smarty_pants_4": {
-    "price": 3329136
+    "price": 3415528
   },
   "enchantment_smarty_pants_1": {
-    "price": 416142
+    "price": 426941
   },
   "enchantment_lure_6": {
     "price": 7019
   },
   "enchantment_ferocious_mana_8": {
-    "price": 83727616
+    "price": 83727488
   },
   "enchantment_ferocious_mana_9": {
-    "price": 167455232
+    "price": 167454976
   },
   "enchantment_ferocious_mana_5": {
-    "price": 10465952
+    "price": 10465936
   },
   "enchantment_ferocious_mana_6": {
-    "price": 20931904
+    "price": 20931872
   },
   "enchantment_ferocious_mana_7": {
-    "price": 41863808
+    "price": 41863744
   },
   "enchantment_magnet_6": {
     "price": 1
   },
   "enchantment_ferocious_mana_2": {
-    "price": 1308244
+    "price": 1308242
   },
   "enchantment_ferocious_mana_1": {
-    "price": 654122
+    "price": 654121
   },
   "enchantment_projectile_protection_7": {
     "price": 599998
   },
   "enchantment_ferocious_mana_3": {
-    "price": 2616488
+    "price": 2616484
   },
   "enchantment_champion_10": {
     "price": 0
   },
   "enchantment_projectile_protection_6": {
-    "price": 89999999
+    "price": 40000000
   },
   "enchantment_dragon_hunter_4": {
     "price": 9040000
   },
   "enchantment_dragon_hunter_5": {
-    "price": 15000000
+    "price": 17007999
   },
   "enchantment_dragon_hunter_2": {
     "price": 2260000
@@ -9330,49 +9330,49 @@
     "price": 1130000
   },
   "enchantment_charm_2": {
-    "price": 577298
+    "price": 562310
   },
   "enchantment_charm_3": {
-    "price": 1154596
+    "price": 1124620
   },
   "enchantment_charm_1": {
-    "price": 288649
+    "price": 281155
   },
   "enchantment_charm_4": {
-    "price": 2309192
+    "price": 2249240
   },
   "enchantment_charm_5": {
-    "price": 4618384
+    "price": 4498480
   },
   "enchantment_ultimate_swarm_5": {
-    "price": 9278544
+    "price": 10250944
   },
   "enchantment_turbo_wheat_3": {
-    "price": 76480
+    "price": 70472
   },
   "enchantment_turbo_wheat_4": {
-    "price": 152960
+    "price": 140944
   },
   "enchantment_turbo_wheat_1": {
-    "price": 19120
+    "price": 17618
   },
   "enchantment_turbo_wheat_2": {
-    "price": 38240
+    "price": 35236
   },
   "enchantment_ultimate_swarm_3": {
-    "price": 2319636
+    "price": 2562736
   },
   "enchantment_ultimate_swarm_4": {
-    "price": 4639272
+    "price": 5125472
   },
   "enchantment_ultimate_swarm_1": {
-    "price": 579909
+    "price": 640684
   },
   "enchantment_turbo_wheat_5": {
-    "price": 305920
+    "price": 281888
   },
   "enchantment_ultimate_swarm_2": {
-    "price": 1159818
+    "price": 1281368
   },
   "enchantment_sugar_rush_3": {
     "price": 1602076
@@ -9384,43 +9384,43 @@
     "price": 400519
   },
   "enchantment_growth_6": {
-    "price": 5293630
+    "price": 5293631
   },
   "enchantment_growth_7": {
     "price": 120173102
   },
   "enchantment_ultimate_chimera_1": {
-    "price": 87999997
+    "price": 87649997
   },
   "enchantment_ultimate_last_stand_5": {
-    "price": 4736000
+    "price": 4735984
   },
   "enchantment_ultimate_last_stand_4": {
-    "price": 2368000
+    "price": 2367992
   },
   "enchantment_ultimate_chimera_5": {
-    "price": 1407999952
+    "price": 1402399952
   },
   "enchantment_ultimate_last_stand_3": {
-    "price": 1184000
+    "price": 1183996
   },
   "enchantment_ultimate_last_stand_2": {
-    "price": 574798
+    "price": 582327
   },
   "enchantment_ultimate_chimera_4": {
-    "price": 703999976
+    "price": 701199976
   },
   "enchantment_ultimate_last_stand_1": {
-    "price": 296000
+    "price": 295999
   },
   "enchantment_ultimate_chimera_3": {
-    "price": 351999988
+    "price": 350599988
   },
   "enchantment_ultimate_chimera_2": {
-    "price": 175999994
+    "price": 175299994
   },
   "enchantment_feather_falling_10": {
-    "price": 36318
+    "price": 44997
   },
   "enchantment_smoldering_5": {
     "price": 89599984
@@ -9438,13 +9438,13 @@
     "price": 11199998
   },
   "enchantment_critical_6": {
-    "price": 21692
+    "price": 21693
   },
   "farming_for_dummies": {
     "price": 174695
   },
   "enchantment_critical_7": {
-    "price": 79999995
+    "price": 77719378
   },
   "shadow_warp_scroll": {
     "price": 32866367
@@ -9453,37 +9453,37 @@
     "price": 9065086
   },
   "enchantment_ultimate_reiterate_1": {
-    "price": 14699999
+    "price": 14400000
   },
   "enchantment_ultimate_reiterate_4": {
-    "price": 117599992
+    "price": 115200000
   },
   "enchantment_ultimate_reiterate_5": {
-    "price": 235199984
+    "price": 230400000
   },
   "enchantment_ultimate_reiterate_2": {
-    "price": 29399998
+    "price": 28800000
   },
   "enchantment_ultimate_reiterate_3": {
-    "price": 58799996
+    "price": 57600000
   },
   "enchantment_venomous_6": {
     "price": 33999999
   },
   "enchantment_strong_mana_10": {
-    "price": 94715392
+    "price": 94714880
   },
   "enchantment_feather_falling_7": {
-    "price": 21867
+    "price": 20774
   },
   "wither_shield_scroll": {
     "price": 49000000
   },
   "enchantment_feather_falling_9": {
-    "price": 9020
+    "price": 9999
   },
   "enchantment_feather_falling_8": {
-    "price": 17000
+    "price": 20000
   },
   "enchantment_compact_1": {
     "price": 1699999
@@ -9501,7 +9501,7 @@
     "price": 18499996
   },
   "enchantment_ferocious_mana_10": {
-    "price": 334910464
+    "price": 334909952
   },
   "enchantment_pristine_3": {
     "price": 4799984
@@ -9510,10 +9510,10 @@
     "price": 13010539
   },
   "enchantment_life_steal_4": {
-    "price": 227618
+    "price": 240563
   },
   "fifth_master_star": {
-    "price": 89049991
+    "price": 89049990
   },
   "enchantment_tabasco_3": {
     "price": 250000
@@ -9522,106 +9522,106 @@
     "price": 11
   },
   "transmission_tuner": {
-    "price": 99794
+    "price": 102992
   },
   "enchantment_tabasco_2": {
     "price": 6
   },
   "enchantment_mana_vampire_1": {
-    "price": 373690
+    "price": 373691
   },
   "enchantment_mana_vampire_2": {
-    "price": 747380
+    "price": 747382
   },
   "enchantment_mana_vampire_4": {
-    "price": 2989520
+    "price": 2989528
   },
   "enchantment_mana_vampire_3": {
-    "price": 1494760
+    "price": 1494764
   },
   "enchantment_mana_vampire_5": {
-    "price": 5979040
+    "price": 5979056
   },
   "enchantment_mana_vampire_8": {
-    "price": 47832320
+    "price": 47832448
   },
   "enchantment_mana_vampire_7": {
-    "price": 23916160
+    "price": 23916224
   },
   "enchantment_mana_vampire_9": {
-    "price": 95664640
+    "price": 95664896
   },
   "enchantment_titan_killer_7": {
-    "price": 6627139
+    "price": 6381566
   },
   "enchantment_titan_killer_6": {
-    "price": 73213
+    "price": 67092
   },
   "enchantment_power_7": {
     "price": 114999998
   },
   "enchantment_power_6": {
-    "price": 582000
+    "price": 582999
   },
   "enchantment_vampirism_6": {
     "price": 426773
   },
   "enchantment_cultivating_1": {
-    "price": 1999999
+    "price": 1999998
   },
   "enchantment_ultimate_soul_eater_1": {
-    "price": 1232658
+    "price": 1232657
   },
   "enchantment_ultimate_soul_eater_3": {
-    "price": 4930632
+    "price": 4930628
   },
   "enchantment_ultimate_soul_eater_2": {
-    "price": 2465316
+    "price": 2465314
   },
   "enchantment_ultimate_soul_eater_5": {
     "price": 19529996
   },
   "enchantment_ultimate_soul_eater_4": {
-    "price": 9861264
+    "price": 9861256
   },
   "enchantment_chance_5": {
-    "price": 39105778
+    "price": 37229395
   },
   "enchantment_chance_4": {
     "price": 8985
   },
   "enchantment_ultimate_flash_2": {
-    "price": 14000000
+    "price": 13999998
   },
   "enchantment_ultimate_flash_1": {
-    "price": 10000000
+    "price": 6999999
   },
   "enchantment_ultimate_flash_4": {
-    "price": 80000000
+    "price": 55999992
   },
   "enchantment_ultimate_flash_3": {
-    "price": 40000000
+    "price": 27999996
   },
   "enchantment_first_strike_5": {
     "price": 222299995
   },
   "enchantment_ultimate_flash_5": {
-    "price": 160000000
+    "price": 111999984
   },
   "enchantment_turbo_pumpkin_1": {
-    "price": 142718
+    "price": 135808
   },
   "enchantment_turbo_pumpkin_2": {
-    "price": 285436
+    "price": 271616
   },
   "enchantment_turbo_pumpkin_3": {
-    "price": 570872
+    "price": 543232
   },
   "enchantment_turbo_pumpkin_4": {
-    "price": 1141744
+    "price": 1086464
   },
   "enchantment_turbo_pumpkin_5": {
-    "price": 2283488
+    "price": 2172928
   },
   "enchantment_ultimate_fatal_tempo_5": {
     "price": 2716800144
@@ -9645,7 +9645,7 @@
     "price": 4699999
   },
   "enchantment_champion_1": {
-    "price": 1699995
+    "price": 1699994
   },
   "enchantment_champion_3": {
     "price": 0
@@ -9672,25 +9672,25 @@
     "price": 0
   },
   "enchantment_ultimate_one_for_all_1": {
-    "price": 6468831
+    "price": 6468830
   },
   "enchantment_snipe_4": {
-    "price": 170000000
+    "price": 199319999
   },
   "enchantment_ultimate_legion_1": {
-    "price": 1164020
+    "price": 1173920
   },
   "enchantment_ultimate_legion_2": {
-    "price": 2328040
+    "price": 2347840
   },
   "enchantment_ultimate_legion_5": {
-    "price": 18624320
+    "price": 18782720
   },
   "enchantment_ultimate_legion_3": {
-    "price": 4656080
+    "price": 4695680
   },
   "enchantment_ultimate_legion_4": {
-    "price": 9312160
+    "price": 9391360
   },
   "enchantment_hecatomb_10": {
     "price": 0
@@ -9711,28 +9711,28 @@
     "price": 207890
   },
   "enchantment_rejuvenate_1": {
-    "price": 32342
+    "price": 31013
   },
   "enchantment_cleave_6": {
     "price": 16239998
   },
   "enchantment_rejuvenate_5": {
-    "price": 517472
+    "price": 496208
   },
   "enchantment_vicious_3": {
     "price": 15713125
   },
   "enchantment_rejuvenate_4": {
-    "price": 258736
+    "price": 248104
   },
   "enchantment_vicious_4": {
     "price": 300
   },
   "enchantment_rejuvenate_3": {
-    "price": 129368
+    "price": 124052
   },
   "enchantment_rejuvenate_2": {
-    "price": 60793
+    "price": 62026
   },
   "enchantment_vicious_5": {
     "price": 64999999
@@ -9744,7 +9744,7 @@
     "price": 61493
   },
   "enchantment_giant_killer_6": {
-    "price": 1556145
+    "price": 1556147
   },
   "enchantment_giant_killer_7": {
     "price": 117001562
@@ -9774,28 +9774,28 @@
     "price": 983888
   },
   "enchantment_turbo_cane_4": {
-    "price": 286872
+    "price": 286880
   },
   "enchantment_turbo_cane_3": {
-    "price": 143436
+    "price": 143440
   },
   "enchantment_turbo_cane_2": {
-    "price": 71718
+    "price": 71720
   },
   "enchantment_turbo_cane_1": {
-    "price": 35859
+    "price": 35860
   },
   "enchantment_turbo_cane_5": {
-    "price": 573744
+    "price": 573760
   },
   "third_master_star": {
-    "price": 21487997
+    "price": 21487996
   },
   "enchantment_fortune_4": {
-    "price": 749999
+    "price": 816908
   },
   "wood_singularity": {
-    "price": 6000000
+    "price": 7799999
   },
   "enchantment_frail_6": {
     "price": 1932
@@ -9825,7 +9825,7 @@
     "price": 19999999
   },
   "enchantment_looting_5": {
-    "price": 161000000
+    "price": 161651288
   },
   "enchantment_cubism_6": {
     "price": 77719012
@@ -9864,13 +9864,13 @@
     "price": 299
   },
   "enchantment_luck_7": {
-    "price": 166999990
+    "price": 166999989
   },
   "enchantment_infinite_quiver_8": {
     "price": 4497
   },
   "enchantment_infinite_quiver_9": {
-    "price": 12159
+    "price": 12160
   },
   "enchantment_infinite_quiver_6": {
     "price": 9
@@ -9879,34 +9879,34 @@
     "price": 857
   },
   "enchantment_ultimate_wisdom_4": {
-    "price": 1319968
+    "price": 1315992
   },
   "enchantment_turbo_potato_3": {
-    "price": 185592
+    "price": 185596
   },
   "enchantment_ultimate_wisdom_5": {
-    "price": 2639936
+    "price": 2631984
   },
   "enchantment_turbo_potato_4": {
-    "price": 371184
+    "price": 371192
   },
   "enchantment_turbo_potato_5": {
-    "price": 742368
+    "price": 742384
   },
   "enchantment_ultimate_wisdom_1": {
-    "price": 164996
+    "price": 164499
   },
   "enchantment_turbo_potato_1": {
-    "price": 46398
+    "price": 46399
   },
   "enchantment_ultimate_wisdom_2": {
-    "price": 329992
+    "price": 328998
   },
   "enchantment_ultimate_wisdom_3": {
-    "price": 659984
+    "price": 657996
   },
   "enchantment_turbo_potato_2": {
-    "price": 92796
+    "price": 92798
   },
   "enchantment_ultimate_habanero_tactics_5": {
     "price": 96003
@@ -9918,7 +9918,7 @@
     "price": 4986243
   },
   "enchantment_harvesting_6": {
-    "price": 170000
+    "price": 174999
   },
   "enchantment_triple_strike_5": {
     "price": 34999999
@@ -9942,10 +9942,10 @@
     "price": 3143495
   },
   "glowy_chum_bait": {
-    "price": 1497
+    "price": 1496
   },
   "pitchin_koi": {
-    "price": 101487
+    "price": 108520
   },
   "enchantment_piscary_6": {
     "price": 899998
@@ -9963,7 +9963,7 @@
     "price": 110399996
   },
   "diver_fragment": {
-    "price": 266416
+    "price": 266042
   },
   "winter_water_orb": {
     "price": 1186088
