@@ -1314,7 +1314,7 @@
     "price": 15500000
   },
   "fly_swatter": {
-    "price": 580800
+    "price": 601000
   },
   "foraging_1_portal": {
     "price": 56627
@@ -2252,6 +2252,9 @@
   "lvl_100_common_jerry_skinned_jerry_green_elf": {
     "price": 149999999
   },
+  "lvl_100_common_jerry_skinned_jerry_handsome": {
+    "price": 10000000
+  },
   "lvl_100_common_lion": {
     "price": 4500000
   },
@@ -2774,6 +2777,9 @@
   "lvl_100_legendary_rat": {
     "price": 21000000
   },
+  "lvl_100_legendary_rat_skinned_rat_hide_and_squeak": {
+    "price": 35000000
+  },
   "lvl_100_legendary_rock": {
     "price": 17890000
   },
@@ -2819,6 +2825,12 @@
   "lvl_100_legendary_sheep_skinned_sheep_black": {
     "price": 1444444444
   },
+  "lvl_100_legendary_sheep_skinned_sheep_black_wooly": {
+    "price": 24999000
+  },
+  "lvl_100_legendary_sheep_skinned_sheep_chroma_wooly": {
+    "price": 25000000
+  },
   "lvl_100_legendary_sheep_skinned_sheep_light_blue": {
     "price": 425000000
   },
@@ -2845,6 +2857,9 @@
   },
   "lvl_100_legendary_sheep_skinned_sheep_white": {
     "price": 475000000
+  },
+  "lvl_100_legendary_sheep_skinned_sheep_white_wooly": {
+    "price": 24999990
   },
   "lvl_100_legendary_silverfish": {
     "price": 3000000
@@ -3653,6 +3668,9 @@
   "lvl_1_legendary_sheep": {
     "price": 5000000
   },
+  "lvl_1_legendary_sheep_skinned_sheep_black_wooly": {
+    "price": 8550000
+  },
   "lvl_1_legendary_sheep_skinned_sheep_pink": {
     "price": 550000000
   },
@@ -3981,7 +3999,7 @@
     "price": 13000000
   },
   "lvl_1_uncommon_wolf": {
-    "price": 170000
+    "price": 175000
   },
   "lvl_1_uncommon_zombie": {
     "price": 150000
@@ -4160,6 +4178,9 @@
   "map:34": {
     "price": 25000
   },
+  "map:35": {
+    "price": 150000
+  },
   "map:36": {
     "price": 49000
   },
@@ -4237,6 +4258,9 @@
   },
   "map:73": {
     "price": 1000000
+  },
+  "map:80": {
+    "price": 100000
   },
   "map:89": {
     "price": 100000
@@ -5697,7 +5721,7 @@
     "price": 45000000
   },
   "pet_skin_rock_sus": {
-    "price": 49975000
+    "price": 51500000
   },
   "pet_skin_rock_sweating": {
     "price": 53999900
@@ -5763,7 +5787,7 @@
     "price": 500000000
   },
   "pet_skin_whale_orca": {
-    "price": 46000000
+    "price": 46888000
   },
   "pet_skin_wither": {
     "price": 124000000
@@ -5923,6 +5947,9 @@
   },
   "quartz_stairs:1": {
     "price": 7000000
+  },
+  "racing_helmet": {
+    "price": 456456456
   },
   "radiant_power_orb": {
     "price": 42999
@@ -10276,32 +10303,5 @@
   },
   "snow_cannon": {
     "price": 1000
-  },
-  "lvl_100_legendary_sheep_skinned_sheep_black_wooly": {
-    "price": 24999000
-  },
-  "lvl_100_legendary_sheep_skinned_sheep_chroma_wooly": {
-    "price": 25000000
-  },
-  "lvl_1_legendary_sheep_skinned_sheep_black_wooly": {
-    "price": 8550000
-  },
-  "lvl_100_legendary_sheep_skinned_sheep_white_wooly": {
-    "price": 24999990
-  },
-  "racing_helmet": {
-    "price": 456456456
-  },
-  "map:35": {
-    "price": 150000
-  },
-  "map:80": {
-    "price": 100000
-  },
-  "lvl_100_common_jerry_skinned_jerry_handsome": {
-    "price": 10000000
-  },
-  "lvl_100_legendary_rat_skinned_rat_hide_and_squeak": {
-    "price": 35000000
   }
 }
