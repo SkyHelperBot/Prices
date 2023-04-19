@@ -491,7 +491,7 @@
   "fire_veil_wand": 12400000,
   "fish_affinity_talisman": 200000,
   "fish_hat": 696,
-  "fish_personality": 180000,
+  "fish_personality": 125000,
   "flamebreaker_boots": 600000,
   "flamebreaker_chestplate": 1000000,
   "flamebreaker_helmet": 1399999,
@@ -4194,5 +4194,11 @@
   "red_rose": 44.461589403973505,
   "terry_snowglobe": 41.1,
   "wool": 24.765974025974025,
-  "yellow_flower": 399.2
+  "yellow_flower": 399.2,
+  "hay_bale": 5000,
+  "dungeon_decoy": 355.88996539792385,
+  "dungeon_trap": 3.7280267558528433,
+  "enchanted_wool": 744.554691689008,
+  "fel_pearl": 809.9,
+  "inflatable_jerry": 6.196265560165974
 }
