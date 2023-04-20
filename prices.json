@@ -202,7 +202,7 @@
   "burststopper_talisman": 72500000,
   "cactus_boots": 10,
   "cactus_chestplate": 5,
-  "cactus_helmet": 9,
+  "cactus_helmet": 10,
   "cactus_knife": 3800000,
   "candy_artifact": 1000000,
   "candy_relic": 17500000,
@@ -1871,7 +1871,7 @@
   "new_year_cake_235": 370000,
   "new_year_cake_236": 425000,
   "new_year_cake_237": 290000,
-  "new_year_cake_238": 300000,
+  "new_year_cake_238": 339999,
   "new_year_cake_239": 350000,
   "new_year_cake_24": 454545,
   "new_year_cake_240": 350000,
@@ -4201,6 +4201,6 @@
   "enchanted_wool": 461,
   "fel_pearl": 857.9,
   "inflatable_jerry": 0.9999874733809345,
-  "cactus_leggings": 15,
+  "cactus_leggings": 17,
   "poisonous_potato": 152.1
 }
